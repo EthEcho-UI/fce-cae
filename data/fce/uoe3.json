@@ -1,0 +1,383 @@
+{
+  "level": "fce",
+  "part": "uoe3",
+  "sets": [
+    {
+      "id": "fce-uoe3-01",
+      "type": "wordFormation",
+      "title": "The Four-Day Working Week",
+      "topic": "work",
+      "source": "original",
+      "text": [
+        "A growing number of companies around the world are experimenting with a four-day week, hoping to improve staff {{1}} without reducing output. Early trials suggest that, {{2}}, employees often get just as much work done in four days as they used to in five.",
+        "One of the main concerns before the trials began was that a shorter week would make the workplace less {{3}}, but most managers found the opposite was true. Teams became better at {{4}} their time, cutting out long meetings and unnecessary emails.",
+        "Not everyone is {{5}}, though: some workers in client-facing roles say a four-day week is simply {{6}} in their industry, since customers expect {{7}} support throughout the week. Even so, supporters argue that with careful planning, almost any job can adapt {{8}}."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "SATISFY",
+          "answers": [
+            "satisfaction"
+          ],
+          "explanation": "The noun 'satisfaction' is formed by adding the suffix '-ion' and a spelling change to the verb 'satisfy'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "stem": "SURPRISE",
+          "answers": [
+            "surprisingly"
+          ],
+          "explanation": "The adverb 'surprisingly' is formed with the suffix '-ly' and modifies the whole following clause.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "stem": "PRODUCE",
+          "answers": [
+            "productive"
+          ],
+          "explanation": "The adjective 'productive' is formed with the suffix '-ive'; 'less productive' describes the workplace.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "stem": "MANAGE",
+          "answers": [
+            "managing"
+          ],
+          "explanation": "The '-ing' form 'managing' is needed after the preposition 'at'.",
+          "tag": "word-formation-verb",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "stem": "CONVINCE",
+          "answers": [
+            "convinced"
+          ],
+          "explanation": "The adjective 'convinced' (past participle used as adjective) describes a person's state of belief.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "stem": "PRACTICAL",
+          "answers": [
+            "impractical"
+          ],
+          "explanation": "The negative prefix 'im-' before 'practical' gives the opposite meaning, 'not practical'.",
+          "tag": "word-formation-negative",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "stem": "CONTINUE",
+          "answers": [
+            "continuous",
+            "continual"
+          ],
+          "explanation": "The adjective 'continuous' (uninterrupted) or 'continual' (repeated regularly) can both describe support available throughout the week.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "stem": "SUCCESS",
+          "answers": [
+            "successfully"
+          ],
+          "explanation": "The adverb 'successfully' is formed with the suffix '-fully' and modifies the verb 'adapt'.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe3-02",
+      "type": "wordFormation",
+      "title": "Why Some People Fear New Technology",
+      "topic": "science",
+      "source": "original",
+      "text": [
+        "Throughout history, {{1}} inventions have often been met with suspicion rather than excitement. When fingerprint scanners first appeared on phones, some people genuinely believed companies could steal a person's {{2}}.",
+        "Psychologists suggest that this kind of {{3}} often comes from a fear of the unknown rather than any {{4}} evidence that the technology is dangerous. In fact, most fears about new inventions turn out to be {{5}} once people become familiar with them.",
+        "Even so, experts warn against {{6}} dismissing every concern as irrational, since some worries about privacy and safety are perfectly {{7}}. The challenge for society is the careful {{8}} of new technology, rather than rejecting or accepting it without question."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "REVOLUTION",
+          "answers": [
+            "revolutionary"
+          ],
+          "explanation": "The adjective 'revolutionary' is formed with the suffix '-ary' and describes inventions that bring dramatic change.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "stem": "IDENTIFY",
+          "answers": [
+            "identity"
+          ],
+          "explanation": "The noun 'identity' is the related noun form of the verb 'identify'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "stem": "REACT",
+          "answers": [
+            "reaction"
+          ],
+          "explanation": "The noun 'reaction' is formed with the suffix '-ion' and acts as the subject of 'comes from'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "stem": "SCIENCE",
+          "answers": [
+            "scientific"
+          ],
+          "explanation": "The adjective 'scientific' is formed with the suffix '-ific' and describes the type of evidence.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "stem": "GROUND",
+          "answers": [
+            "groundless"
+          ],
+          "explanation": "The negative adjective 'groundless' (with suffix '-less') means 'without any basis'.",
+          "tag": "word-formation-negative",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "stem": "AUTOMATE",
+          "answers": [
+            "automatically"
+          ],
+          "explanation": "The adverb 'automatically' is formed with the suffix '-ally' and modifies 'dismissing'.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "stem": "REASON",
+          "answers": [
+            "reasonable"
+          ],
+          "explanation": "The adjective 'reasonable' is formed with the suffix '-able' and means 'fair and sensible'.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "stem": "EVALUATE",
+          "answers": [
+            "evaluation"
+          ],
+          "explanation": "The noun 'evaluation' is formed with the suffix '-ion' and fits after 'the careful'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe3-03",
+      "type": "wordFormation",
+      "title": "The Lost Art of Getting Lost",
+      "topic": "travel",
+      "source": "original",
+      "text": [
+        "Before smartphones, travellers often had no choice but to rely on paper maps and a certain amount of {{1}}. Many older travellers say they miss the {{2}} of discovering a hidden café purely by accident.",
+        "GPS apps have made travel far more {{3}}, since it is now almost {{4}} to get seriously lost in a city. However, some psychologists argue that this gradual increase in convenience has {{5}} reduced our sense of direction.",
+        "A small number of travel companies now offer {{6}} tours that deliberately avoid maps and itineraries, encouraging guests to wander {{7}} and see what they find. Supporters say the {{8}} of a little uncertainty is part of what makes travel memorable."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "GUESS",
+          "answers": [
+            "guesswork"
+          ],
+          "explanation": "The noun 'guesswork' describes making decisions without complete information.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "stem": "EXCITE",
+          "answers": [
+            "excitement"
+          ],
+          "explanation": "The noun 'excitement' is formed with the suffix '-ment' from the verb 'excite'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "stem": "CONVENIENCE",
+          "answers": [
+            "convenient"
+          ],
+          "explanation": "The adjective 'convenient' is the related adjective form of the noun 'convenience'.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "stem": "POSSIBLE",
+          "answers": [
+            "impossible"
+          ],
+          "explanation": "The negative prefix 'im-' before 'possible' means 'not possible'.",
+          "tag": "word-formation-negative",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "stem": "QUIET",
+          "answers": [
+            "quietly"
+          ],
+          "explanation": "The adverb 'quietly' is formed with the suffix '-ly' and modifies 'reduced'.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "stem": "STRUCTURE",
+          "answers": [
+            "unstructured"
+          ],
+          "explanation": "The negative adjective 'unstructured' (prefix 'un-') describes tours with no fixed plan.",
+          "tag": "word-formation-negative",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "stem": "AIM",
+          "answers": [
+            "aimlessly"
+          ],
+          "explanation": "The adverb 'aimlessly' is formed with the suffix '-lessly' and describes wandering without a goal.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "stem": "PRESENT",
+          "answers": [
+            "presence"
+          ],
+          "explanation": "The noun 'presence' is formed with the suffix '-ence' from the verb 'present' and means 'the fact of something existing'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe3-04",
+      "type": "wordFormation",
+      "title": "The Science of a Good Night's Sleep",
+      "topic": "health",
+      "source": "original",
+      "text": [
+        "Doctors increasingly describe sleep as a {{1}} part of good health, not an optional extra. Yet a surprising number of adults experience regular sleep {{2}} without even realising it.",
+        "Experts recommend going to bed at a {{3}} time each night, since an irregular schedule can confuse the body's internal clock. People who sleep well also tend to report feeling more {{4}} and better able to concentrate the next day.",
+        "Poor sleep has also been linked to {{5}} decision-making and a {{6}} immune system, making people more likely to catch common illnesses. {{7}}, researchers say that even small improvements, such as avoiding screens before bed, can make a noticeable difference. For most people, better sleep begins with {{8}}, not expensive gadgets or supplements."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "BASE",
+          "answers": [
+            "basic"
+          ],
+          "explanation": "The adjective 'basic' is formed with the suffix '-ic' and means 'fundamental'.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "stem": "DEPRIVE",
+          "answers": [
+            "deprivation"
+          ],
+          "explanation": "The noun 'deprivation' is formed with the suffix '-ation' from the verb 'deprive'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "stem": "FIX",
+          "answers": [
+            "fixed"
+          ],
+          "explanation": "The adjective 'fixed' (past participle used as adjective) describes a time that does not change.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "stem": "ENERGY",
+          "answers": [
+            "energetic"
+          ],
+          "explanation": "The adjective 'energetic' is formed with the suffix '-etic' from the noun 'energy'.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "stem": "IMPAIR",
+          "answers": [
+            "impaired"
+          ],
+          "explanation": "The adjective 'impaired' (past participle used as adjective) describes decision-making that works less well than normal.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "stem": "WEAKEN",
+          "answers": [
+            "weakened"
+          ],
+          "explanation": "The adjective 'weakened' (past participle used as adjective) describes an immune system that has become less effective.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "stem": "ENCOURAGE",
+          "answers": [
+            "encouragingly"
+          ],
+          "explanation": "The adverb 'encouragingly' is formed with the suffix '-ingly' and introduces a positive comment on the following clause.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "stem": "CONSIST",
+          "answers": [
+            "consistency"
+          ],
+          "explanation": "The noun 'consistency' is formed with the suffix '-ency' from the verb 'consist' and means 'doing something the same way regularly'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+{
+  "level": "fce",
+  "part": "uoe4",
+  "sets": [
+    {
+      "id": "fce-uoe4-01",
+      "type": "transformation",
+      "title": "Everyday Transformations 1",
+      "topic": "general",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "I regret not studying harder at school.",
+          "keyword": "WISH",
+          "before": "I",
+          "after": "harder at school.",
+          "answers": [
+            "wish i had studied",
+            "wish i'd studied"
+          ],
+          "explanation": "'Wish + subject + had + past participle' expresses regret about a past action.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "They are building a new stadium in the city centre.",
+          "keyword": "BUILT",
+          "before": "A new stadium",
+          "after": "in the city centre.",
+          "answers": [
+            "is being built"
+          ],
+          "explanation": "The present continuous passive ('is being + past participle') is used because the action is in progress now and the agent is not important.",
+          "tag": "passive"
+        },
+        {
+          "n": 3,
+          "first": "'I will finish the report by Friday,' Tom told his manager.",
+          "keyword": "TOLD",
+          "before": "Tom",
+          "after": "he would finish the report by Friday.",
+          "answers": [
+            "told his manager that",
+            "told his manager"
+          ],
+          "explanation": "Reported speech backshifts 'will' to 'would'; 'that' after 'told his manager' is optional.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 4,
+          "first": "Nobody in the class is as tall as Peter.",
+          "keyword": "TALLEST",
+          "before": "Peter",
+          "after": "in the class.",
+          "answers": [
+            "is the tallest",
+            "'s the tallest"
+          ],
+          "explanation": "The superlative 'the tallest' is used to compare one person with everyone else in a group.",
+          "tag": "comparison"
+        },
+        {
+          "n": 5,
+          "first": "It isn't necessary for you to finish the report today.",
+          "keyword": "NEED",
+          "before": "You",
+          "after": "finish the report today.",
+          "answers": [
+            "don't need to",
+            "do not need to",
+            "need not",
+            "needn't"
+          ],
+          "explanation": "'Don't need to'/'need not' are semi-modal/modal forms meaning there is no obligation to do something.",
+          "tag": "modal"
+        },
+        {
+          "n": 6,
+          "first": "Could you look after my cat while I'm away?",
+          "keyword": "MIND",
+          "before": "Would you",
+          "after": "my cat while I'm away?",
+          "answers": [
+            "mind looking after"
+          ],
+          "explanation": "'Would you mind + verb-ing' is a polite way of making a request; 'look after' becomes 'looking after'.",
+          "tag": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe4-02",
+      "type": "transformation",
+      "title": "Everyday Transformations 2",
+      "topic": "general",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "If you don't leave now, you will miss the train.",
+          "keyword": "UNLESS",
+          "before": "You will miss the train",
+          "after": "now.",
+          "answers": [
+            "unless you leave"
+          ],
+          "explanation": "'Unless' means 'if...not', so 'if you don't leave' becomes 'unless you leave', keeping the same future meaning.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "Tom is less experienced than his colleague Sarah.",
+          "keyword": "AS",
+          "before": "Tom",
+          "after": "Sarah.",
+          "answers": [
+            "is not as experienced as",
+            "isn't as experienced as"
+          ],
+          "explanation": "'Less...than' can be rephrased as a negative equal comparison: 'not as...as'.",
+          "tag": "comparison"
+        },
+        {
+          "n": 3,
+          "first": "'Where did you put the keys?' she asked me.",
+          "keyword": "WANTED",
+          "before": "She",
+          "after": "I had put the keys.",
+          "answers": [
+            "wanted to know where"
+          ],
+          "explanation": "Reported questions use normal word order, not inversion; 'wanted to know' reports the question, and 'did...put' backshifts to 'had put'.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 4,
+          "first": "People say that this painting is worth millions.",
+          "keyword": "SAID",
+          "before": "This painting",
+          "after": "to be worth millions.",
+          "answers": [
+            "is said"
+          ],
+          "explanation": "'People say that + clause' can be rephrased with the passive pattern 'subject + is said + to-infinitive'.",
+          "tag": "passive"
+        },
+        {
+          "n": 5,
+          "first": "Could you please reduce the volume of the TV?",
+          "keyword": "DOWN",
+          "before": "Could you",
+          "after": "the TV?",
+          "answers": [
+            "turn down the volume of",
+            "turn down the volume on"
+          ],
+          "explanation": "'Turn down' is a phrasal verb meaning to reduce the volume or level of something; both 'of' and 'on' are used before the device.",
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "first": "It was a mistake for him to sell his old car.",
+          "keyword": "SHOULDN'T",
+          "before": "He",
+          "after": "sold his old car.",
+          "answers": [
+            "shouldn't have",
+            "should not have"
+          ],
+          "explanation": "'Shouldn't have + past participle' criticises a past action, showing it happened but was the wrong decision.",
+          "tag": "modal"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe4-03",
+      "type": "transformation",
+      "title": "Everyday Transformations 3",
+      "topic": "general",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "The committee will announce the results next week.",
+          "keyword": "BE",
+          "before": "The results",
+          "after": "next week.",
+          "answers": [
+            "will be announced"
+          ],
+          "explanation": "The future passive ('will be + past participle') is used because the focus is on the results, not on who announces them.",
+          "tag": "passive"
+        },
+        {
+          "n": 2,
+          "first": "Despite the rain, the match continued.",
+          "keyword": "THOUGH",
+          "before": "The match continued",
+          "after": "it was raining.",
+          "answers": [
+            "even though"
+          ],
+          "explanation": "'Even though' introduces a concession followed by a full clause, unlike 'despite', which needs a noun or '-ing' form.",
+          "tag": "linking"
+        },
+        {
+          "n": 3,
+          "first": "I last saw my cousin in 2019.",
+          "keyword": "SINCE",
+          "before": "I haven't",
+          "after": "2019.",
+          "answers": [
+            "seen my cousin since"
+          ],
+          "explanation": "The present perfect with 'since' plus a specific point in time expresses how long it has been.",
+          "tag": "tense"
+        },
+        {
+          "n": 4,
+          "first": "It's possible that the flight will be delayed because of the storm.",
+          "keyword": "MIGHT",
+          "before": "The flight",
+          "after": "delayed because of the storm.",
+          "answers": [
+            "might be"
+          ],
+          "explanation": "'Might be' expresses possibility, matching the meaning of 'it's possible that'.",
+          "tag": "modal"
+        },
+        {
+          "n": 5,
+          "first": "Nobody plays the piano as well as Clara in our school.",
+          "keyword": "BEST",
+          "before": "Clara",
+          "after": "piano player in our school.",
+          "answers": [
+            "is the best"
+          ],
+          "explanation": "The superlative 'the best' is used because Clara is better than everyone else in the group.",
+          "tag": "comparison"
+        },
+        {
+          "n": 6,
+          "first": "People believe the painting was stolen during the war.",
+          "keyword": "BELIEVED",
+          "before": "The painting",
+          "after": "to have been stolen during the war.",
+          "answers": [
+            "is believed"
+          ],
+          "explanation": "'Is believed to have been' is the passive reporting structure used to rephrase 'people believe that...'.",
+          "tag": "passive"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe4-04",
+      "type": "transformation",
+      "title": "Everyday Transformations 4",
+      "topic": "general",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "I'm sure she left her umbrella at the office.",
+          "keyword": "MUST",
+          "before": "She",
+          "after": "her umbrella at the office.",
+          "answers": [
+            "must have left"
+          ],
+          "explanation": "'Must have + past participle' expresses a confident deduction about the past.",
+          "tag": "modal"
+        },
+        {
+          "n": 2,
+          "first": "This year's festival was not as successful as last year's.",
+          "keyword": "SUCCESSFUL",
+          "before": "This year's festival was",
+          "after": "last year's.",
+          "answers": [
+            "less successful than"
+          ],
+          "explanation": "'Less...than' is the direct equivalent of a negative 'as...as' comparison of degree.",
+          "tag": "comparison"
+        },
+        {
+          "n": 3,
+          "first": "The teacher let the students leave early because of the heat.",
+          "keyword": "ALLOWED",
+          "before": "The students",
+          "after": "leave early because of the heat.",
+          "answers": [
+            "were allowed to"
+          ],
+          "explanation": "'Were allowed to' is the passive form used to rephrase 'let someone do something'.",
+          "tag": "passive"
+        },
+        {
+          "n": 4,
+          "first": "'I didn't take your pen,' Mark told me.",
+          "keyword": "DENIED",
+          "before": "Mark",
+          "after": "my pen.",
+          "answers": [
+            "denied taking"
+          ],
+          "explanation": "'Deny + verb-ing' reports someone saying they did not do something.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 5,
+          "first": "If I were you, I would accept the job offer.",
+          "keyword": "ADVICE",
+          "before": "My",
+          "after": "to accept the job offer.",
+          "answers": [
+            "advice would be",
+            "advice is"
+          ],
+          "explanation": "'My advice would be to...' is a common alternative way of giving the advice expressed by a second conditional.",
+          "tag": "conditional"
+        },
+        {
+          "n": 6,
+          "first": "They've increased the price of petrol again.",
+          "keyword": "RISEN",
+          "before": "The price of petrol",
+          "after": "again.",
+          "answers": [
+            "has risen"
+          ],
+          "explanation": "'Has risen' (present perfect of the intransitive verb 'rise') describes the result of the price going up again.",
+          "tag": "tense"
+        }
+      ]
+    }
+  ]
+}

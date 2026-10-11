@@ -1,0 +1,1947 @@
+{
+  "level": "fce",
+  "words": [
+    {
+      "id": "fce-v-001",
+      "word": "promotion",
+      "pos": "noun",
+      "definition": "a move to a higher position or rank in a job",
+      "example": "After five years at the company, she finally got a promotion to team leader.",
+      "collocations": [
+        "get a promotion",
+        "deserve a promotion"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-002",
+      "word": "colleague",
+      "pos": "noun",
+      "definition": "a person you work with",
+      "example": "One of my colleagues offered to cover my shift on Friday.",
+      "collocations": [
+        "a former colleague",
+        "work with a colleague"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-003",
+      "word": "resign",
+      "pos": "verb",
+      "definition": "to officially announce that you are leaving your job",
+      "example": "She decided to resign after being offered a better position elsewhere.",
+      "collocations": [
+        "resign from a post",
+        "resign immediately"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-004",
+      "word": "workload",
+      "pos": "noun",
+      "definition": "the amount of work that a person or machine has to do",
+      "example": "His workload has doubled since two colleagues left the department.",
+      "collocations": [
+        "a heavy workload",
+        "manage your workload"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-005",
+      "word": "overtime",
+      "pos": "noun",
+      "definition": "time spent working in addition to your normal working hours",
+      "example": "She worked overtime every night last week to meet the deadline.",
+      "collocations": [
+        "do overtime",
+        "paid overtime"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-006",
+      "word": "take on",
+      "pos": "phrasal verb",
+      "definition": "to accept a responsibility or job",
+      "example": "The firm has decided to take on three new graduates this year.",
+      "collocations": [
+        "take on a project",
+        "take on staff"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-007",
+      "word": "lay off",
+      "pos": "phrasal verb",
+      "definition": "to stop employing someone, often because there is not enough work",
+      "example": "The factory had to lay off a hundred workers during the recession.",
+      "collocations": [
+        "lay off staff",
+        "be laid off"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-008",
+      "word": "get the sack",
+      "pos": "idiom",
+      "definition": "to be dismissed from a job",
+      "example": "He was warned he would get the sack if he kept arriving late for his shift.",
+      "collocations": [
+        "get the sack for something"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-009",
+      "word": "hands-on",
+      "pos": "adjective",
+      "definition": "actively involved in doing something rather than just supervising it",
+      "example": "Our new manager prefers a hands-on approach and often helps out on the shop floor.",
+      "collocations": [
+        "a hands-on manager",
+        "hands-on experience"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-010",
+      "word": "qualified",
+      "pos": "adjective",
+      "definition": "having the right skills, knowledge or experience for a job",
+      "example": "You need to be a qualified electrician to carry out this kind of work.",
+      "collocations": [
+        "highly qualified",
+        "qualified for a role"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-011",
+      "word": "apply for",
+      "pos": "collocation",
+      "definition": "to make a formal request for a job",
+      "example": "She applied for the marketing position as soon as it was advertised.",
+      "collocations": [
+        "apply for a job",
+        "apply for a visa"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-012",
+      "word": "meet a deadline",
+      "pos": "collocation",
+      "definition": "to finish a task by the time it is due",
+      "example": "The whole team stayed late to meet the deadline for the report.",
+      "collocations": [
+        "miss a deadline",
+        "a tight deadline"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-013",
+      "word": "in charge of",
+      "pos": "collocation",
+      "definition": "responsible for managing something",
+      "example": "She is in charge of all the social media accounts for the company.",
+      "collocations": [
+        "put someone in charge"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-014",
+      "word": "burn out",
+      "pos": "phrasal verb",
+      "definition": "to become exhausted from working too hard for too long",
+      "example": "Many junior doctors burn out after years of long, stressful shifts.",
+      "collocations": [
+        "burn out quickly",
+        "risk of burning out"
+      ],
+      "topic": "work"
+    },
+    {
+      "id": "fce-v-015",
+      "word": "curriculum",
+      "pos": "noun",
+      "definition": "the subjects that are taught by a school, college or university",
+      "example": "The school recently updated its curriculum to include more computer science.",
+      "collocations": [
+        "a broad curriculum",
+        "part of the curriculum"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-016",
+      "word": "enrol",
+      "pos": "verb",
+      "definition": "to officially register as a member of an institution or course",
+      "example": "Thousands of new students enrol at the university every September.",
+      "collocations": [
+        "enrol on a course",
+        "enrol in a school"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-017",
+      "word": "drop out",
+      "pos": "phrasal verb",
+      "definition": "to stop attending a course before finishing it",
+      "example": "He dropped out of university after one year to start his own business.",
+      "collocations": [
+        "drop out of college",
+        "a high drop-out rate"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-018",
+      "word": "tuition fees",
+      "pos": "noun",
+      "definition": "the money charged for being taught, especially at university",
+      "example": "Tuition fees have risen sharply over the past decade.",
+      "collocations": [
+        "pay tuition fees",
+        "cover tuition fees"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-019",
+      "word": "get the hang of",
+      "pos": "idiom",
+      "definition": "to learn how to do something after practising it",
+      "example": "It took her a few weeks to get the hang of the new software.",
+      "collocations": [
+        "get the hang of something quickly"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-020",
+      "word": "hand in",
+      "pos": "phrasal verb",
+      "definition": "to give a piece of work to a teacher or examiner",
+      "example": "Make sure you hand in your essay before Friday afternoon.",
+      "collocations": [
+        "hand in an assignment",
+        "hand in homework"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-021",
+      "word": "thorough",
+      "pos": "adjective",
+      "definition": "complete and careful, with attention to detail",
+      "example": "The report gives a thorough analysis of the exam results.",
+      "collocations": [
+        "a thorough understanding",
+        "thorough preparation"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-022",
+      "word": "gifted",
+      "pos": "adjective",
+      "definition": "having a natural ability to do something very well",
+      "example": "The school offers extra classes for gifted mathematics students.",
+      "collocations": [
+        "a gifted musician",
+        "academically gifted"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-023",
+      "word": "sit an exam",
+      "pos": "collocation",
+      "definition": "to take an examination",
+      "example": "Over two thousand students will sit the exam next Monday.",
+      "collocations": [
+        "sit an exam",
+        "pass an exam"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-024",
+      "word": "catch up with",
+      "pos": "phrasal verb",
+      "definition": "to reach the same standard or level as others after falling behind",
+      "example": "Extra lessons helped him catch up with the rest of the class.",
+      "collocations": [
+        "catch up on work"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-025",
+      "word": "grasp",
+      "pos": "verb",
+      "definition": "to understand an idea or subject completely",
+      "example": "It took a while for the class to grasp the concept of probability.",
+      "collocations": [
+        "grasp a concept",
+        "fail to grasp"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-026",
+      "word": "in-depth",
+      "pos": "adjective",
+      "definition": "detailed and thorough",
+      "example": "The course offers an in-depth study of twentieth-century literature.",
+      "collocations": [
+        "an in-depth analysis",
+        "in-depth knowledge"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-027",
+      "word": "furthermore",
+      "pos": "linking word",
+      "definition": "used to add an extra point to support what you have just said",
+      "example": "The course is affordable; furthermore, it can be studied entirely online.",
+      "collocations": [
+        "furthermore, it is"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-028",
+      "word": "whereas",
+      "pos": "linking word",
+      "definition": "used to introduce a contrast between two facts",
+      "example": "Primary schools focus on general skills, whereas secondary schools offer specialised subjects.",
+      "collocations": [
+        "whereas in the past"
+      ],
+      "topic": "education"
+    },
+    {
+      "id": "fce-v-029",
+      "word": "sustainable",
+      "pos": "adjective",
+      "definition": "able to continue over a long period without damaging the environment",
+      "example": "The company switched to a more sustainable method of packaging its products.",
+      "collocations": [
+        "a sustainable future",
+        "environmentally sustainable"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-030",
+      "word": "pollution",
+      "pos": "noun",
+      "definition": "damage caused to air, water or land by harmful substances",
+      "example": "Air pollution in the city has fallen since more people started cycling to work.",
+      "collocations": [
+        "reduce pollution",
+        "air pollution"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-031",
+      "word": "emit",
+      "pos": "verb",
+      "definition": "to send out gas, heat, light or another substance",
+      "example": "Older vehicles emit far more carbon dioxide than electric cars.",
+      "collocations": [
+        "emit gases",
+        "emit carbon dioxide"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-032",
+      "word": "renewable",
+      "pos": "adjective",
+      "definition": "describing energy from sources that are naturally replaced, such as wind or sunlight",
+      "example": "The government has invested heavily in renewable energy projects.",
+      "collocations": [
+        "renewable energy",
+        "renewable resources"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-033",
+      "word": "deforestation",
+      "pos": "noun",
+      "definition": "the cutting down of trees across a large area",
+      "example": "Deforestation in the region has accelerated over the past twenty years.",
+      "collocations": [
+        "cause deforestation",
+        "halt deforestation"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-034",
+      "word": "phase out",
+      "pos": "phrasal verb",
+      "definition": "to gradually stop using or producing something",
+      "example": "Several countries plan to phase out petrol cars by 2035.",
+      "collocations": [
+        "phase out plastic bags"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-035",
+      "word": "run out of",
+      "pos": "phrasal verb",
+      "definition": "to have no more of something left",
+      "example": "Scientists warn that we could run out of some natural resources within decades.",
+      "collocations": [
+        "run out of time",
+        "run out of water"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-036",
+      "word": "take its toll",
+      "pos": "idiom",
+      "definition": "to cause damage or harm over time",
+      "example": "Years of overfishing have taken their toll on local fish populations.",
+      "collocations": [
+        "take a heavy toll"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-037",
+      "word": "drastic",
+      "pos": "adjective",
+      "definition": "extreme and sudden, often done to solve a serious problem",
+      "example": "Drastic action is needed to reduce the amount of plastic waste in our oceans.",
+      "collocations": [
+        "drastic measures",
+        "drastic action"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-038",
+      "word": "carbon footprint",
+      "pos": "noun",
+      "definition": "the total amount of greenhouse gases produced by a person or organisation",
+      "example": "Flying less is one of the easiest ways to reduce your carbon footprint.",
+      "collocations": [
+        "reduce your carbon footprint",
+        "a large carbon footprint"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-039",
+      "word": "endangered",
+      "pos": "adjective",
+      "definition": "at risk of disappearing completely as a species",
+      "example": "The organisation works to protect endangered species in the rainforest.",
+      "collocations": [
+        "an endangered species",
+        "critically endangered"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-040",
+      "word": "consequently",
+      "pos": "linking word",
+      "definition": "as a result of something previously mentioned",
+      "example": "Ice caps are melting; consequently, sea levels continue to rise.",
+      "collocations": [
+        "consequently, this means"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-041",
+      "word": "in order to",
+      "pos": "linking word",
+      "definition": "used to express the purpose of an action",
+      "example": "Many cities have introduced charges in order to reduce traffic in the centre.",
+      "collocations": [
+        "in order to achieve"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-042",
+      "word": "contaminate",
+      "pos": "verb",
+      "definition": "to make something dirty or harmful by adding a substance to it",
+      "example": "Chemical waste from the factory had contaminated the nearby river.",
+      "collocations": [
+        "contaminate water",
+        "badly contaminated"
+      ],
+      "topic": "environment"
+    },
+    {
+      "id": "fce-v-043",
+      "word": "breakthrough",
+      "pos": "noun",
+      "definition": "an important discovery or development",
+      "example": "Researchers have announced a major breakthrough in battery technology.",
+      "collocations": [
+        "a major breakthrough",
+        "a scientific breakthrough"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-044",
+      "word": "upgrade",
+      "pos": "verb",
+      "definition": "to change to a newer or better version of something",
+      "example": "I upgraded my laptop last month because the old one had become too slow.",
+      "collocations": [
+        "upgrade software",
+        "upgrade a system"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-045",
+      "word": "glitch",
+      "pos": "noun",
+      "definition": "a small, usually temporary problem with a machine or system",
+      "example": "A software glitch caused the website to crash for several hours.",
+      "collocations": [
+        "a technical glitch",
+        "fix a glitch"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-046",
+      "word": "back up",
+      "pos": "phrasal verb",
+      "definition": "to make a copy of computer data in case the original is lost",
+      "example": "Always back up your files before installing a new operating system.",
+      "collocations": [
+        "back up your data"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-047",
+      "word": "log in",
+      "pos": "phrasal verb",
+      "definition": "to enter a system by typing a username and password",
+      "example": "You need to log in with your student number to access the online library.",
+      "collocations": [
+        "log in to an account"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-048",
+      "word": "user-friendly",
+      "pos": "adjective",
+      "definition": "easy for people to use, especially a device or piece of software",
+      "example": "The new app is far more user-friendly than the version it replaced.",
+      "collocations": [
+        "a user-friendly interface"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-049",
+      "word": "cutting-edge",
+      "pos": "adjective",
+      "definition": "the most modern and advanced",
+      "example": "The hospital has invested in cutting-edge scanning equipment.",
+      "collocations": [
+        "cutting-edge technology",
+        "cutting-edge research"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-050",
+      "word": "malfunction",
+      "pos": "verb",
+      "definition": "to fail to work correctly",
+      "example": "The sensors malfunctioned during the test flight, causing the launch to be delayed.",
+      "collocations": [
+        "malfunction unexpectedly"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-051",
+      "word": "be glued to",
+      "pos": "idiom",
+      "definition": "to be giving all your attention to a screen or device",
+      "example": "Teenagers today seem to be glued to their phones for hours at a time.",
+      "collocations": [
+        "glued to a screen"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-052",
+      "word": "obsolete",
+      "pos": "adjective",
+      "definition": "no longer useful because something newer has replaced it",
+      "example": "Many printed encyclopedias became obsolete once the internet became widespread.",
+      "collocations": [
+        "become obsolete",
+        "obsolete technology"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-053",
+      "word": "streamline",
+      "pos": "verb",
+      "definition": "to make a process simpler and more efficient",
+      "example": "The new booking system has streamlined the way patients make appointments.",
+      "collocations": [
+        "streamline a process"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-054",
+      "word": "firmware",
+      "pos": "noun",
+      "definition": "permanent software programmed into a hardware device",
+      "example": "The manufacturer released a firmware update to fix the battery problem.",
+      "collocations": [
+        "update the firmware"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-055",
+      "word": "moreover",
+      "pos": "linking word",
+      "definition": "used to add a further, often stronger, point",
+      "example": "The device is fast and reliable; moreover, it uses very little power.",
+      "collocations": [
+        "moreover, it offers"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-056",
+      "word": "despite",
+      "pos": "preposition",
+      "definition": "without being affected by something; in spite of",
+      "example": "Despite several delays, the new software was eventually launched on time.",
+      "collocations": [
+        "despite the problems",
+        "despite this"
+      ],
+      "topic": "technology"
+    },
+    {
+      "id": "fce-v-057",
+      "word": "recover",
+      "pos": "verb",
+      "definition": "to return to a normal state of health after an illness or injury",
+      "example": "It took him several weeks to recover fully from the operation.",
+      "collocations": [
+        "recover from an illness",
+        "make a full recovery"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-058",
+      "word": "symptom",
+      "pos": "noun",
+      "definition": "a sign that shows you have a particular illness",
+      "example": "A high temperature is often the first symptom of the infection.",
+      "collocations": [
+        "experience symptoms",
+        "a common symptom"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-059",
+      "word": "come down with",
+      "pos": "phrasal verb",
+      "definition": "to become ill with a particular illness, usually minor",
+      "example": "It's easy to come down with flu when the office is this cold.",
+      "collocations": [
+        "come down with a cold"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-060",
+      "word": "give up",
+      "pos": "phrasal verb",
+      "definition": "to stop doing something, especially a habit",
+      "example": "She is determined to give up smoking this year, after three previous attempts.",
+      "collocations": [
+        "give up a habit",
+        "give up smoking"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-061",
+      "word": "exhausted",
+      "pos": "adjective",
+      "definition": "extremely tired",
+      "example": "The nurses were exhausted after working two back-to-back night shifts.",
+      "collocations": [
+        "feel exhausted",
+        "utterly exhausted"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-062",
+      "word": "under the weather",
+      "pos": "idiom",
+      "definition": "feeling slightly ill",
+      "example": "I think I'm coming down with something; I've been feeling a bit under the weather all day.",
+      "collocations": [
+        "feel under the weather"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-063",
+      "word": "prescribe",
+      "pos": "verb",
+      "definition": "to officially recommend a particular medicine or treatment",
+      "example": "The doctor prescribed a course of antibiotics for the infection.",
+      "collocations": [
+        "prescribe medication",
+        "prescribe a treatment"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-064",
+      "word": "chronic",
+      "pos": "adjective",
+      "definition": "describing an illness or condition that lasts for a long time",
+      "example": "She has suffered from chronic back pain for over a decade.",
+      "collocations": [
+        "a chronic condition",
+        "chronic illness"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-065",
+      "word": "outbreak",
+      "pos": "noun",
+      "definition": "a sudden start of a disease affecting many people",
+      "example": "Health officials are monitoring a new outbreak of the virus in the region.",
+      "collocations": [
+        "an outbreak of",
+        "contain an outbreak"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-066",
+      "word": "well-being",
+      "pos": "noun",
+      "definition": "a state of being healthy, happy and comfortable",
+      "example": "Regular exercise has a huge impact on both physical and mental well-being.",
+      "collocations": [
+        "mental well-being",
+        "improve well-being"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-067",
+      "word": "immune system",
+      "pos": "noun",
+      "definition": "the system in the body that protects it against disease",
+      "example": "A balanced diet helps to keep your immune system strong.",
+      "collocations": [
+        "a weakened immune system",
+        "boost the immune system"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-068",
+      "word": "alleviate",
+      "pos": "verb",
+      "definition": "to make pain or a problem less severe",
+      "example": "The new medication helps to alleviate the worst of the pain.",
+      "collocations": [
+        "alleviate symptoms",
+        "alleviate suffering"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-069",
+      "word": "however",
+      "pos": "linking word",
+      "definition": "used to introduce a point that contrasts with what was said before",
+      "example": "The treatment is usually effective; however, it can cause mild side effects.",
+      "collocations": [
+        "however, some patients"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-070",
+      "word": "owing to",
+      "pos": "preposition",
+      "definition": "because of",
+      "example": "The clinic was closed for a week owing to a shortage of staff.",
+      "collocations": [
+        "owing to the fact"
+      ],
+      "topic": "health"
+    },
+    {
+      "id": "fce-v-071",
+      "word": "itinerary",
+      "pos": "noun",
+      "definition": "a detailed plan of a journey",
+      "example": "Our travel agent sent us a full itinerary for the two-week trip.",
+      "collocations": [
+        "a detailed itinerary",
+        "plan an itinerary"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-072",
+      "word": "set off",
+      "pos": "phrasal verb",
+      "definition": "to begin a journey",
+      "example": "We set off early to avoid the worst of the traffic on the motorway.",
+      "collocations": [
+        "set off at dawn"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-073",
+      "word": "check in",
+      "pos": "phrasal verb",
+      "definition": "to arrive and register at a hotel or airport",
+      "example": "Passengers are advised to check in at least two hours before the flight.",
+      "collocations": [
+        "check in online",
+        "check in at a hotel"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-074",
+      "word": "off the beaten track",
+      "pos": "idiom",
+      "definition": "away from places that most tourists visit",
+      "example": "If you want to avoid the crowds, try exploring villages off the beaten track.",
+      "collocations": [
+        "a bit off the beaten track"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-075",
+      "word": "picturesque",
+      "pos": "adjective",
+      "definition": "attractive in a way that looks like a painting",
+      "example": "The picturesque fishing village attracts thousands of visitors every summer.",
+      "collocations": [
+        "a picturesque village",
+        "picturesque scenery"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-076",
+      "word": "accommodation",
+      "pos": "noun",
+      "definition": "a place where someone can stay, such as a hotel or hostel",
+      "example": "Budget accommodation is hard to find in the city centre during the festival.",
+      "collocations": [
+        "book accommodation",
+        "cheap accommodation"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-077",
+      "word": "delayed",
+      "pos": "adjective",
+      "definition": "happening later than planned",
+      "example": "Our flight was delayed by three hours because of bad weather.",
+      "collocations": [
+        "a delayed flight",
+        "severely delayed"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-078",
+      "word": "make the most of",
+      "pos": "idiom",
+      "definition": "to use an opportunity as fully as possible",
+      "example": "We only had two days in Rome, so we tried to make the most of our time there.",
+      "collocations": [
+        "make the most of an opportunity"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-079",
+      "word": "layover",
+      "pos": "noun",
+      "definition": "a short stop between flights",
+      "example": "We had a six-hour layover in Istanbul before our connecting flight.",
+      "collocations": [
+        "a long layover"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-080",
+      "word": "venture",
+      "pos": "verb",
+      "definition": "to travel somewhere unfamiliar or potentially risky",
+      "example": "Few tourists venture beyond the main square in this small town.",
+      "collocations": [
+        "venture off the main road"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-081",
+      "word": "nevertheless",
+      "pos": "linking word",
+      "definition": "despite what has just been said",
+      "example": "The journey was long and tiring; nevertheless, the views made it worthwhile.",
+      "collocations": [
+        "nevertheless, the trip"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-082",
+      "word": "while",
+      "pos": "linking word",
+      "definition": "used to introduce a contrast between two facts, similar to 'whereas'",
+      "example": "Coach travel is cheap, while flying is often much faster.",
+      "collocations": [
+        "while flying is"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-083",
+      "word": "book in advance",
+      "pos": "collocation",
+      "definition": "to arrange something, such as tickets, before the time it is needed",
+      "example": "It's much cheaper to book your train tickets in advance.",
+      "collocations": [
+        "book accommodation in advance"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-084",
+      "word": "remote",
+      "pos": "adjective",
+      "definition": "far from towns or other places where people live",
+      "example": "The expedition visited several remote villages with no road access.",
+      "collocations": [
+        "a remote area",
+        "remote location"
+      ],
+      "topic": "travel"
+    },
+    {
+      "id": "fce-v-085",
+      "word": "headline",
+      "pos": "noun",
+      "definition": "the title of a newspaper article, printed in large letters",
+      "example": "The scandal made headlines in newspapers across the country.",
+      "collocations": [
+        "make headlines",
+        "a front-page headline"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-086",
+      "word": "broadcast",
+      "pos": "verb",
+      "definition": "to send out a programme on television or radio",
+      "example": "The match will be broadcast live to over a hundred countries.",
+      "collocations": [
+        "broadcast live",
+        "broadcast a programme"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-087",
+      "word": "coverage",
+      "pos": "noun",
+      "definition": "the reporting of news or events by the media",
+      "example": "The election received extensive coverage on every major news channel.",
+      "collocations": [
+        "media coverage",
+        "live coverage"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-088",
+      "word": "biased",
+      "pos": "adjective",
+      "definition": "unfairly favouring one side over another",
+      "example": "Critics claim the newspaper's reporting is heavily biased towards one political party.",
+      "collocations": [
+        "a biased report",
+        "strongly biased"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-089",
+      "word": "tune in",
+      "pos": "phrasal verb",
+      "definition": "to watch or listen to a particular programme",
+      "example": "Millions of viewers tuned in to watch the final episode of the series.",
+      "collocations": [
+        "tune in to watch"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-090",
+      "word": "spread like wildfire",
+      "pos": "idiom",
+      "definition": "to become known by many people very quickly",
+      "example": "The rumour spread like wildfire across social media within minutes.",
+      "collocations": [
+        "news spreads like wildfire"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-091",
+      "word": "censorship",
+      "pos": "noun",
+      "definition": "the practice of officially examining and removing unacceptable content",
+      "example": "The report criticised the government for its strict censorship of the press.",
+      "collocations": [
+        "strict censorship",
+        "impose censorship"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-092",
+      "word": "influential",
+      "pos": "adjective",
+      "definition": "having a lot of power to affect people's opinions or actions",
+      "example": "Social media stars have become hugely influential among young audiences.",
+      "collocations": [
+        "an influential figure",
+        "highly influential"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-093",
+      "word": "misleading",
+      "pos": "adjective",
+      "definition": "giving a false impression; likely to cause confusion",
+      "example": "The advert was banned for containing misleading claims about the product.",
+      "collocations": [
+        "a misleading headline",
+        "deliberately misleading"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-094",
+      "word": "outlet",
+      "pos": "noun",
+      "definition": "an organisation that provides information, especially news",
+      "example": "Several news outlets reported the story within hours of the announcement.",
+      "collocations": [
+        "a news outlet",
+        "a media outlet"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-095",
+      "word": "go viral",
+      "pos": "idiom",
+      "definition": "to become extremely popular very quickly on the internet",
+      "example": "Videos of the dancing dog seemed to go viral within a few days.",
+      "collocations": [
+        "a video goes viral"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-096",
+      "word": "credible",
+      "pos": "adjective",
+      "definition": "able to be believed or trusted",
+      "example": "It's important to check whether a source is credible before sharing a story.",
+      "collocations": [
+        "a credible source",
+        "widely credible"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-097",
+      "word": "in contrast",
+      "pos": "linking word",
+      "definition": "used to show a difference between two things being compared",
+      "example": "The front page focused on the scandal; in contrast, the editorial praised the government's reforms.",
+      "collocations": [
+        "in contrast to"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-098",
+      "word": "get carried away",
+      "pos": "idiom",
+      "definition": "to become too excited or enthusiastic and lose control",
+      "example": "A few reporters tend to get carried away and exaggerate the scale of a protest.",
+      "collocations": [
+        "get carried away with"
+      ],
+      "topic": "media"
+    },
+    {
+      "id": "fce-v-099",
+      "word": "get on with",
+      "pos": "phrasal verb",
+      "definition": "to have a friendly relationship with someone",
+      "example": "She has always managed to get on with her younger brother despite their differences.",
+      "collocations": [
+        "get on with someone well"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-100",
+      "word": "fall out",
+      "pos": "phrasal verb",
+      "definition": "to stop being friends with someone, usually after an argument",
+      "example": "The two cousins tend to fall out over money whenever the family meets.",
+      "collocations": [
+        "fall out with a friend"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-101",
+      "word": "make up",
+      "pos": "phrasal verb",
+      "definition": "to become friends again after an argument",
+      "example": "They argued for weeks before finally agreeing to make up at the wedding.",
+      "collocations": [
+        "make up after a row"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-102",
+      "word": "supportive",
+      "pos": "adjective",
+      "definition": "giving help and encouragement, especially during a difficult time",
+      "example": "Her colleagues were incredibly supportive while she was going through a hard time.",
+      "collocations": [
+        "a supportive friend",
+        "very supportive"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-103",
+      "word": "get along",
+      "pos": "phrasal verb",
+      "definition": "to have a good relationship with someone",
+      "example": "New employees usually get along well with the rest of the small team.",
+      "collocations": [
+        "get along fine"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-104",
+      "word": "bond",
+      "pos": "verb",
+      "definition": "to develop a close relationship with someone",
+      "example": "The two girls bonded quickly over their shared love of music.",
+      "collocations": [
+        "bond with someone",
+        "a close bond"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-105",
+      "word": "hold a grudge",
+      "pos": "idiom",
+      "definition": "to continue to feel angry about something someone did in the past",
+      "example": "He's not the type to hold a grudge; he forgave her almost immediately.",
+      "collocations": [
+        "hold a grudge against someone"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-106",
+      "word": "estranged",
+      "pos": "adjective",
+      "definition": "no longer close to or in contact with a family member",
+      "example": "She had been estranged from her father for almost ten years.",
+      "collocations": [
+        "an estranged relative"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-107",
+      "word": "confide in",
+      "pos": "phrasal verb",
+      "definition": "to tell someone a secret or private feeling, trusting them not to tell others",
+      "example": "She confided in her best friend about her plans to move abroad.",
+      "collocations": [
+        "confide in a friend"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-108",
+      "word": "break the ice",
+      "pos": "idiom",
+      "definition": "to say or do something to make people feel more relaxed, especially when meeting for the first time",
+      "example": "The host told a joke to break the ice at the start of the meeting.",
+      "collocations": [
+        "an icebreaker"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-109",
+      "word": "reconcile",
+      "pos": "verb",
+      "definition": "to become friendly with someone again after a disagreement",
+      "example": "The brothers eventually reconciled after not speaking for several years.",
+      "collocations": [
+        "reconcile with someone"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-110",
+      "word": "empathetic",
+      "pos": "adjective",
+      "definition": "able to understand and share the feelings of another person",
+      "example": "A good counsellor needs to be patient and empathetic.",
+      "collocations": [
+        "an empathetic listener"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-111",
+      "word": "on good terms",
+      "pos": "idiom",
+      "definition": "having a friendly relationship with someone",
+      "example": "Despite the divorce, they remain on good terms for the sake of their children.",
+      "collocations": [
+        "stay on good terms"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-112",
+      "word": "similarly",
+      "pos": "linking word",
+      "definition": "used to show that something is like something already mentioned",
+      "example": "He enjoys hiking and camping; similarly, his wife loves spending time outdoors.",
+      "collocations": [
+        "similarly, she felt"
+      ],
+      "topic": "relationships"
+    },
+    {
+      "id": "fce-v-113",
+      "word": "commit a crime",
+      "pos": "collocation",
+      "definition": "to do something illegal",
+      "example": "The teenager was arrested after admitting to committing several thefts.",
+      "collocations": [
+        "commit a crime",
+        "commit an offence"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-114",
+      "word": "witness",
+      "pos": "noun",
+      "definition": "a person who sees an event, especially a crime, take place",
+      "example": "Police are appealing for witnesses to come forward after the robbery.",
+      "collocations": [
+        "a key witness",
+        "call a witness"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-115",
+      "word": "get away with",
+      "pos": "phrasal verb",
+      "definition": "to avoid punishment for something wrong",
+      "example": "The thieves almost managed to get away with the jewellery before being stopped.",
+      "collocations": [
+        "get away with a crime"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-116",
+      "word": "verdict",
+      "pos": "noun",
+      "definition": "the official decision made by a jury or judge",
+      "example": "The jury took three days to reach a verdict in the trial.",
+      "collocations": [
+        "reach a verdict",
+        "a guilty verdict"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-117",
+      "word": "suspect",
+      "pos": "noun",
+      "definition": "a person who is thought to have committed a crime",
+      "example": "Detectives arrested a suspect in connection with the burglaries.",
+      "collocations": [
+        "a prime suspect",
+        "question a suspect"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-118",
+      "word": "break the law",
+      "pos": "idiom",
+      "definition": "to do something that is illegal",
+      "example": "Many people don't realise they are breaking the law by parking there.",
+      "collocations": [
+        "deliberately break the law"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-119",
+      "word": "testify",
+      "pos": "verb",
+      "definition": "to make a formal statement in court as a witness",
+      "example": "Several neighbours agreed to testify about what they had seen that night.",
+      "collocations": [
+        "testify in court"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-120",
+      "word": "prosecute",
+      "pos": "verb",
+      "definition": "to officially charge someone with a crime and bring them to trial",
+      "example": "The company was prosecuted for breaking safety regulations.",
+      "collocations": [
+        "prosecute an offender"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-121",
+      "word": "unlawful",
+      "pos": "adjective",
+      "definition": "not allowed by law",
+      "example": "The court ruled that the search of his home had been unlawful.",
+      "collocations": [
+        "an unlawful act"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-122",
+      "word": "take the law into your own hands",
+      "pos": "idiom",
+      "definition": "to deal with a crime or problem yourself instead of asking the police for help",
+      "example": "Frustrated by the lack of police response, some residents started to take the law into their own hands.",
+      "collocations": [
+        "take the law into your own hands"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-123",
+      "word": "fine",
+      "pos": "noun",
+      "definition": "a sum of money that someone must pay as a punishment",
+      "example": "He was given a heavy fine for driving without insurance.",
+      "collocations": [
+        "pay a fine",
+        "impose a fine"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-124",
+      "word": "deter",
+      "pos": "verb",
+      "definition": "to discourage someone from doing something through fear of the consequences",
+      "example": "Stricter penalties are intended to deter people from drink-driving.",
+      "collocations": [
+        "deter criminals",
+        "deter offenders"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-125",
+      "word": "by contrast",
+      "pos": "linking word",
+      "definition": "used to point out a contrast between two situations",
+      "example": "Minor offences are usually dealt with quickly; by contrast, serious crimes can take years to reach trial.",
+      "collocations": [
+        "by contrast, the"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-126",
+      "word": "on top of that",
+      "pos": "linking word",
+      "definition": "used to add another point, usually a negative one",
+      "example": "He lost his licence; on top of that, he had to pay a substantial fine.",
+      "collocations": [
+        "on top of that"
+      ],
+      "topic": "crime & law"
+    },
+    {
+      "id": "fce-v-127",
+      "word": "afford",
+      "pos": "verb",
+      "definition": "to have enough money to pay for something",
+      "example": "They couldn't afford to go on holiday this year because of rising costs.",
+      "collocations": [
+        "afford a holiday",
+        "can't afford"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-128",
+      "word": "save up",
+      "pos": "phrasal verb",
+      "definition": "to keep money so that you can buy something later",
+      "example": "She is determined to save up for a new laptop before the summer.",
+      "collocations": [
+        "save up for something"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-129",
+      "word": "invest",
+      "pos": "verb",
+      "definition": "to put money into something in the hope of making a profit",
+      "example": "He decided to invest a portion of his savings in the stock market.",
+      "collocations": [
+        "invest in shares",
+        "invest wisely"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-130",
+      "word": "in debt",
+      "pos": "idiom",
+      "definition": "owing money to someone",
+      "example": "Many graduates leave university heavily in debt.",
+      "collocations": [
+        "get into debt",
+        "deeply in debt"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-131",
+      "word": "budget",
+      "pos": "noun",
+      "definition": "a plan for how money will be spent over a period of time",
+      "example": "The family set a strict monthly budget after reviewing their expenses.",
+      "collocations": [
+        "stick to a budget",
+        "a tight budget"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-132",
+      "word": "splash out",
+      "pos": "phrasal verb",
+      "definition": "to spend a lot of money on something, often as a treat",
+      "example": "We decided to splash out on a fancy restaurant for our anniversary.",
+      "collocations": [
+        "splash out on something"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-133",
+      "word": "tight",
+      "pos": "adjective",
+      "definition": "having very little spare money",
+      "example": "Money has been tight since he lost his second job.",
+      "collocations": [
+        "money is tight",
+        "a tight budget"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-134",
+      "word": "withdraw",
+      "pos": "verb",
+      "definition": "to take money out of a bank account",
+      "example": "She withdrew some cash from the machine before the shops closed.",
+      "collocations": [
+        "withdraw money",
+        "withdraw cash"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-135",
+      "word": "cost a fortune",
+      "pos": "idiom",
+      "definition": "to be very expensive",
+      "example": "Renovating the old house ended up costing a fortune.",
+      "collocations": [
+        "cost an absolute fortune"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-136",
+      "word": "bargain",
+      "pos": "noun",
+      "definition": "something sold at a lower price than it is really worth",
+      "example": "She found an amazing bargain on a winter coat during the sale.",
+      "collocations": [
+        "spot a bargain",
+        "a real bargain"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-137",
+      "word": "make ends meet",
+      "pos": "idiom",
+      "definition": "to have just enough money to live on",
+      "example": "With prices rising so fast, many families are struggling to make ends meet.",
+      "collocations": [
+        "struggle to make ends meet"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-138",
+      "word": "generous",
+      "pos": "adjective",
+      "definition": "willing to give more money, help or time than is usual",
+      "example": "Her grandparents were always generous with birthday presents.",
+      "collocations": [
+        "a generous gift",
+        "extremely generous"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-139",
+      "word": "in addition",
+      "pos": "linking word",
+      "definition": "used to add extra information to a point already made",
+      "example": "Rent has risen sharply; in addition, energy bills have doubled this year.",
+      "collocations": [
+        "in addition to that"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-140",
+      "word": "as a result",
+      "pos": "linking word",
+      "definition": "used to introduce the consequence of something just mentioned",
+      "example": "Prices rose sharply; as a result, many shoppers cut back on spending.",
+      "collocations": [
+        "as a result of"
+      ],
+      "topic": "money"
+    },
+    {
+      "id": "fce-v-141",
+      "word": "hypothesis",
+      "pos": "noun",
+      "definition": "an idea that is suggested as a possible explanation, but not yet proved",
+      "example": "The scientists designed an experiment to test their hypothesis.",
+      "collocations": [
+        "test a hypothesis",
+        "form a hypothesis"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-142",
+      "word": "conduct",
+      "pos": "verb",
+      "definition": "to organise and carry out a particular activity, especially research",
+      "example": "Researchers conducted a series of trials over three years.",
+      "collocations": [
+        "conduct an experiment",
+        "conduct research"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-143",
+      "word": "evidence",
+      "pos": "noun",
+      "definition": "facts or information that show whether something is true",
+      "example": "There is strong evidence to support the new theory.",
+      "collocations": [
+        "gather evidence",
+        "clear evidence"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-144",
+      "word": "data",
+      "pos": "noun",
+      "definition": "facts and statistics collected for analysis",
+      "example": "The team spent months analysing the data from the survey.",
+      "collocations": [
+        "collect data",
+        "analyse data"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-145",
+      "word": "come up with",
+      "pos": "phrasal verb",
+      "definition": "to think of an idea or plan",
+      "example": "The team was finally able to come up with a solution after months of research.",
+      "collocations": [
+        "come up with a theory"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-146",
+      "word": "verify",
+      "pos": "verb",
+      "definition": "to prove that something is true or accurate",
+      "example": "Other laboratories later verified the results of the original study.",
+      "collocations": [
+        "verify a result",
+        "verify a claim"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-147",
+      "word": "groundbreaking",
+      "pos": "adjective",
+      "definition": "introducing new methods or ideas; highly original",
+      "example": "Her groundbreaking research on vaccines earned her international recognition.",
+      "collocations": [
+        "groundbreaking research"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-148",
+      "word": "set out to",
+      "pos": "collocation",
+      "definition": "to begin a task with a particular aim in mind",
+      "example": "The researchers set out to discover why the species was disappearing so quickly.",
+      "collocations": [
+        "set out to prove"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-149",
+      "word": "inconclusive",
+      "pos": "adjective",
+      "definition": "not leading to a definite result or decision",
+      "example": "The early trials were inconclusive, so further testing was needed.",
+      "collocations": [
+        "inconclusive results"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-150",
+      "word": "peer-reviewed",
+      "pos": "adjective",
+      "definition": "describing research that has been checked by other experts before publication",
+      "example": "The findings were published in a respected peer-reviewed journal.",
+      "collocations": [
+        "a peer-reviewed study"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-151",
+      "word": "replicate",
+      "pos": "verb",
+      "definition": "to repeat an experiment to see if it produces the same result",
+      "example": "Several labs failed to replicate the surprising results of the first study.",
+      "collocations": [
+        "replicate a study",
+        "replicate findings"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-152",
+      "word": "theory",
+      "pos": "noun",
+      "definition": "a formal set of ideas intended to explain why something happens",
+      "example": "Einstein's theory of relativity changed our understanding of time.",
+      "collocations": [
+        "a scientific theory",
+        "develop a theory"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-153",
+      "word": "on the other hand",
+      "pos": "linking word",
+      "definition": "used to introduce a contrasting point",
+      "example": "The treatment is effective; on the other hand, it is extremely expensive.",
+      "collocations": [
+        "on the other hand"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-154",
+      "word": "additionally",
+      "pos": "linking word",
+      "definition": "used to add a further supporting point in formal writing",
+      "example": "The results were consistent; additionally, they matched predictions from earlier models.",
+      "collocations": [
+        "additionally, the data"
+      ],
+      "topic": "science"
+    },
+    {
+      "id": "fce-v-155",
+      "word": "masterpiece",
+      "pos": "noun",
+      "definition": "an extremely good piece of work, especially art or music",
+      "example": "The exhibition includes several masterpieces that have never been shown before.",
+      "collocations": [
+        "a true masterpiece",
+        "a modern masterpiece"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-156",
+      "word": "exhibit",
+      "pos": "verb",
+      "definition": "to show something, especially works of art, to the public",
+      "example": "Her paintings were exhibited at a major gallery last year.",
+      "collocations": [
+        "exhibit work",
+        "exhibit paintings"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-157",
+      "word": "critically acclaimed",
+      "pos": "collocation",
+      "definition": "praised by critics as being of a very high standard",
+      "example": "His latest novel has been critically acclaimed around the world.",
+      "collocations": [
+        "a critically acclaimed film"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-158",
+      "word": "vivid",
+      "pos": "adjective",
+      "definition": "producing powerful feelings or clear pictures in the mind",
+      "example": "The author's vivid descriptions make the setting feel completely real.",
+      "collocations": [
+        "vivid imagery",
+        "a vivid description"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-159",
+      "word": "take up",
+      "pos": "phrasal verb",
+      "definition": "to start doing an activity or hobby",
+      "example": "She decided to take up painting after retiring from teaching.",
+      "collocations": [
+        "take up a hobby",
+        "take up an instrument"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-160",
+      "word": "draw on",
+      "pos": "phrasal verb",
+      "definition": "to use information, experience or skills in order to do or make something",
+      "example": "The director likes to draw on her own childhood memories for her films.",
+      "collocations": [
+        "draw on experience"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-161",
+      "word": "be in a league of its own",
+      "pos": "idiom",
+      "definition": "to be much better than everything else of its kind",
+      "example": "Critics agree that the director's latest film seems to be in a league of its own.",
+      "collocations": [
+        "in a league of its own"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-162",
+      "word": "abstract",
+      "pos": "adjective",
+      "definition": "describing art that does not try to represent real objects exactly",
+      "example": "The gallery's new wing is dedicated entirely to abstract art.",
+      "collocations": [
+        "an abstract painting",
+        "abstract art"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-163",
+      "word": "portray",
+      "pos": "verb",
+      "definition": "to describe or represent something in a particular way, especially in a work of art",
+      "example": "The novel portrays life in the city during the 1920s.",
+      "collocations": [
+        "portray a character",
+        "portray an event"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-164",
+      "word": "composition",
+      "pos": "noun",
+      "definition": "a piece of music, writing or art, or the way its parts are arranged",
+      "example": "The orchestra performed a beautiful composition by a local composer.",
+      "collocations": [
+        "a musical composition"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-165",
+      "word": "rehearse",
+      "pos": "verb",
+      "definition": "to practise a play, piece of music or performance before showing it to an audience",
+      "example": "The cast rehearsed the final scene for almost three hours.",
+      "collocations": [
+        "rehearse a scene",
+        "rehearse a play"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-166",
+      "word": "captivating",
+      "pos": "adjective",
+      "definition": "extremely interesting or attractive, holding your attention completely",
+      "example": "The actress gave a captivating performance in the lead role.",
+      "collocations": [
+        "a captivating story",
+        "captivating performance"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-167",
+      "word": "in other words",
+      "pos": "linking word",
+      "definition": "used to explain something in a simpler or clearer way",
+      "example": "The piece uses dissonant harmony; in other words, the chords sound deliberately unresolved.",
+      "collocations": [
+        "in other words"
+      ],
+      "topic": "arts"
+    },
+    {
+      "id": "fce-v-168",
+      "word": "likewise",
+      "pos": "linking word",
+      "definition": "used to say that something is the same as, or similar to, what has just been mentioned",
+      "example": "The director praised the lead actor; likewise, critics singled out the supporting cast.",
+      "collocations": [
+        "likewise, the critics"
+      ],
+      "topic": "arts"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "level": "fce",
+  "part": "uoe2",
+  "sets": [
+    {
+      "id": "fce-uoe2-01",
+      "type": "openCloze",
+      "title": "Bringing Back the Bees",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "Bee populations {{1}} been falling across Europe for over a decade, mainly because of pesticides and the loss of wild flowers. Scientists warn that {{2}} we do not act soon, many species could disappear within a generation.",
+        "A number of charities have started programmes {{3}} teach people how to create bee-friendly gardens, even in small city spaces. {{4}} the programmes seem simple, they have already made a real difference: one trial found that gardens with the right flowers attracted three times {{5}} many bees as untreated ones.",
+        "Even people {{6}} do not have gardens can help, for example by growing herbs in pots {{7}} a balcony or windowsill. Councils, {{8}} turn, are being encouraged to plant more wildflowers along roadsides instead of mowing the grass every week."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "have"
+          ],
+          "explanation": "The present perfect continuous 'have been falling' needs the auxiliary 'have' because the subject 'populations' is plural.",
+          "tag": "tense",
+          "commonWrong": {
+            "has": "'has' needs a singular subject, but 'populations' is plural."
+          }
+        },
+        {
+          "n": 2,
+          "answers": [
+            "if"
+          ],
+          "explanation": "'If we do not act' introduces the condition under which species could disappear.",
+          "tag": "conditional",
+          "commonWrong": {
+            "unless": "'unless' already means 'if not', so adding 'not' again would create a confusing double negative."
+          }
+        },
+        {
+          "n": 3,
+          "answers": [
+            "to",
+            "that",
+            "which"
+          ],
+          "explanation": "'Programmes to teach people' uses the to-infinitive to express the purpose of the programmes; 'that/which teach people' works equally well as a relative clause.",
+          "tag": "purpose-function",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "answers": [
+            "although",
+            "though"
+          ],
+          "explanation": "'Although/though' introduces a concession: the programmes seem simple but still make a difference.",
+          "tag": "linking",
+          "commonWrong": {
+            "despite": "'despite' must be followed by a noun or an '-ing' form, not a full clause with a subject and verb."
+          }
+        },
+        {
+          "n": 5,
+          "answers": [
+            "as"
+          ],
+          "explanation": "'Three times as many...as' is the fixed pattern for multiplying a comparison of quantity.",
+          "tag": "comparison",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "answers": [
+            "who",
+            "that"
+          ],
+          "explanation": "'Who/that' introduces a relative clause describing 'people'.",
+          "tag": "relative-clause",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "answers": [
+            "on"
+          ],
+          "explanation": "'On a balcony' is the correct preposition for describing a surface/area like a balcony.",
+          "tag": "preposition",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "answers": [
+            "in"
+          ],
+          "explanation": "'In turn' is a fixed phrase meaning 'as a consequence, following the same pattern'.",
+          "tag": "fixed-phrase",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe2-02",
+      "type": "openCloze",
+      "title": "The Letters in the Attic",
+      "topic": "history",
+      "source": "original",
+      "text": [
+        "When Maria cleared out her grandmother's attic, she found a box {{1}} old letters tied together with string. {{2}} of them were dated at all, so Maria had no way of knowing which letter had been written first.",
+        "As she read {{3}} one, she realised they had been written by her grandmother to a soldier during the war. Some of the letters mentioned a man {{4}} name was never fully given, only the initial 'J'. Maria began to wonder {{5}} this mysterious 'J' had ever written back.",
+        "She showed the letters to her father, {{6}} had never heard this story before either. He suggested {{7}} they should contact a local historian who specialised {{8}} wartime correspondence, in case the letters turned out to be historically important."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "of"
+          ],
+          "explanation": "'A box of letters' uses 'of' to show what the box contained.",
+          "tag": "preposition",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "answers": [
+            "none"
+          ],
+          "explanation": "'None of them were dated at all' fits the following clause, which says Maria had no information at all about the order.",
+          "tag": "quantifier",
+          "commonWrong": {
+            "few": "'few' would mean a small number were dated, which contradicts 'no way of knowing' at all."
+          }
+        },
+        {
+          "n": 3,
+          "answers": [
+            "each",
+            "every"
+          ],
+          "explanation": "'Each/every one' refers to every single letter individually.",
+          "tag": "quantifier",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "answers": [
+            "whose"
+          ],
+          "explanation": "'Whose' is the possessive relative pronoun, used because the gap refers to the man's name (his name).",
+          "tag": "relative-clause",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "answers": [
+            "whether",
+            "if"
+          ],
+          "explanation": "'Wonder whether/if' introduces an indirect yes/no question.",
+          "tag": "reported-speech",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "answers": [
+            "who"
+          ],
+          "explanation": "'Who' introduces a non-defining relative clause describing 'her father'.",
+          "tag": "relative-clause",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "answers": [
+            "that"
+          ],
+          "explanation": "'Suggest that' introduces the reported clause with the suggestion.",
+          "tag": "reported-speech",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "answers": [
+            "in"
+          ],
+          "explanation": "'Specialise in' is the fixed preposition after this verb.",
+          "tag": "preposition",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe2-03",
+      "type": "openCloze",
+      "title": "Learning a Language Later in Life",
+      "topic": "education",
+      "source": "original",
+      "text": [
+        "{{1}} you are sixteen or sixty, research suggests it is never too late to learn a new language. Adult learners often worry that {{2}} brains are not as flexible as a child's, but recent studies paint a more encouraging picture.",
+        "Although children do pick up pronunciation more easily, adults often learn grammar faster {{3}} they can consciously compare new rules {{4}} ones they already know from their first language. {{5}}, the biggest obstacle for most adults is not ability but time.",
+        "Experts recommend setting aside a little time {{6}} day, rather than trying to study for hours {{7}} a time. Consistency, {{8}} than intensity, seems to be the key to long-term progress."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "whether"
+          ],
+          "explanation": "'Whether...or' presents two alternatives, here age sixteen or sixty.",
+          "tag": "linking",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "answers": [
+            "their"
+          ],
+          "explanation": "'Their brains' refers back to 'adult learners', so the possessive pronoun 'their' is needed.",
+          "tag": "pronoun-reference",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "answers": [
+            "because",
+            "since",
+            "as"
+          ],
+          "explanation": "'Because/since/as' all introduce the reason adults learn grammar faster.",
+          "tag": "linking",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "answers": [
+            "with",
+            "to"
+          ],
+          "explanation": "'Compare X with/to Y' is the fixed pattern for comparing two things.",
+          "tag": "preposition",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "answers": [
+            "indeed",
+            "actually"
+          ],
+          "explanation": "'Indeed/actually' both emphasise and confirm the point just made, introducing a stronger related fact.",
+          "tag": "linking",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "answers": [
+            "each",
+            "every"
+          ],
+          "explanation": "'Each/every day' expresses the regular routine being recommended.",
+          "tag": "quantifier",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "answers": [
+            "at"
+          ],
+          "explanation": "'At a time' is a fixed phrase meaning 'on each occasion'.",
+          "tag": "fixed-phrase",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "answers": [
+            "rather"
+          ],
+          "explanation": "'Rather than' is the fixed phrase used to contrast consistency with intensity.",
+          "tag": "comparison",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe2-04",
+      "type": "openCloze",
+      "title": "The Rise of the Cashless Café",
+      "topic": "money",
+      "source": "original",
+      "text": [
+        "A small but growing number of cafés {{1}} stopped accepting cash altogether, asking customers to pay {{2}} card or phone instead. Owners say the change has made queues shorter and {{3}} reduced the time staff spend counting coins at the end of the day.",
+        "Critics argue {{4}} this trend could make life harder for older people or {{5}} who simply prefer notes and coins. Some customers say they feel uncomfortable {{6}} asked to download yet another payment app just to buy a coffee.",
+        "{{7}} the drawbacks, most café owners insist the switch was worth it, pointing out {{8}} fewer cash deliveries mean lower security costs and less time wasted at the bank."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "have"
+          ],
+          "explanation": "The present perfect 'have stopped' needs 'have' because the subject 'cafés' is plural.",
+          "tag": "tense",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "answers": [
+            "by"
+          ],
+          "explanation": "'Pay by card' is the fixed preposition used for a method of payment.",
+          "tag": "preposition",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "answers": [
+            "has"
+          ],
+          "explanation": "'Has reduced' shares the subject 'the change' with 'has made', so 'has' completes the second verb.",
+          "tag": "tense",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "answers": [
+            "that"
+          ],
+          "explanation": "'Argue that' introduces the reported clause with the critics' claim.",
+          "tag": "reported-speech",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "answers": [
+            "those"
+          ],
+          "explanation": "'Those who' refers to the group of people who prefer notes and coins.",
+          "tag": "pronoun-reference",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "answers": [
+            "being"
+          ],
+          "explanation": "'Feel uncomfortable being asked' needs the passive gerund 'being asked' after the adjective.",
+          "tag": "passive",
+          "commonWrong": {}
+        },
+        {
+          "n": 7,
+          "answers": [
+            "despite"
+          ],
+          "explanation": "'Despite' is followed directly by a noun phrase ('the drawbacks'), not a full clause.",
+          "tag": "linking",
+          "commonWrong": {
+            "although": "'although' must be followed by a clause with a subject and verb, not just a noun phrase like 'the drawbacks'."
+          }
+        },
+        {
+          "n": 8,
+          "answers": [
+            "that"
+          ],
+          "explanation": "'Pointing out that' introduces the reported clause with the owners' observation.",
+          "tag": "reported-speech",
+          "commonWrong": {}
+        }
+      ]
+    }
+  ]
+}

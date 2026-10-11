@@ -1,0 +1,606 @@
+{
+  "level": "fce",
+  "part": "uoe1",
+  "sets": [
+    {
+      "id": "fce-uoe1-01",
+      "type": "mcCloze",
+      "title": "Robots in the Kitchen",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "For years, robots have taken {{1}} in car factories and warehouses, performing repetitive tasks that humans used to do. Now they are moving into a far more personal space: the kitchen. Several companies have recently managed to launch kitchen robots onto the {{2}}, machines that can chop vegetables, stir sauces and even plate up a finished meal without any human help.",
+        "The robots are not cheap; {{3}}, many experts believe prices will fall quickly as production increases. This is largely due {{4}} advances in artificial intelligence and sensor technology, which allow the machines to recognise ingredients and adjust cooking times automatically. Engineers had to figure {{5}} how to make the robotic arms move smoothly without spilling anything, and early models often splashed sauce across the worktop.",
+        "When the first versions appeared, they moved so slowly that many customers soon lost {{6}} in the idea, and some critics said the whole trend had got {{7}} of hand. Despite this, manufacturers remain confident. The device comes with a two-year {{8}}, so customers can get it repaired free of charge if anything goes wrong, and most reviewers agree that the technology is improving fast."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "part",
+            "role",
+            "share",
+            "piece"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'take part in' is a fixed phrase meaning to participate in something.",
+            "You 'play' a role, not 'take' one, so 'role' does not fit this fixed phrase.",
+            "'Take a share in' means to own part of a business; it does not fit this meaning.",
+            "'Piece' is never used in this fixed phrase."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 2,
+          "options": [
+            "market",
+            "trade",
+            "industry",
+            "business"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'launch something onto the market' is the fixed collocation for making a new product available to buy.",
+            "'Onto the trade' is not a natural collocation.",
+            "You launch a product onto the market, not onto an industry; 'onto the industry' is not correct.",
+            "'Onto the business' is not a natural collocation."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 3,
+          "options": [
+            "however",
+            "moreover",
+            "therefore",
+            "instead"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'however' introduces the contrast between the robots being expensive now and experts' prediction that prices will fall.",
+            "'Moreover' adds a similar idea; it does not fit a contrast.",
+            "'Therefore' signals a result, but falling prices are not a logical consequence of being expensive.",
+            "'Instead' signals replacement, not contrast between two different claims."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 4,
+          "options": [
+            "to",
+            "with",
+            "for",
+            "from"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'due to' is a fixed phrase meaning 'because of'.",
+            "'Due with' does not exist.",
+            "'Due for' means 'expected to happen soon', a different meaning.",
+            "'Due from' is used for money or things owed, not for causes."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 5,
+          "options": [
+            "out",
+            "up",
+            "in",
+            "on"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'figure out' means to work out or solve a problem.",
+            "'Figure up' is not a standard phrasal verb.",
+            "'Figure in' means to be included as a factor, not to solve something.",
+            "'Figure on' means to expect or plan for something."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "options": [
+            "interest",
+            "attention",
+            "care",
+            "mind"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'lose interest in' is the natural collocation for no longer being enthusiastic about something.",
+            "'Lose attention' is not a natural English collocation.",
+            "'Lose care' is not a standard collocation.",
+            "'Lose your mind' means to go crazy, which is not the meaning here."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 7,
+          "options": [
+            "out",
+            "off",
+            "away",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'get out of hand' is an idiom meaning to become uncontrollable.",
+            "'Get off hand' is not a real idiom.",
+            "'Get away of hand' is not correct English.",
+            "'Get over hand' is not a real idiom."
+          ],
+          "tag": "idiom"
+        },
+        {
+          "n": 8,
+          "options": [
+            "guarantee",
+            "promise",
+            "insurance",
+            "assurance"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'guarantee' is the standard word for a company's commitment to repair or replace a faulty product within a set period.",
+            "'Promise' is too general for this specific kind of consumer protection.",
+            "'Insurance' is protection you usually pay for against risk, not a manufacturer's free repair commitment.",
+            "'Assurance' means a statement that something is true, not a specific repair agreement."
+          ],
+          "tag": "meaning-in-context"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe1-02",
+      "type": "mcCloze",
+      "title": "The Marathon That Changed Her Life",
+      "topic": "sport",
+      "source": "original",
+      "text": [
+        "Until last year, Diane Foster had never taken part in any kind of race. She worked long hours as an accountant and rarely found time to exercise. Then a close friend persuaded her to sign {{1}} for a local 10-kilometre run, just to see what would happen.",
+        "She found the first few runs exhausting, but she refused to give {{2}} running, even when her legs ached so much that she could barely climb the stairs. Within six months, she had worked her way {{3}} to running ten kilometres without stopping, and she began to look {{4}} to her early-morning training sessions instead of dreading them.",
+        "Diane completed her first 10-kilometre race in just under an hour, and the sense of achievement {{5}} her decide to enter a half marathon a few months later. {{6}} that, she had never imagined she would one day run a full marathon, but that is exactly what happened last spring. Her story is proof {{7}} it is never too late to try something new, no matter {{8}} old you are."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "up",
+            "down",
+            "out",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'sign up for something' means to register to take part in it.",
+            "'Sign down for' is not a real phrasal verb.",
+            "'Sign out' means to record your departure or log out of a system, not to register for an event.",
+            "'Sign over' means to formally transfer ownership of something to someone else."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 2,
+          "options": [
+            "up",
+            "in",
+            "out",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'give up running' means to stop/quit running; followed directly by '-ing' this way, 'up' is the only option that works.",
+            "'Give in' means to surrender to pressure and does not combine directly with a following '-ing' object like this.",
+            "'Give out' means to distribute or to stop functioning, not to quit an activity.",
+            "'Give over' is not a standard phrasal verb with this meaning."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 3,
+          "options": [
+            "up",
+            "through",
+            "down",
+            "on"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'work your way up to something' means to progress gradually until you reach it.",
+            "'Work your way through' usually needs an object like a book or problem, not 'to' a distance.",
+            "'Down to' means 'the responsibility of', which does not fit here.",
+            "'On to' means moving to a new topic, not gradual progress."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 4,
+          "options": [
+            "forward",
+            "ahead",
+            "round",
+            "back"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'look forward to' is the fixed idiom for feeling happy about something that is going to happen, matching the contrast with 'dreading them'.",
+            "'Look ahead to' is used for longer-term planning, not personal anticipation like this.",
+            "'Look round to' is not a standard combination here.",
+            "'Look back to' means to think about the past, the opposite of anticipation."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 5,
+          "options": [
+            "made",
+            "encouraged",
+            "persuaded",
+            "motivated"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'make someone decide' uses the bare infinitive without 'to', which fits the sentence.",
+            "'Encouraged' would need 'encouraged her to decide', with 'to'.",
+            "'Persuaded' would need 'persuaded her to decide', with 'to'.",
+            "'Motivated' would need 'motivated her to decide', with 'to'."
+          ],
+          "tag": "verb-pattern"
+        },
+        {
+          "n": 6,
+          "options": [
+            "Before",
+            "Since",
+            "After",
+            "Until"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'before that' means 'up to that point', matching the time contrast with what happened later.",
+            "'Since that' is not a natural standalone time phrase (it would normally be 'since then').",
+            "'After that' would reverse the timeline, since the imagining failure happened earlier, not after.",
+            "'Until that' is grammatically incomplete on its own (it would need 'until then')."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 7,
+          "options": [
+            "that",
+            "of",
+            "for",
+            "which"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'proof that' introduces a clause with its own subject and verb.",
+            "'Proof of' needs a noun, not a full clause like 'it is never too late'.",
+            "'Proof for' is not a natural fixed pattern.",
+            "'Proof which' cannot directly introduce a new clause like this."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 8,
+          "options": [
+            "how",
+            "what",
+            "which",
+            "that"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'no matter how old you are' is the fixed pattern used with an adjective like 'old'.",
+            "'No matter what' would need a noun, not an adjective describing age.",
+            "'No matter which' is used for choosing between options, not describing a quality like age.",
+            "'No matter that' is not a standard fixed phrase."
+          ],
+          "tag": "fixed-phrase"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe1-03",
+      "type": "mcCloze",
+      "title": "Street Art Finds a New Audience",
+      "topic": "culture",
+      "source": "original",
+      "text": [
+        "Graffiti was once seen purely as a crime, but public {{1}} has slowly begun to change. Many cities now pay professional artists to carry {{2}} projects that turn grey walls into colourful murals.",
+        "One artist, who works {{3}} the name 'Luna', has painted more than fifty murals across Europe. She says the secret of a good mural lies {{4}} choosing a location where it will catch people's attention. Local councils used to {{5}} down requests for street art almost automatically, but many now actively invite artists to submit designs.",
+        "{{6}}, not everyone agrees that graffiti belongs in galleries. Some critics argue that moving street art indoors takes {{7}} from its original purpose, which was to be free and accessible to everyone. Even so, there is no {{8}} that public interest in the art form continues to grow every year."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "perception",
+            "attention",
+            "awareness",
+            "concern"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'public perception' is what people believe or think about something, and a perception is the kind of thing that can 'change' over time.",
+            "'Attention' is paid or drawn, and usually 'shifts' rather than 'changes'.",
+            "'Awareness' usually 'grows' or 'increases', not 'changes'.",
+            "'Concern' usually 'grows' or 'eases', not 'changes'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 2,
+          "options": [
+            "out",
+            "on",
+            "over",
+            "away"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'carry out a project' means to perform or execute it.",
+            "'Carry on' means to continue, and would normally need 'with' before a noun like 'projects'.",
+            "'Carry over' means to transfer something to a later time, not to execute it.",
+            "'Carry away' means to remove something physically, not to perform or execute it."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 3,
+          "options": [
+            "under",
+            "with",
+            "by",
+            "on"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'work under a name' means to use that name professionally, often a pseudonym.",
+            "'Work with the name' does not have this meaning.",
+            "'Work by the name' is not a standard collocation (though 'go by the name' is).",
+            "'Work on the name' suggests improving the name itself, not using it as a pseudonym."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 4,
+          "options": [
+            "in",
+            "at",
+            "on",
+            "to"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'the secret lies in doing something' is the fixed pattern for saying what something consists of.",
+            "'Lies at choosing' is not a natural collocation.",
+            "'Lies on choosing' is not a natural collocation.",
+            "'Lies to choosing' is not grammatically possible."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 5,
+          "options": [
+            "turn",
+            "put",
+            "let",
+            "knock"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'turn down' means to reject a request.",
+            "'Put down' means to criticise someone or to euthanise an animal, not to reject a request.",
+            "'Let down' means to disappoint someone.",
+            "'Knock down' means to demolish something or reduce a price."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "options": [
+            "However",
+            "Moreover",
+            "Therefore",
+            "Besides"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'however' introduces the contrast with the positive tone of the previous paragraph.",
+            "'Moreover' adds a similar point rather than contrasting with it.",
+            "'Therefore' signals a result, which does not fit here.",
+            "'Besides' adds an extra point rather than introducing a contrast."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 7,
+          "options": [
+            "away",
+            "off",
+            "out",
+            "apart"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'take away from something' means to reduce its value or quality.",
+            "'Take off from' usually means to depart, which is not the meaning here.",
+            "'Take out from' is not a natural collocation with this meaning.",
+            "'Take apart' means to disassemble something physically."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 8,
+          "options": [
+            "doubt",
+            "mistake",
+            "chance",
+            "worry"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'there is no doubt that' is the fixed phrase expressing certainty.",
+            "'There is no mistake that' is not a natural fixed phrase.",
+            "'There is no chance that' means something is very unlikely, the opposite meaning intended.",
+            "'There is no worry that' is not a standard fixed phrase."
+          ],
+          "tag": "fixed-phrase"
+        }
+      ]
+    },
+    {
+      "id": "fce-uoe1-04",
+      "type": "mcCloze",
+      "title": "Why We Can't Stop Checking Our Phones",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Most of us check our phones dozens of times a day, often without even {{1}} aware we are doing it. Psychologists say this habit is largely {{2}} to the way notifications trigger a small reward in the brain.",
+        "Each time a message arrives, the brain releases a small amount of dopamine, a chemical associated {{3}} pleasure and motivation. Over time, this can create a cycle that is surprisingly hard to break {{4}} of, even when people know the habit is affecting their sleep or concentration.",
+        "Experts suggest a few simple strategies: turning {{5}} notifications for non-essential apps, leaving the phone in another room during meals, and setting specific times to check messages {{6}} than looking constantly. {{7}}, most agree that occasional use is not harmful — the real problem is when checking becomes {{8}}."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "being",
+            "having",
+            "getting",
+            "doing"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'without even being aware' uses 'being' plus an adjective to describe a state.",
+            "'Having aware' is not grammatically possible.",
+            "'Getting aware' is not idiomatic; English uses 'become aware' or 'be aware'.",
+            "'Doing aware' is not grammatically possible."
+          ],
+          "tag": "verb-pattern"
+        },
+        {
+          "n": 2,
+          "options": [
+            "due",
+            "result",
+            "cause",
+            "reason"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'is largely due to' is the fixed phrase meaning 'is largely caused by'.",
+            "'Result to' is wrong; the correct forms are 'result in' or 'result from'.",
+            "'Cause to' needs a different pattern ('cause someone to do something').",
+            "'Reason to' needs a different pattern ('a reason to believe something')."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 3,
+          "options": [
+            "with",
+            "to",
+            "on",
+            "for"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'associated with' is the standard preposition after 'associated'.",
+            "'Associated to' is considered non-standard English.",
+            "'Associated on' is not correct.",
+            "'Associated for' is not correct."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 4,
+          "options": [
+            "free",
+            "clear",
+            "loose",
+            "away"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'break free of something' means to escape from a situation that controls you.",
+            "'Break clear of' is used for physically escaping an obstacle, not an abstract habit.",
+            "'Break loose' is normally followed by 'from', not 'of'.",
+            "'Break away' is normally followed by 'from', not 'of'."
+          ],
+          "tag": "idiom"
+        },
+        {
+          "n": 5,
+          "options": [
+            "off",
+            "down",
+            "out",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'turn off' means to deactivate something such as notifications.",
+            "'Turn down' means to reduce volume or to reject an offer, not deactivate.",
+            "'Turn out' means to result in a particular way or to attend an event.",
+            "'Turn over' means to flip something or hand it to someone else."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "options": [
+            "rather",
+            "sooner",
+            "other",
+            "worse"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'rather than' means 'instead of' and fits the comparison between two habits.",
+            "'Sooner than' relates to time preference, not a choice between two habits here.",
+            "'Other than' means 'except for', which reverses the intended meaning.",
+            "'Worse than' would mean checking at set times is worse, the opposite of the intended advice."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 7,
+          "options": [
+            "Overall",
+            "Moreover",
+            "Therefore",
+            "Besides"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'overall' introduces a summarising conclusion after the list of strategies.",
+            "'Moreover' adds a new point rather than summarising.",
+            "'Therefore' signals a result from the previous sentence, which does not fit a summary.",
+            "'Besides' adds an extra point rather than summarising."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 8,
+          "options": [
+            "compulsive",
+            "obligatory",
+            "voluntary",
+            "occasional"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'compulsive' describes behaviour driven by an irresistible urge, which is the real problem described.",
+            "'Obligatory' means required by a rule, which is not the meaning here.",
+            "'Voluntary' means done willingly, which would not describe a problem.",
+            "'Occasional' contradicts the sentence, which has just said occasional use is not harmful."
+          ],
+          "tag": "meaning-in-context"
+        }
+      ]
+    }
+  ]
+}
