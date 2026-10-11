@@ -1,0 +1,352 @@
+{
+  "level": "cae",
+  "part": "uoe3",
+  "sets": [
+    {
+      "id": "cae-uoe3-01",
+      "type": "wordFormation",
+      "title": "Artificial Intelligence in Medicine",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "Artificial intelligence is beginning to transform medicine in ways that would have seemed like pure {{1}} just a decade ago. Algorithms trained on millions of scans can now detect early signs of disease with a level of {{2}} that sometimes exceeds that of experienced doctors.",
+        "One of the most promising areas is diagnostic imaging, where software can flag {{3}} patterns in X-rays and MRI scans long before symptoms become obvious. This early {{4}} can make a significant difference to treatment outcomes, particularly for conditions such as cancer, where speed often determines survival.",
+        "Despite the excitement, many clinicians remain {{5}} about handing over diagnostic decisions entirely to a machine. They point out that algorithms can be {{6}} by biased training data, and that a purely statistical judgement sometimes misses the kind of contextual detail a human doctor would notice {{7}}.",
+        "For now, most hospitals treat AI as a {{8}} tool rather than a replacement, using it to double-check human judgement rather than override it. Whether that careful balance can be maintained as the technology improves and costs continue to fall remains an open question for health services everywhere."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "IMAGINE",
+          "answers": [
+            "imagination"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "'Pure imagination' is the fixed phrase for something entirely unreal or fantastical; the noun form of IMAGINE is needed."
+        },
+        {
+          "n": 2,
+          "stem": "ACCURATE",
+          "answers": [
+            "accuracy"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'accuracy' is needed after 'a level of'."
+        },
+        {
+          "n": 3,
+          "stem": "NORM",
+          "answers": [
+            "abnormal"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The negative adjective 'abnormal' (NORM + the negative prefix ab-) is needed to describe patterns that deviate from the norm."
+        },
+        {
+          "n": 4,
+          "stem": "DETECT",
+          "answers": [
+            "detection"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'detection' is needed after the adjective 'early'."
+        },
+        {
+          "n": 5,
+          "stem": "CONVINCE",
+          "answers": [
+            "unconvinced"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The negative adjective 'unconvinced' (CONVINCE + negative prefix un-) fits 'remain unconvinced about'."
+        },
+        {
+          "n": 6,
+          "stem": "LEAD",
+          "answers": [
+            "misled"
+          ],
+          "tag": "word-formation-verb",
+          "explanation": "'Misled' is the past participle of 'mislead' (LEAD + the prefix mis-), needed for the passive 'can be misled by'."
+        },
+        {
+          "n": 7,
+          "stem": "IMMEDIATE",
+          "answers": [
+            "immediately"
+          ],
+          "tag": "word-formation-adverb",
+          "explanation": "The adverb form 'immediately' is needed to modify 'would notice'."
+        },
+        {
+          "n": 8,
+          "stem": "SUPPORT",
+          "answers": [
+            "supportive",
+            "supporting"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective form 'supportive' (or the participle 'supporting', used adjectivally as in 'a supporting role') is needed to describe the kind of tool AI is treated as."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe3-02",
+      "type": "wordFormation",
+      "title": "The Psychology of Procrastination",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Almost everyone procrastinates occasionally, but for some people the {{1}} to delay even simple tasks becomes a genuine source of stress. Psychologists now understand procrastination less as laziness and more as an {{2}} strategy for managing uncomfortable emotions such as anxiety or self-doubt.",
+        "When a task feels overwhelming, the brain often opts for the more {{3}} choice of switching to something easier and more enjoyable, even if the person is fully aware that the {{4}} will only get worse. This short-term comfort comes at a long-term cost: deadlines missed through procrastination tend to {{5}} stress levels considerably, far beyond what the original task would ever have caused.",
+        "Encouragingly, research suggests that procrastination can be {{6}} reduced through small, practical changes, such as breaking large projects into tiny steps or removing {{7}} distractions like phones from the workspace. The goal is not to eliminate every impulse to delay, which is probably {{8}}, but to make starting a task as easy as possible, so that the brain no longer feels the need to escape into something more comfortable."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "TEND",
+          "answers": [
+            "tendency"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'tendency' is needed after 'the' and before 'to delay'."
+        },
+        {
+          "n": 2,
+          "stem": "EMOTION",
+          "answers": [
+            "emotional"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective form 'emotional' is needed to describe the type of strategy."
+        },
+        {
+          "n": 3,
+          "stem": "APPEAL",
+          "answers": [
+            "appealing"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective form 'appealing' is needed after 'more' to describe the attractive choice."
+        },
+        {
+          "n": 4,
+          "stem": "ANXIOUS",
+          "answers": [
+            "anxiety"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'anxiety' is needed as the subject of 'will only get worse'."
+        },
+        {
+          "n": 5,
+          "stem": "HIGH",
+          "answers": [
+            "heighten"
+          ],
+          "tag": "word-formation-verb",
+          "explanation": "The verb form 'heighten' (meaning 'increase') is needed after 'tend to'."
+        },
+        {
+          "n": 6,
+          "stem": "SIGNIFY",
+          "answers": [
+            "significantly"
+          ],
+          "tag": "word-formation-adverb",
+          "explanation": "The adverb form 'significantly' is needed to modify the passive verb 'reduced'."
+        },
+        {
+          "n": 7,
+          "stem": "NECESSARY",
+          "answers": [
+            "unnecessary"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The negative adjective 'unnecessary' is needed to describe distractions that do not need to be there."
+        },
+        {
+          "n": 8,
+          "stem": "POSSIBLE",
+          "answers": [
+            "impossible"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The negative adjective 'impossible' is needed to describe the unrealistic goal of eliminating every impulse to delay."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe3-03",
+      "type": "wordFormation",
+      "title": "Sustainable Fashion",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "The fashion industry has long had a reputation for {{1}}, with new collections encouraging shoppers to replace perfectly good clothes every season. In recent years, however, a growing {{2}} of consumers has begun to question this model, demanding clothes that last longer and cost the environment less.",
+        "Some brands have responded by using recycled fabrics or offering repair services instead of {{3}} replacements. Others have gone further, redesigning their entire supply chains to reduce {{4}} and water use at every stage of production, and publishing detailed reports so that customers can see exactly what has changed.",
+        "Sceptics argue that much of this change amounts to little more than clever, {{5}} marketing - sometimes labelled 'greenwashing' - designed to make {{6}} habits look responsible without actually changing them. Genuine progress, they say, would require shoppers to buy {{7}} and look after what they already own, a shift that runs directly against an industry built on constant {{8}}, and one that no amount of clever advertising can really speed up."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "WASTE",
+          "answers": [
+            "wastefulness"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'wastefulness' is needed after 'a reputation for'."
+        },
+        {
+          "n": 2,
+          "stem": "MAJOR",
+          "answers": [
+            "majority"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'majority' is needed after 'a growing'."
+        },
+        {
+          "n": 3,
+          "stem": "NEED",
+          "answers": [
+            "needless"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The adjective 'needless' (NEED plus the negating suffix -less) describes replacements that are unnecessary."
+        },
+        {
+          "n": 4,
+          "stem": "POLLUTE",
+          "answers": [
+            "pollution"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'pollution' is needed to pair with 'and water use'."
+        },
+        {
+          "n": 5,
+          "stem": "DECEIVE",
+          "answers": [
+            "deceptive"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective form 'deceptive' is needed to describe marketing that creates a false impression."
+        },
+        {
+          "n": 6,
+          "stem": "HARM",
+          "answers": [
+            "harmful"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective form 'harmful' is needed to describe the habits being disguised as responsible."
+        },
+        {
+          "n": 7,
+          "stem": "SPARE",
+          "answers": [
+            "sparingly"
+          ],
+          "tag": "word-formation-adverb",
+          "explanation": "The adverb form 'sparingly' (meaning 'using only a small amount') is needed after 'buy'."
+        },
+        {
+          "n": 8,
+          "stem": "RENEW",
+          "answers": [
+            "renewal"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'renewal' is needed to describe an industry built on constantly replacing its collections."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe3-04",
+      "type": "wordFormation",
+      "title": "The Evolution of Street Art",
+      "topic": "arts",
+      "source": "original",
+      "text": [
+        "Once dismissed as simple vandalism, street art has undergone a remarkable {{1}} over the past thirty years, moving from the margins of the art world into major galleries and even government-funded murals. Cities that once spent millions scrubbing walls {{2}} now commission well-known artists to decorate entire buildings.",
+        "Part of this shift reflects a growing {{3}} that street art can regenerate neglected neighbourhoods, attracting visitors and giving local communities a renewed sense of pride in their surroundings. Property developers, too, have noticed that a striking mural can make a previously {{4}} area suddenly seem fashionable.",
+        "Not everyone welcomes the change. Long-standing street artists complain that their work has been {{5}} tamed once it moves from an illegal wall to an {{6}} commission, losing the rebellious edge that first made it interesting. Others worry that councils now use murals as a {{7}} fix for deeper problems such as poverty or {{8}} housing, painting over issues rather than addressing them, while doing little to change the daily lives of the people living nearby."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "TRANSFORM",
+          "answers": [
+            "transformation"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'transformation' is needed after 'a remarkable'."
+        },
+        {
+          "n": 2,
+          "stem": "SPOT",
+          "answers": [
+            "spotless"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "'Scrub something spotless' is a resultative pattern meaning 'scrub until completely clean'; SPOT plus -less forms the adjective needed."
+        },
+        {
+          "n": 3,
+          "stem": "BELIEVE",
+          "answers": [
+            "belief"
+          ],
+          "tag": "word-formation-noun",
+          "explanation": "The noun form 'belief' is needed after 'a growing', followed by the 'that'-clause explaining its content."
+        },
+        {
+          "n": 4,
+          "stem": "RUN",
+          "answers": [
+            "run-down"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "'Run-down' is a compound adjective (RUN plus 'down') meaning 'in poor condition', describing the area before the mural."
+        },
+        {
+          "n": 5,
+          "stem": "INEVITABLE",
+          "answers": [
+            "inevitably"
+          ],
+          "tag": "word-formation-adverb",
+          "explanation": "The adverb form 'inevitably' (meaning 'as was bound to happen') is needed to modify the passive verb 'tamed', reflecting how unavoidable the change in tone seems once a piece moves into a legal setting."
+        },
+        {
+          "n": 6,
+          "stem": "AUTHOR",
+          "answers": [
+            "authorised"
+          ],
+          "tag": "word-formation-verb",
+          "explanation": "'Authorised' (AUTHOR plus -ise/-ize) is the participle meaning 'officially approved', describing the legal commission."
+        },
+        {
+          "n": 7,
+          "stem": "SIMPLE",
+          "answers": [
+            "simplistic"
+          ],
+          "tag": "word-formation-adjective",
+          "explanation": "The adjective 'simplistic' (SIMPLE plus -istic) describes a solution that oversimplifies a deeper problem."
+        },
+        {
+          "n": 8,
+          "stem": "ADEQUATE",
+          "answers": [
+            "inadequate"
+          ],
+          "tag": "word-formation-negative",
+          "explanation": "The negative adjective 'inadequate' describes housing that is insufficient or substandard."
+        }
+      ]
+    }
+  ]
+}

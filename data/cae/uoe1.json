@@ -1,0 +1,607 @@
+{
+  "level": "cae",
+  "part": "uoe1",
+  "sets": [
+    {
+      "id": "cae-uoe1-01",
+      "type": "mcCloze",
+      "title": "Rewilding Britain's Rivers",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "For decades, many of Britain's rivers were treated as little more than drains, their banks reinforced with concrete and their courses straightened to {{1}} flooding downstream. Today, however, a quiet revolution is under way. Conservationists are deliberately allowing rivers to wind, flood and reshape themselves, a process known as rewilding.",
+        "One of the most striking examples has been the reintroduction of beavers. Once hunted to {{2}} in the sixteenth century, beavers are now being released into fenced enclosures, where their dams {{3}} rainfall, creating wetlands that store water and filter out pollution. Early results suggest that the animals could {{4}} a significant contribution to reducing both flood and drought risk.",
+        "Critics, {{5}}, warn that rewilding should not be used as an excuse to abandon flood defences altogether, particularly in densely populated areas. Farmers, too, have voiced concern that unmanaged water levels could put valuable grazing land {{6}} risk. Supporters counter that, with careful planning, conservation and farming can {{7}} hand in hand, and point to pilot schemes in Devon and Yorkshire that have already {{8}} a third cut in flood damage to nearby villages."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "prevent",
+            "resist",
+            "refuse",
+            "defend"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'prevent flooding' is the standard collocation for stopping it occurring.",
+            "'Resist flooding' is not a natural collocation here; resist suggests opposing a force directly, not preventing an outcome.",
+            "'Refuse flooding' does not make sense; you cannot refuse a natural event.",
+            "'Defend flooding' is wrong; you defend against something, not defend it."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 2,
+          "options": [
+            "extinction",
+            "eradication",
+            "extermination",
+            "exhaustion"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'hunted to extinction' is the fixed phrase for a species being wiped out.",
+            "'Eradication' is used for diseases or pests being wiped out systematically, not animals being hunted; 'hunted to eradication' is not idiomatic.",
+            "'Extermination' is a near-synonym of extinction but does not form the fixed phrase 'hunted to extermination'.",
+            "'Hunted to exhaustion' describes tiring an animal out in a single chase, not wiping out a species."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 3,
+          "options": [
+            "detain",
+            "retain",
+            "obtain",
+            "sustain"
+          ],
+          "answer": 1,
+          "why": [
+            "'Detain' is used for holding people, such as prisoners, not for holding back water.",
+            "Correct: 'retain rainfall' means to hold water back, which is exactly what a dam does.",
+            "'Obtain rainfall' means to acquire or get rainfall, which is not what a dam does to the water once it falls.",
+            "'Sustain rainfall' would mean to keep the rain itself going, not to hold the fallen water back, so it does not fit."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 4,
+          "options": [
+            "do",
+            "have",
+            "take",
+            "make"
+          ],
+          "answer": 3,
+          "why": [
+            "'Do a contribution' is not a correct collocation in English.",
+            "'Have a contribution' is not idiomatic; you make or give a contribution.",
+            "'Take a contribution' reverses the logic; you take, not make, something from someone else, so it does not fit.",
+            "Correct: 'make a contribution' is the only verb that collocates with 'contribution'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 5,
+          "options": [
+            "therefore",
+            "however",
+            "accordingly",
+            "moreover"
+          ],
+          "answer": 1,
+          "why": [
+            "'Therefore' marks a result, but the critics' warning is not a consequence of the previous sentence.",
+            "Correct: 'however' signals the contrast between the optimistic view above and the critics' concern here.",
+            "'Accordingly' marks a result that follows logically from something just said, but the critics' warning is not a consequence of the earlier description of rewilding; it contrasts with it.",
+            "'Moreover' adds a similar point, but this sentence introduces an opposing view, not an additional one."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 6,
+          "options": [
+            "on",
+            "in",
+            "at",
+            "under"
+          ],
+          "answer": 2,
+          "why": [
+            "'Put land on risk' is not idiomatic; the fixed phrase uses 'at'.",
+            "'Put land in risk' is not a correct English phrase.",
+            "Correct: 'put something at risk' is the fixed phrase.",
+            "'Under risk' is not the standard phrase; English uses 'at risk' here."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 7,
+          "options": [
+            "go",
+            "live",
+            "stay",
+            "stand"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'go hand in hand' is the fixed idiom meaning to happen together successfully.",
+            "'Live hand in hand' is not idiomatic; it is not an established English phrase (unlike 'live hand to mouth', which means something different).",
+            "'Stay hand in hand' is not a recognised fixed expression.",
+            "'Stand hand in hand' is not an established idiom in English."
+          ],
+          "tag": "idiom"
+        },
+        {
+          "n": 8,
+          "options": [
+            "obtained",
+            "achieved",
+            "gained",
+            "reached"
+          ],
+          "answer": 1,
+          "why": [
+            "'Obtained a cut' is not idiomatic; 'obtain' means to acquire something, which does not fit a reduction that results from a scheme's effect.",
+            "Correct: 'achieved a cut' is the natural collocation for accomplishing a reduction in something.",
+            "'Gained a cut' does not fit; 'gain' usually pairs with an advantage or weight, not with a reduction in damage.",
+            "'Reached a cut' is not a natural collocation; 'reach' usually pairs with a level, point or agreement, not with 'a cut'."
+          ],
+          "tag": "collocation"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe1-02",
+      "type": "mcCloze",
+      "title": "The Science of Deja Vu",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Almost everyone has, at some point, experienced the eerie sense that a completely new situation has somehow already taken {{1}} before. This feeling, known as deja vu, has puzzled scientists for more than a century, and it is only recently that research has begun to {{2}} light on what might be causing it.",
+        "One leading theory suggests that deja vu {{3}} about when the brain's memory and recognition systems briefly fall out of sync, so that a new experience is mistakenly tagged as familiar. Rather than being a sign of a faulty memory, some researchers now argue that deja vu may actually {{4}} evidence that the brain's error-checking systems are working well, catching and flagging a strange mismatch before it causes real confusion.",
+        "Critics of this theory draw attention {{5}} the fact that deja vu is notoriously difficult to study in a laboratory, since it cannot be reliably triggered {{6}} demand. Even so, researchers have found ways to produce a milder version of the sensation using virtual reality, which allows them to {{7}} out controlled, repeatable experiments. Whatever the eventual explanation turns out to be, one {{8}} is certain: deja vu offers a rare window into how the brain quietly checks its own work."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "got",
+            "had",
+            "made",
+            "place"
+          ],
+          "answer": 3,
+          "why": [
+            "'Got place' does not exist as a fixed phrase in English.",
+            "'Had place' is not a correct English expression.",
+            "'Made place' is not idiomatic; the fixed phrase uses 'take', not 'make'.",
+            "Correct: 'taken place' is the fixed phrase meaning 'happened'."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 2,
+          "options": [
+            "shed",
+            "turn",
+            "put",
+            "give"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'shed light on' is the fixed idiom for making something clearer.",
+            "'Turn light on' only refers to switching on a literal light, not to clarifying research.",
+            "'Put light on' is not an established idiom in English.",
+            "'Give light on' is not a correct collocation; the idiom specifically uses 'shed'."
+          ],
+          "tag": "idiom"
+        },
+        {
+          "n": 3,
+          "options": [
+            "goes",
+            "brings",
+            "turns",
+            "comes"
+          ],
+          "answer": 3,
+          "why": [
+            "'Goes about' means to undertake a task in a certain way, which does not fit this context.",
+            "'Brings about' is transitive and needs an object ('X brings Y about'), so it cannot be used intransitively here.",
+            "'Turns about' is not a standard English phrasal verb.",
+            "Correct: 'comes about' is an intransitive phrasal verb meaning 'happens', which fits 'deja vu comes about when...'."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 4,
+          "options": [
+            "contain",
+            "compose",
+            "constitute",
+            "comprise"
+          ],
+          "answer": 2,
+          "why": [
+            "Evidence is not something that is 'contained'; déjà vu itself would have to be the evidence, not hold it inside.",
+            "'Compose evidence' reverses the logic; things compose a whole, they do not compose evidence of something else.",
+            "Correct: 'constitute evidence' is a formal, precise collocation meaning 'count as' or 'amount to'.",
+            "'Comprise' means 'be made up of', so 'déjà vu may comprise evidence' would mean déjà vu is made of evidence, which is not the intended meaning."
+          ],
+          "tag": "meaning-in-context"
+        },
+        {
+          "n": 5,
+          "options": [
+            "on",
+            "to",
+            "at",
+            "with"
+          ],
+          "answer": 1,
+          "why": [
+            "'Draw attention on' is not idiomatic English.",
+            "Correct: 'draw attention to' is the fixed phrase; only 'to' fits.",
+            "'Draw attention at' is not a correct English preposition pattern.",
+            "'Draw attention with' changes the meaning to using something as a means, which does not fit here."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 6,
+          "options": [
+            "at",
+            "by",
+            "in",
+            "on"
+          ],
+          "answer": 3,
+          "why": [
+            "'At demand' is not correct English.",
+            "'By demand' is not the standard fixed phrase.",
+            "'In demand' means 'popular', which is a different meaning from being triggered whenever requested.",
+            "Correct: 'on demand' is the fixed phrase meaning 'whenever requested'."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 7,
+          "options": [
+            "hold",
+            "carry",
+            "take",
+            "bring"
+          ],
+          "answer": 1,
+          "why": [
+            "'Hold out experiments' is not a correct phrasal verb; 'hold out' means to resist or last.",
+            "Correct: 'carry out experiments' is the standard phrasal verb for conducting them.",
+            "'Take out experiments' is not idiomatic English.",
+            "'Bring out experiments' is not a correct collocation; 'bring out' means to reveal a quality, not conduct a test."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 8,
+          "options": [
+            "this",
+            "thing",
+            "some",
+            "that"
+          ],
+          "answer": 1,
+          "why": [
+            "'This thing is certain' does not fit the fixed expression, which specifically uses 'one'.",
+            "Correct: 'one thing is certain' is the fixed expression used to introduce a firm conclusion.",
+            "'Some thing' is not a correct English form (it would have to be the single word 'something', which does not fit grammatically here).",
+            "'That thing is certain' would need a clear earlier referent, which is missing here; the fixed phrase uses 'one'."
+          ],
+          "tag": "fixed-phrase"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe1-03",
+      "type": "mcCloze",
+      "title": "Remote Work and the Four-Day Week",
+      "topic": "work",
+      "source": "original",
+      "text": [
+        "When the pandemic forced millions of employees to work from home almost overnight, few predicted that the shift would still be {{1}} effect several years later. Yet for many companies, remote and hybrid work has become the new normal, rather than a temporary measure.",
+        "Encouraged by this success, a growing number of employers are now embracing a four-day week in the {{2}} that a shorter week can boost productivity rather than harm it. Trials carried out across several countries have found that most participating firms kept output {{3}} unchanged {{4}} a twenty per cent cut in working hours.",
+        "Not everyone is convinced, however. Some economists {{5}} out that the model suits office-based, knowledge-economy jobs far better than it does manufacturing or healthcare, where staff cannot simply compress their hours without a drop in service. Trade unions, {{6}} the whole, have welcomed the trend, although a few remain wary that employers might expect the same workload to be squeezed into fewer days. {{7}} these concerns, pilot schemes continue to spread, and several governments are now considering legislation that would give employees the right {{8}} request a four-day week."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "in",
+            "on",
+            "at",
+            "with"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'in effect' is the fixed phrase meaning 'in operation, still applying'.",
+            "'On effect' is not a correct English phrase.",
+            "'At effect' is not idiomatic English.",
+            "'With effect' alone is not the fixed phrase (it is only used in 'with effect from a date'), so it does not fit here."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 2,
+          "options": [
+            "manner",
+            "belief",
+            "sense",
+            "notion"
+          ],
+          "answer": 1,
+          "why": [
+            "'In the manner that' means 'in the way that', which does not make sense here.",
+            "Correct: 'in the belief that' is the fixed phrase meaning 'because one believes that'.",
+            "'In the sense that' means 'in that respect', which does not fit the meaning of acting because of a belief.",
+            "'In the notion that' is not a standard English phrase; the correct pattern would be 'on the notion that'."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 3,
+          "options": [
+            "strongly",
+            "closely",
+            "deeply",
+            "largely"
+          ],
+          "answer": 3,
+          "why": [
+            "'Strongly unchanged' is not a natural English collocation.",
+            "'Closely' collocates with words like 'resemble' or 'related', not with 'unchanged'.",
+            "'Deeply' collocates with words like 'concerned' or 'affected', not with 'unchanged'.",
+            "Correct: 'largely unchanged' is the natural collocation meaning 'for the most part the same'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 4,
+          "options": [
+            "through",
+            "under",
+            "regardless of",
+            "beside"
+          ],
+          "answer": 2,
+          "why": [
+            "'Through a cut' would wrongly suggest that the cut itself caused output to stay unchanged, which reverses the intended, surprising meaning.",
+            "'Under a twenty per cent cut' is not a correct English collocation with 'kept output unchanged'.",
+            "Correct: 'regardless of' is the fixed phrase meaning 'without being affected by', followed directly by a noun phrase.",
+            "'Beside' means 'next to' (physical position) and cannot introduce a contrast or a condition, so 'unchanged beside a cut' makes no sense."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 5,
+          "options": [
+            "point",
+            "lay",
+            "set",
+            "bring"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'point out' is the phrasal verb meaning to state a fact.",
+            "'Lay out' means to display or explain in detail, but is not used with a direct 'that'-clause in this way.",
+            "'Set out' means to explain something in an organised way, but does not naturally take a 'that'-clause like this.",
+            "'Bring out' means to reveal a quality, not to state a fact, so it does not fit here."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "options": [
+            "in",
+            "on",
+            "by",
+            "at"
+          ],
+          "answer": 1,
+          "why": [
+            "'In the whole' is not a correct English phrase.",
+            "Correct: 'on the whole' is the fixed phrase meaning 'generally speaking'.",
+            "'By the whole' is not idiomatic English.",
+            "'At the whole' is not a correct English expression."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 7,
+          "options": [
+            "Despite",
+            "Although",
+            "Unless",
+            "Besides"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'despite' is followed directly by a noun phrase ('these concerns'), which fits here.",
+            "'Although' must be followed by a full clause with a verb, not a bare noun phrase like 'these concerns'.",
+            "'Unless' introduces a condition, which does not match the meaning of continuing in spite of concerns.",
+            "'Besides' means 'in addition to', which does not fit the contrast needed here."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 8,
+          "options": [
+            "of",
+            "that",
+            "to",
+            "for"
+          ],
+          "answer": 2,
+          "why": [
+            "'The right of request' is archaic and changes the register oddly; it is not the standard modern phrase.",
+            "'The right that request' is not grammatical English.",
+            "Correct: 'the right to request' uses the infinitive, which is the standard pattern after 'right'.",
+            "'The right for request' is not grammatical; 'right' is followed by a to-infinitive, not 'for' plus a bare verb."
+          ],
+          "tag": "preposition"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe1-04",
+      "type": "mcCloze",
+      "title": "The Hidden History of Tea",
+      "topic": "history",
+      "source": "original",
+      "text": [
+        "Few drinks have shaped world history quite as decisively as tea. Originally valued in China for its {{1}} properties, tea was for centuries drunk purely as a medicine before it gradually came to be enjoyed as an everyday pleasure.",
+        "By the seventeenth century, tea had begun to make {{2}} way into Europe, carried back by merchants trading with the East. It was in Britain, however, that the drink truly {{3}} off, helped along by aggressive marketing and, later, by cheap supplies grown on plantations in India and Ceylon.",
+        "The trade was not without its dark side. Tea was closely bound {{4}} with the opium trade, since British merchants needed something to sell the Chinese in exchange for tea, and opium filled that role with devastating consequences. Nor was tea entirely {{5}} from the slave-like conditions found elsewhere in colonial agriculture: plantation workers in Assam were often recruited under contracts that left them treated little {{6}} than indentured labourers.",
+        "Today, tea is {{7}} grown and consumed across the globe, and its history continues to {{8}} questions about the uncomfortable links between everyday habits and empire."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "medicine",
+            "medical",
+            "medicinal",
+            "remedial"
+          ],
+          "answer": 2,
+          "why": [
+            "'Medicine properties' is ungrammatical; a noun cannot directly modify 'properties' like this.",
+            "'Medical properties' is not the natural collocation; 'medical' relates to medicine and doctors in general, not to a substance's own healing qualities.",
+            "Correct: 'medicinal properties' is the standard collocation for a substance's healing qualities.",
+            "'Remedial properties' is not a natural collocation; 'remedial' is normally used for corrective teaching or action, not a plant's healing qualities."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 2,
+          "options": [
+            "a",
+            "the",
+            "its",
+            "this"
+          ],
+          "answer": 2,
+          "why": [
+            "'Make a way into' changes the meaning to creating a path, not spreading gradually, so it does not fit.",
+            "'Make the way into' is not the correct fixed phrase; it requires a possessive pronoun.",
+            "Correct: the possessive pronoun 'its' refers back to 'tea' in the fixed phrase 'make its way into'.",
+            "'Make this way' does not fit the fixed phrase, which needs a possessive referring back to tea."
+          ],
+          "tag": "pronoun-reference"
+        },
+        {
+          "n": 3,
+          "options": [
+            "took",
+            "got",
+            "went",
+            "set"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'took off' is the phrasal verb meaning 'became suddenly popular or successful'.",
+            "'Got off' means to start, or to avoid punishment, neither of which matches 'became popular' here.",
+            "'Went off' usually means to explode or, for food, to spoil, which does not fit this meaning.",
+            "'Set off' means to begin a journey or start something, not to become popular."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 4,
+          "options": [
+            "on",
+            "out",
+            "in",
+            "up"
+          ],
+          "answer": 3,
+          "why": [
+            "'Bound on with' is not idiomatic English.",
+            "'Bound out with' is not a correct English expression.",
+            "'Bound in with' is not a correct English phrase.",
+            "Correct: 'bound up with' is the fixed phrase meaning 'closely connected to'."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 5,
+          "options": [
+            "apart",
+            "clear",
+            "away",
+            "free"
+          ],
+          "answer": 3,
+          "why": [
+            "'Apart from' means 'except for', which is a different meaning from being unaffected by something.",
+            "'Clear from' is not the natural collocation for being unaffected by something; English uses 'clear of' in a different sense.",
+            "'Away from' suggests physical distance rather than being unaffected by conditions, so it does not fit the intended meaning.",
+            "Correct: 'free from' is the fixed phrase meaning 'not affected by'."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 6,
+          "options": [
+            "better",
+            "less",
+            "more",
+            "further"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'little better than' means 'barely superior to', fitting the comparison with indentured labourers' harsh conditions.",
+            "'Little less than' would illogically suggest the workers were treated better than indentured labourers, which contradicts the context of harsh conditions.",
+            "'Treated little more than indentured labourers' is an odd construction; 'little more than' normally describes what something merely amounts to, not how people are treated.",
+            "'Little further than' does not form a meaningful comparison of treatment here."
+          ],
+          "tag": "comparison"
+        },
+        {
+          "n": 7,
+          "options": [
+            "closely",
+            "largely",
+            "greatly",
+            "widely"
+          ],
+          "answer": 3,
+          "why": [
+            "'Closely grown and consumed' is not a meaningful English collocation.",
+            "'Largely grown and consumed' does not fit; 'largely' is normally used to mean 'mostly' or 'for the most part', not 'in many places'.",
+            "'Greatly grown and consumed' is not a natural English collocation; 'greatly' pairs with words like 'affected' or 'admired', not with spread across places.",
+            "Correct: 'widely grown and consumed' is the natural collocation meaning 'in many places'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 8,
+          "options": [
+            "arise",
+            "raise",
+            "rise",
+            "lift"
+          ],
+          "answer": 1,
+          "why": [
+            "'Arise' is also intransitive; English says 'questions arise', not 'history arises questions'.",
+            "Correct: 'raise questions' is the correct transitive collocation; 'raise' takes a direct object.",
+            "'Rise' is intransitive and cannot take a direct object, so 'rise questions' is ungrammatical.",
+            "'Lift questions' is not a correct English collocation; you raise questions, not lift them."
+          ],
+          "tag": "collocation"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2189 @@
+{
+  "level": "cae",
+  "words": [
+    {
+      "id": "cae-v-001",
+      "word": "workforce",
+      "pos": "noun",
+      "definition": "all the people who work for a company or are available to work in a country",
+      "example": "Automation has reduced the size of the workforce needed on the factory floor.",
+      "topic": "work",
+      "collocations": [
+        "a skilled workforce",
+        "the global workforce"
+      ]
+    },
+    {
+      "id": "cae-v-002",
+      "word": "workload",
+      "pos": "noun",
+      "definition": "the amount of work that a person or machine has to do",
+      "example": "Her workload doubled after two colleagues left the department.",
+      "topic": "work",
+      "collocations": [
+        "a heavy workload",
+        "manage your workload"
+      ]
+    },
+    {
+      "id": "cae-v-003",
+      "word": "redundant",
+      "pos": "adjective",
+      "definition": "no longer employed because there is no more work for you, or not needed",
+      "example": "Three hundred staff were made redundant when the factory closed.",
+      "topic": "work",
+      "collocations": [
+        "make someone redundant",
+        "a redundant post"
+      ]
+    },
+    {
+      "id": "cae-v-004",
+      "word": "incentivise",
+      "pos": "verb",
+      "definition": "to encourage someone to do something by offering a reward",
+      "example": "The firm incentivises punctuality with a small monthly bonus.",
+      "topic": "work",
+      "collocations": [
+        "incentivise staff",
+        "incentivise performance"
+      ]
+    },
+    {
+      "id": "cae-v-005",
+      "word": "headhunt",
+      "pos": "verb",
+      "definition": "to persuade someone to leave their job to work for another company",
+      "example": "She was headhunted by a rival firm after only a year in the role.",
+      "topic": "work",
+      "collocations": [
+        "headhunt an executive",
+        "be headhunted for a role"
+      ]
+    },
+    {
+      "id": "cae-v-006",
+      "word": "burnout",
+      "pos": "noun",
+      "definition": "a state of extreme physical or emotional tiredness caused by prolonged stress",
+      "example": "He took three months off work to recover from burnout.",
+      "topic": "work",
+      "collocations": [
+        "suffer burnout",
+        "risk of burnout"
+      ]
+    },
+    {
+      "id": "cae-v-007",
+      "word": "micromanage",
+      "pos": "verb",
+      "definition": "to control every small detail of someone's work rather than trusting them",
+      "example": "Staff morale fell once the new director began to micromanage every decision.",
+      "topic": "work",
+      "collocations": [
+        "micromanage a team",
+        "tend to micromanage"
+      ]
+    },
+    {
+      "id": "cae-v-008",
+      "word": "delegate",
+      "pos": "verb",
+      "definition": "to give part of your work or responsibility to another person",
+      "example": "Good managers learn to delegate tasks rather than trying to do everything themselves.",
+      "topic": "work",
+      "collocations": [
+        "delegate responsibility",
+        "delegate a task to someone"
+      ]
+    },
+    {
+      "id": "cae-v-009",
+      "word": "streamline",
+      "pos": "verb",
+      "definition": "to make a process simpler and more efficient",
+      "example": "The new software streamlined the whole ordering process.",
+      "topic": "work",
+      "collocations": [
+        "streamline a process",
+        "streamline operations"
+      ]
+    },
+    {
+      "id": "cae-v-010",
+      "word": "freelance",
+      "pos": "adjective",
+      "definition": "working for different companies on particular pieces of work, rather than being employed",
+      "example": "After leaving the agency, she became a freelance designer.",
+      "topic": "work",
+      "collocations": [
+        "freelance work",
+        "go freelance"
+      ]
+    },
+    {
+      "id": "cae-v-011",
+      "word": "perk",
+      "pos": "noun",
+      "definition": "an extra benefit given to someone because of their job",
+      "example": "Free gym membership is one of the perks of working here.",
+      "topic": "work",
+      "collocations": [
+        "company perks",
+        "a nice perk"
+      ]
+    },
+    {
+      "id": "cae-v-012",
+      "word": "moonlight",
+      "pos": "verb",
+      "definition": "to do a second job, often secretly, in addition to your main one",
+      "example": "He moonlights as a taxi driver at weekends to pay off his debts.",
+      "topic": "work",
+      "collocations": [
+        "moonlight as something",
+        "moonlight at night"
+      ]
+    },
+    {
+      "id": "cae-v-013",
+      "word": "curriculum",
+      "pos": "noun",
+      "definition": "all the subjects taught by a school, college or university",
+      "example": "Cookery has recently been added to the school curriculum.",
+      "topic": "education",
+      "collocations": [
+        "a broad curriculum",
+        "the national curriculum"
+      ]
+    },
+    {
+      "id": "cae-v-014",
+      "word": "rote learning",
+      "pos": "collocation",
+      "definition": "learning by repeating something until you remember it, without necessarily understanding it",
+      "example": "Critics argue that rote learning discourages students from thinking critically.",
+      "topic": "education",
+      "collocations": [
+        "rely on rote learning",
+        "rote learning of facts"
+      ]
+    },
+    {
+      "id": "cae-v-015",
+      "word": "plagiarism",
+      "pos": "noun",
+      "definition": "the practice of using someone else's work or ideas without acknowledging them",
+      "example": "The essay was rejected for plagiarism after software flagged copied passages.",
+      "topic": "education",
+      "collocations": [
+        "accuse someone of plagiarism",
+        "detect plagiarism"
+      ]
+    },
+    {
+      "id": "cae-v-016",
+      "word": "invigilate",
+      "pos": "verb",
+      "definition": "to supervise students during an exam to make sure no one cheats",
+      "example": "Two teachers were asked to invigilate the final exam in the main hall.",
+      "topic": "education",
+      "collocations": [
+        "invigilate an exam",
+        "invigilate a test"
+      ]
+    },
+    {
+      "id": "cae-v-017",
+      "word": "mentor",
+      "pos": "verb",
+      "definition": "to give help and advice to a younger or less experienced person over a period of time",
+      "example": "Senior staff are encouraged to mentor new graduates during their first year.",
+      "topic": "education",
+      "collocations": [
+        "mentor a student",
+        "be mentored by someone"
+      ]
+    },
+    {
+      "id": "cae-v-018",
+      "word": "underachieve",
+      "pos": "verb",
+      "definition": "to do less well than expected, especially in school work",
+      "example": "Bright children sometimes underachieve simply because they are bored in class.",
+      "topic": "education",
+      "collocations": [
+        "underachieve at school",
+        "chronically underachieve"
+      ]
+    },
+    {
+      "id": "cae-v-019",
+      "word": "literacy",
+      "pos": "noun",
+      "definition": "the ability to read and write",
+      "example": "The charity runs literacy programmes for adults who missed out on schooling.",
+      "topic": "education",
+      "collocations": [
+        "adult literacy",
+        "improve literacy rates"
+      ]
+    },
+    {
+      "id": "cae-v-020",
+      "word": "numeracy",
+      "pos": "noun",
+      "definition": "the ability to understand and work with numbers",
+      "example": "Basic numeracy is tested alongside literacy in the entrance exam.",
+      "topic": "education",
+      "collocations": [
+        "numeracy skills",
+        "poor numeracy"
+      ]
+    },
+    {
+      "id": "cae-v-021",
+      "word": "vocational",
+      "pos": "adjective",
+      "definition": "relating to the skills and knowledge needed for a particular job",
+      "example": "The college offers vocational courses in plumbing and electrical work.",
+      "topic": "education",
+      "collocations": [
+        "vocational training",
+        "a vocational qualification"
+      ]
+    },
+    {
+      "id": "cae-v-022",
+      "word": "academia",
+      "pos": "noun",
+      "definition": "the world of teaching and research at universities and colleges",
+      "example": "After years in industry, she returned to academia to finish her doctorate.",
+      "topic": "education",
+      "collocations": [
+        "a career in academia",
+        "leave academia"
+      ]
+    },
+    {
+      "id": "cae-v-023",
+      "word": "dropout",
+      "pos": "noun",
+      "definition": "someone who leaves school or college before finishing a course",
+      "example": "The scheme was set up to support university dropouts back into education.",
+      "topic": "education",
+      "collocations": [
+        "a school dropout",
+        "the dropout rate"
+      ]
+    },
+    {
+      "id": "cae-v-024",
+      "word": "tuition fees",
+      "pos": "collocation",
+      "definition": "money paid for teaching, especially at a university",
+      "example": "Rising tuition fees have put many students off applying to university.",
+      "topic": "education",
+      "collocations": [
+        "pay tuition fees",
+        "cover tuition fees"
+      ]
+    },
+    {
+      "id": "cae-v-025",
+      "word": "carbon footprint",
+      "pos": "collocation",
+      "definition": "the amount of carbon dioxide produced by a person's or organisation's activities",
+      "example": "Flying less is one of the simplest ways to shrink your carbon footprint.",
+      "topic": "environment",
+      "collocations": [
+        "reduce your carbon footprint",
+        "a large carbon footprint"
+      ]
+    },
+    {
+      "id": "cae-v-026",
+      "word": "deforestation",
+      "pos": "noun",
+      "definition": "the cutting down of trees in a large area",
+      "example": "Deforestation in the region has accelerated sharply over the past decade.",
+      "topic": "environment",
+      "collocations": [
+        "halt deforestation",
+        "widespread deforestation"
+      ]
+    },
+    {
+      "id": "cae-v-027",
+      "word": "biodiversity",
+      "pos": "noun",
+      "definition": "the number and variety of plants and animals living in a particular area",
+      "example": "The wetland is prized for its exceptional biodiversity.",
+      "topic": "environment",
+      "collocations": [
+        "protect biodiversity",
+        "loss of biodiversity"
+      ]
+    },
+    {
+      "id": "cae-v-028",
+      "word": "renewable energy",
+      "pos": "collocation",
+      "definition": "energy from a source such as wind or sunlight that is not depleted when used",
+      "example": "The country now generates over half its electricity from renewable energy.",
+      "topic": "environment",
+      "collocations": [
+        "invest in renewable energy",
+        "switch to renewable energy"
+      ]
+    },
+    {
+      "id": "cae-v-029",
+      "word": "emissions",
+      "pos": "noun",
+      "definition": "substances, especially gases, that are released into the air",
+      "example": "The new regulations aim to cut emissions from heavy industry.",
+      "topic": "environment",
+      "collocations": [
+        "carbon emissions",
+        "reduce emissions"
+      ]
+    },
+    {
+      "id": "cae-v-030",
+      "word": "depletion",
+      "pos": "noun",
+      "definition": "the reduction in the amount of something, often a natural resource",
+      "example": "Overfishing is a leading cause of the depletion of certain fish stocks.",
+      "topic": "environment",
+      "collocations": [
+        "resource depletion",
+        "ozone depletion"
+      ]
+    },
+    {
+      "id": "cae-v-031",
+      "word": "offset",
+      "pos": "verb",
+      "definition": "to balance the harmful effect of one thing with an equal and opposite effect",
+      "example": "The airline lets passengers offset their flight's emissions by funding tree-planting.",
+      "topic": "environment",
+      "collocations": [
+        "offset emissions",
+        "offset the damage"
+      ]
+    },
+    {
+      "id": "cae-v-032",
+      "word": "pristine",
+      "pos": "adjective",
+      "definition": "completely clean, fresh or unspoiled",
+      "example": "Developers want to build a resort on one of the island's last pristine beaches.",
+      "topic": "environment",
+      "collocations": [
+        "pristine condition",
+        "a pristine landscape"
+      ]
+    },
+    {
+      "id": "cae-v-033",
+      "word": "irreversible",
+      "pos": "adjective",
+      "definition": "impossible to change back to a previous state",
+      "example": "Scientists warn that some damage to coral reefs may already be irreversible.",
+      "topic": "environment",
+      "collocations": [
+        "irreversible damage",
+        "irreversible change"
+      ]
+    },
+    {
+      "id": "cae-v-034",
+      "word": "greenhouse gas",
+      "pos": "collocation",
+      "definition": "a gas, such as carbon dioxide, that traps heat in the atmosphere",
+      "example": "Methane is a far more potent greenhouse gas than carbon dioxide.",
+      "topic": "environment",
+      "collocations": [
+        "greenhouse gas emissions",
+        "cut greenhouse gas"
+      ]
+    },
+    {
+      "id": "cae-v-035",
+      "word": "overexploit",
+      "pos": "verb",
+      "definition": "to use a resource so much that it becomes damaged or used up",
+      "example": "Several fishing grounds have been overexploited to the point of collapse.",
+      "topic": "environment",
+      "collocations": [
+        "overexploit a resource",
+        "overexploited stocks"
+      ]
+    },
+    {
+      "id": "cae-v-036",
+      "word": "ecosystem",
+      "pos": "noun",
+      "definition": "all the living things in an area and the way they affect each other and the environment",
+      "example": "Removing a single predator can disrupt an entire ecosystem.",
+      "topic": "environment",
+      "collocations": [
+        "a fragile ecosystem",
+        "disrupt an ecosystem"
+      ]
+    },
+    {
+      "id": "cae-v-037",
+      "word": "algorithm",
+      "pos": "noun",
+      "definition": "a set of rules followed by a computer to solve a problem",
+      "example": "The app uses an algorithm to recommend songs based on your listening habits.",
+      "topic": "technology",
+      "collocations": [
+        "a complex algorithm",
+        "run an algorithm"
+      ]
+    },
+    {
+      "id": "cae-v-038",
+      "word": "encryption",
+      "pos": "noun",
+      "definition": "the process of converting information into a code to prevent unauthorised access",
+      "example": "The bank uses end-to-end encryption to protect customers' data.",
+      "topic": "technology",
+      "collocations": [
+        "strong encryption",
+        "break encryption"
+      ]
+    },
+    {
+      "id": "cae-v-039",
+      "word": "glitch",
+      "pos": "noun",
+      "definition": "a small, usually temporary fault in a machine or system",
+      "example": "A glitch in the booking system left hundreds of passengers without seats.",
+      "topic": "technology",
+      "collocations": [
+        "a software glitch",
+        "fix a glitch"
+      ]
+    },
+    {
+      "id": "cae-v-040",
+      "word": "malware",
+      "pos": "noun",
+      "definition": "software designed to damage or gain unauthorised access to a computer system",
+      "example": "The hospital's network was taken offline after staff opened an email containing malware.",
+      "topic": "technology",
+      "collocations": [
+        "malware infection",
+        "detect malware"
+      ]
+    },
+    {
+      "id": "cae-v-041",
+      "word": "firmware",
+      "pos": "noun",
+      "definition": "permanent software programmed into a hardware device",
+      "example": "The manufacturer released a firmware update to fix the battery problem.",
+      "topic": "technology",
+      "collocations": [
+        "update the firmware",
+        "outdated firmware"
+      ]
+    },
+    {
+      "id": "cae-v-042",
+      "word": "interface",
+      "pos": "noun",
+      "definition": "the way a computer program presents information to, and accepts instructions from, a user",
+      "example": "The new interface is far more intuitive than the previous version.",
+      "topic": "technology",
+      "collocations": [
+        "a user-friendly interface",
+        "redesign the interface"
+      ]
+    },
+    {
+      "id": "cae-v-043",
+      "word": "scalable",
+      "pos": "adjective",
+      "definition": "able to be made larger or smaller according to need",
+      "example": "Investors were drawn to the start-up because its business model was highly scalable.",
+      "topic": "technology",
+      "collocations": [
+        "a scalable solution",
+        "scalable infrastructure"
+      ]
+    },
+    {
+      "id": "cae-v-044",
+      "word": "breakthrough",
+      "pos": "noun",
+      "definition": "an important discovery or development that happens after a lot of hard work",
+      "example": "The lab announced a breakthrough in battery technology that could double range.",
+      "topic": "technology",
+      "collocations": [
+        "a scientific breakthrough",
+        "a major breakthrough"
+      ]
+    },
+    {
+      "id": "cae-v-045",
+      "word": "automate",
+      "pos": "verb",
+      "definition": "to make a process or system operate using machines or computers instead of people",
+      "example": "The warehouse has automated most of its sorting and packing.",
+      "topic": "technology",
+      "collocations": [
+        "automate a process",
+        "fully automated"
+      ]
+    },
+    {
+      "id": "cae-v-046",
+      "word": "obsolete",
+      "pos": "adjective",
+      "definition": "no longer used because something newer and better has been developed",
+      "example": "The software made the old paper-based filing system completely obsolete.",
+      "topic": "technology",
+      "collocations": [
+        "become obsolete",
+        "render something obsolete"
+      ]
+    },
+    {
+      "id": "cae-v-047",
+      "word": "cutting-edge",
+      "pos": "adjective",
+      "definition": "the most modern and advanced available",
+      "example": "The hospital has invested in cutting-edge imaging technology.",
+      "topic": "technology",
+      "collocations": [
+        "cutting-edge research",
+        "cutting-edge design"
+      ]
+    },
+    {
+      "id": "cae-v-048",
+      "word": "bandwidth",
+      "pos": "noun",
+      "definition": "the amount of data that can be transmitted in a fixed time, or figuratively, mental capacity",
+      "example": "The video kept freezing because the office's bandwidth couldn't cope with so many calls at once.",
+      "topic": "technology",
+      "collocations": [
+        "limited bandwidth",
+        "eat up bandwidth"
+      ]
+    },
+    {
+      "id": "cae-v-049",
+      "word": "chronic",
+      "pos": "adjective",
+      "definition": "describing an illness that lasts for a long time",
+      "example": "He has suffered from chronic back pain since the accident.",
+      "topic": "health",
+      "collocations": [
+        "a chronic condition",
+        "chronic illness"
+      ]
+    },
+    {
+      "id": "cae-v-050",
+      "word": "outbreak",
+      "pos": "noun",
+      "definition": "a sudden start of something unpleasant, especially a disease",
+      "example": "An outbreak of food poisoning was traced back to a single restaurant.",
+      "topic": "health",
+      "collocations": [
+        "a disease outbreak",
+        "contain an outbreak"
+      ]
+    },
+    {
+      "id": "cae-v-051",
+      "word": "misdiagnose",
+      "pos": "verb",
+      "definition": "to wrongly identify the illness someone has",
+      "example": "Her condition was misdiagnosed for years before a specialist finally identified it.",
+      "topic": "health",
+      "collocations": [
+        "misdiagnose a patient",
+        "commonly misdiagnosed"
+      ]
+    },
+    {
+      "id": "cae-v-052",
+      "word": "prognosis",
+      "pos": "noun",
+      "definition": "a doctor's judgement about how a disease will develop",
+      "example": "The prognosis improved considerably once the tumour was removed.",
+      "topic": "health",
+      "collocations": [
+        "a good prognosis",
+        "an uncertain prognosis"
+      ]
+    },
+    {
+      "id": "cae-v-053",
+      "word": "sedentary",
+      "pos": "adjective",
+      "definition": "involving a lot of sitting and little physical exercise",
+      "example": "A sedentary lifestyle is linked to a higher risk of heart disease.",
+      "topic": "health",
+      "collocations": [
+        "a sedentary job",
+        "a sedentary lifestyle"
+      ]
+    },
+    {
+      "id": "cae-v-054",
+      "word": "resilience",
+      "pos": "noun",
+      "definition": "the ability to recover quickly from illness or difficulty",
+      "example": "The programme is designed to build emotional resilience in teenagers.",
+      "topic": "health",
+      "collocations": [
+        "build resilience",
+        "psychological resilience"
+      ]
+    },
+    {
+      "id": "cae-v-055",
+      "word": "relapse",
+      "pos": "noun",
+      "definition": "a return of an illness after an apparent recovery",
+      "example": "He suffered a relapse just weeks after finishing the treatment.",
+      "topic": "health",
+      "collocations": [
+        "suffer a relapse",
+        "risk of relapse"
+      ]
+    },
+    {
+      "id": "cae-v-056",
+      "word": "malnutrition",
+      "pos": "noun",
+      "definition": "a condition caused by not eating enough, or not eating enough of the right things",
+      "example": "Malnutrition remains widespread in regions affected by the drought.",
+      "topic": "health",
+      "collocations": [
+        "suffer from malnutrition",
+        "severe malnutrition"
+      ]
+    },
+    {
+      "id": "cae-v-057",
+      "word": "holistic",
+      "pos": "adjective",
+      "definition": "considering the whole of something, including mental, social and physical factors",
+      "example": "The clinic takes a holistic approach to treatment, looking beyond physical symptoms.",
+      "topic": "health",
+      "collocations": [
+        "a holistic approach",
+        "holistic treatment"
+      ]
+    },
+    {
+      "id": "cae-v-058",
+      "word": "immune system",
+      "pos": "collocation",
+      "definition": "the system in the body that fights disease and infection",
+      "example": "A balanced diet helps keep the immune system functioning well.",
+      "topic": "health",
+      "collocations": [
+        "boost the immune system",
+        "a weakened immune system"
+      ]
+    },
+    {
+      "id": "cae-v-059",
+      "word": "overexert",
+      "pos": "verb",
+      "definition": "to make yourself too tired by trying too hard physically",
+      "example": "He overexerted himself during the marathon and had to be treated for exhaustion.",
+      "topic": "health",
+      "collocations": [
+        "overexert yourself",
+        "risk of overexerting"
+      ]
+    },
+    {
+      "id": "cae-v-060",
+      "word": "remission",
+      "pos": "noun",
+      "definition": "a period during which an illness, especially cancer, is less severe or appears to have gone",
+      "example": "The disease has been in remission for almost two years now.",
+      "topic": "health",
+      "collocations": [
+        "go into remission",
+        "a long remission"
+      ]
+    },
+    {
+      "id": "cae-v-061",
+      "word": "itinerary",
+      "pos": "noun",
+      "definition": "a detailed plan of a journey",
+      "example": "Our itinerary includes three nights in the mountains before heading to the coast.",
+      "topic": "travel",
+      "collocations": [
+        "plan an itinerary",
+        "a packed itinerary"
+      ]
+    },
+    {
+      "id": "cae-v-062",
+      "word": "layover",
+      "pos": "noun",
+      "definition": "a short stop between two parts of a journey, especially by plane",
+      "example": "We had a six-hour layover in Istanbul, so we left the airport to explore the city.",
+      "topic": "travel",
+      "collocations": [
+        "a long layover",
+        "a layover in a city"
+      ]
+    },
+    {
+      "id": "cae-v-063",
+      "word": "jet lag",
+      "pos": "collocation",
+      "definition": "the tired, confused feeling caused by travelling quickly across time zones",
+      "example": "It took her almost a week to recover from the jet lag after the flight to Tokyo.",
+      "topic": "travel",
+      "collocations": [
+        "suffer from jet lag",
+        "beat jet lag"
+      ]
+    },
+    {
+      "id": "cae-v-064",
+      "word": "off the beaten track",
+      "pos": "idiom",
+      "definition": "away from places that are well known or often visited by tourists",
+      "example": "If you want authentic food, head off the beaten track and avoid the main square.",
+      "topic": "travel",
+      "collocations": [
+        "a place off the beaten track",
+        "travel off the beaten track"
+      ]
+    },
+    {
+      "id": "cae-v-065",
+      "word": "hustle and bustle",
+      "pos": "idiom",
+      "definition": "a lot of busy and sometimes noisy activity",
+      "example": "After the hustle and bustle of the city, the quiet village felt like another world.",
+      "topic": "travel",
+      "collocations": [
+        "escape the hustle and bustle",
+        "the hustle and bustle of a city"
+      ]
+    },
+    {
+      "id": "cae-v-066",
+      "word": "culture shock",
+      "pos": "collocation",
+      "definition": "the feeling of confusion that people experience when they visit an unfamiliar culture",
+      "example": "Moving to a country with such different customs gave her a real culture shock.",
+      "topic": "travel",
+      "collocations": [
+        "suffer culture shock",
+        "a mild culture shock"
+      ]
+    },
+    {
+      "id": "cae-v-067",
+      "word": "nomadic",
+      "pos": "adjective",
+      "definition": "moving from place to place rather than living in one place permanently",
+      "example": "Some remote tourism projects are run in partnership with traditionally nomadic communities.",
+      "topic": "travel",
+      "collocations": [
+        "a nomadic lifestyle",
+        "nomadic tribes"
+      ]
+    },
+    {
+      "id": "cae-v-068",
+      "word": "venture",
+      "pos": "verb",
+      "definition": "to go somewhere that might be dangerous or unpleasant",
+      "example": "Few tourists venture beyond the capital, which keeps the northern villages unspoiled.",
+      "topic": "travel",
+      "collocations": [
+        "venture into",
+        "venture off the main road"
+      ]
+    },
+    {
+      "id": "cae-v-069",
+      "word": "embark on",
+      "pos": "phrasal verb",
+      "definition": "to start something new, especially something ambitious or difficult",
+      "example": "They sold their house and embarked on a two-year trip around South America.",
+      "topic": "travel",
+      "collocations": [
+        "embark on a journey",
+        "embark on an adventure"
+      ]
+    },
+    {
+      "id": "cae-v-070",
+      "word": "secluded",
+      "pos": "adjective",
+      "definition": "quiet, private and away from other people",
+      "example": "The resort is built around a secluded bay that is reachable only by boat.",
+      "topic": "travel",
+      "collocations": [
+        "a secluded beach",
+        "a secluded spot"
+      ]
+    },
+    {
+      "id": "cae-v-071",
+      "word": "excursion",
+      "pos": "noun",
+      "definition": "a short organised trip, usually for pleasure",
+      "example": "The hotel offers a day excursion to the nearby waterfalls.",
+      "topic": "travel",
+      "collocations": [
+        "go on an excursion",
+        "a day excursion"
+      ]
+    },
+    {
+      "id": "cae-v-072",
+      "word": "globetrotter",
+      "pos": "noun",
+      "definition": "a person who travels to many different countries",
+      "example": "As a lifelong globetrotter, she has visited over eighty countries.",
+      "topic": "travel",
+      "collocations": [
+        "a seasoned globetrotter",
+        "a globetrotter's guide"
+      ]
+    },
+    {
+      "id": "cae-v-073",
+      "word": "tabloid",
+      "pos": "noun",
+      "definition": "a newspaper with small pages, short articles and often sensational stories",
+      "example": "The story was splashed across the front page of every tabloid the next morning.",
+      "topic": "media",
+      "collocations": [
+        "tabloid headlines",
+        "a tabloid newspaper"
+      ]
+    },
+    {
+      "id": "cae-v-074",
+      "word": "censorship",
+      "pos": "noun",
+      "definition": "the practice of banning parts of books, films or news from being seen or published",
+      "example": "The documentary was pulled from the schedule amid accusations of censorship.",
+      "topic": "media",
+      "collocations": [
+        "strict censorship",
+        "impose censorship"
+      ]
+    },
+    {
+      "id": "cae-v-075",
+      "word": "propaganda",
+      "pos": "noun",
+      "definition": "biased or misleading information used to promote a particular point of view",
+      "example": "Historians have studied how wartime propaganda shaped public opinion.",
+      "topic": "media",
+      "collocations": [
+        "spread propaganda",
+        "political propaganda"
+      ]
+    },
+    {
+      "id": "cae-v-076",
+      "word": "outlet",
+      "pos": "noun",
+      "definition": "an organisation, such as a television station or newspaper, that provides news to the public",
+      "example": "Several news outlets ran the same story within hours of the leak.",
+      "topic": "media",
+      "collocations": [
+        "a news outlet",
+        "a media outlet"
+      ]
+    },
+    {
+      "id": "cae-v-077",
+      "word": "sensationalism",
+      "pos": "noun",
+      "definition": "the presenting of stories in a shocking or exaggerated way to attract attention",
+      "example": "Critics accused the channel of sensationalism rather than serious reporting.",
+      "topic": "media",
+      "collocations": [
+        "accuse of sensationalism",
+        "media sensationalism"
+      ]
+    },
+    {
+      "id": "cae-v-078",
+      "word": "credibility",
+      "pos": "noun",
+      "definition": "the quality of being believable or trustworthy",
+      "example": "The newspaper's credibility suffered badly after the scandal.",
+      "topic": "media",
+      "collocations": [
+        "lose credibility",
+        "damage someone's credibility"
+      ]
+    },
+    {
+      "id": "cae-v-079",
+      "word": "misinformation",
+      "pos": "noun",
+      "definition": "false information that is spread, whether deliberately or not",
+      "example": "Platforms are under pressure to remove misinformation about vaccines more quickly.",
+      "topic": "media",
+      "collocations": [
+        "spread misinformation",
+        "combat misinformation"
+      ]
+    },
+    {
+      "id": "cae-v-080",
+      "word": "go viral",
+      "pos": "collocation",
+      "definition": "to become extremely popular very quickly online",
+      "example": "Clips like this often go viral within hours of being posted.",
+      "topic": "media",
+      "collocations": [
+        "go viral online",
+        "a video that goes viral"
+      ]
+    },
+    {
+      "id": "cae-v-081",
+      "word": "backlash",
+      "pos": "noun",
+      "definition": "a strong negative reaction by a large number of people",
+      "example": "The advert provoked such a backlash that the company withdrew it within a day.",
+      "topic": "media",
+      "collocations": [
+        "provoke a backlash",
+        "face a backlash"
+      ]
+    },
+    {
+      "id": "cae-v-082",
+      "word": "coverage",
+      "pos": "noun",
+      "definition": "the reporting of news or events by newspapers, television, etc.",
+      "example": "The election received extensive coverage across every major outlet.",
+      "topic": "media",
+      "collocations": [
+        "media coverage",
+        "live coverage"
+      ]
+    },
+    {
+      "id": "cae-v-083",
+      "word": "spin",
+      "pos": "noun",
+      "definition": "a particular, often biased, way of presenting information to influence opinion",
+      "example": "Voters are growing tired of political spin and want straight answers.",
+      "topic": "media",
+      "collocations": [
+        "put a positive spin on something",
+        "political spin"
+      ]
+    },
+    {
+      "id": "cae-v-084",
+      "word": "clickbait",
+      "pos": "noun",
+      "definition": "online content designed mainly to attract attention and encourage clicks, rather than inform",
+      "example": "The headline was pure clickbait and had almost nothing to do with the article.",
+      "topic": "media",
+      "collocations": [
+        "clickbait headlines",
+        "resort to clickbait"
+      ]
+    },
+    {
+      "id": "cae-v-085",
+      "word": "estranged",
+      "pos": "adjective",
+      "definition": "no longer close or friendly with someone, especially a family member",
+      "example": "He had been estranged from his brother for almost a decade before they finally spoke again.",
+      "topic": "relationships",
+      "collocations": [
+        "an estranged father",
+        "become estranged"
+      ]
+    },
+    {
+      "id": "cae-v-086",
+      "word": "rapport",
+      "pos": "noun",
+      "definition": "a friendly relationship in which people understand each other well",
+      "example": "The therapist quickly built up a good rapport with her young clients.",
+      "topic": "relationships",
+      "collocations": [
+        "build rapport",
+        "a good rapport"
+      ]
+    },
+    {
+      "id": "cae-v-087",
+      "word": "reconcile",
+      "pos": "verb",
+      "definition": "to become friendly with someone again after a disagreement",
+      "example": "The sisters finally reconciled after years of barely speaking.",
+      "topic": "relationships",
+      "collocations": [
+        "reconcile with someone",
+        "be reconciled"
+      ]
+    },
+    {
+      "id": "cae-v-088",
+      "word": "confide",
+      "pos": "verb",
+      "definition": "to tell someone a secret, trusting them not to tell anyone else",
+      "example": "She confided in her closest friend about her plans to leave the company.",
+      "topic": "relationships",
+      "collocations": [
+        "confide in someone",
+        "confide a secret"
+      ]
+    },
+    {
+      "id": "cae-v-089",
+      "word": "infatuation",
+      "pos": "noun",
+      "definition": "a strong but usually short-lived feeling of love or attraction",
+      "example": "Looking back, she realised it had been infatuation rather than real love.",
+      "topic": "relationships",
+      "collocations": [
+        "a brief infatuation",
+        "an infatuation with someone"
+      ]
+    },
+    {
+      "id": "cae-v-090",
+      "word": "companionship",
+      "pos": "noun",
+      "definition": "a feeling of friendship and the pleasure of being with someone",
+      "example": "Many elderly residents say they value the companionship of the day centre most of all.",
+      "topic": "relationships",
+      "collocations": [
+        "offer companionship",
+        "seek companionship"
+      ]
+    },
+    {
+      "id": "cae-v-091",
+      "word": "fall out with",
+      "pos": "phrasal verb",
+      "definition": "to have an argument with someone and stop being friendly",
+      "example": "The two business partners fall out with each other so often that staff barely notice anymore.",
+      "topic": "relationships",
+      "collocations": [
+        "fall out with a friend",
+        "fall out over money"
+      ]
+    },
+    {
+      "id": "cae-v-092",
+      "word": "get on with",
+      "pos": "phrasal verb",
+      "definition": "to have a friendly relationship with someone",
+      "example": "She has always managed to get on with her in-laws remarkably well.",
+      "topic": "relationships",
+      "collocations": [
+        "get on with someone",
+        "get on well"
+      ]
+    },
+    {
+      "id": "cae-v-093",
+      "word": "take after",
+      "pos": "phrasal verb",
+      "definition": "to resemble an older relative in appearance or character",
+      "example": "Everyone says she takes after her grandmother, both in looks and temper.",
+      "topic": "relationships",
+      "collocations": [
+        "take after a parent",
+        "take after someone in character"
+      ]
+    },
+    {
+      "id": "cae-v-094",
+      "word": "grow apart",
+      "pos": "phrasal verb",
+      "definition": "to gradually stop being close to someone over time",
+      "example": "Old school friends sometimes grow apart simply because their lives go in different directions.",
+      "topic": "relationships",
+      "collocations": [
+        "grow apart from someone",
+        "gradually grow apart"
+      ]
+    },
+    {
+      "id": "cae-v-095",
+      "word": "soulmate",
+      "pos": "noun",
+      "definition": "a person with whom one has a strong affinity or bond",
+      "example": "She describes her business partner as a creative soulmate rather than just a colleague.",
+      "topic": "relationships",
+      "collocations": [
+        "find a soulmate",
+        "a true soulmate"
+      ]
+    },
+    {
+      "id": "cae-v-096",
+      "word": "commitment",
+      "pos": "noun",
+      "definition": "a strong dedication to someone or something, or a promise to do something",
+      "example": "Moving in together was a sign of their growing commitment to one another.",
+      "topic": "relationships",
+      "collocations": [
+        "a long-term commitment",
+        "show commitment"
+      ]
+    },
+    {
+      "id": "cae-v-097",
+      "word": "verdict",
+      "pos": "noun",
+      "definition": "the official decision of a jury or judge on whether someone is guilty",
+      "example": "The jury took less than two hours to reach a verdict.",
+      "topic": "crime & law",
+      "collocations": [
+        "reach a verdict",
+        "a guilty verdict"
+      ]
+    },
+    {
+      "id": "cae-v-098",
+      "word": "testimony",
+      "pos": "noun",
+      "definition": "a formal statement given as evidence in a court of law",
+      "example": "Her testimony proved crucial in securing the conviction.",
+      "topic": "crime & law",
+      "collocations": [
+        "give testimony",
+        "eyewitness testimony"
+      ]
+    },
+    {
+      "id": "cae-v-099",
+      "word": "prosecute",
+      "pos": "verb",
+      "definition": "to officially charge someone with a crime and try to prove in court that they are guilty",
+      "example": "The company was prosecuted for breaching safety regulations.",
+      "topic": "crime & law",
+      "collocations": [
+        "prosecute someone for something",
+        "decide to prosecute"
+      ]
+    },
+    {
+      "id": "cae-v-100",
+      "word": "acquit",
+      "pos": "verb",
+      "definition": "to officially decide that someone is not guilty of a crime",
+      "example": "He was acquitted of all charges after new evidence came to light.",
+      "topic": "crime & law",
+      "collocations": [
+        "acquit someone of a crime",
+        "be acquitted"
+      ]
+    },
+    {
+      "id": "cae-v-101",
+      "word": "litigation",
+      "pos": "noun",
+      "definition": "the process of taking legal action in court",
+      "example": "The dispute between the two companies ended in years of costly litigation.",
+      "topic": "crime & law",
+      "collocations": [
+        "threaten litigation",
+        "avoid litigation"
+      ]
+    },
+    {
+      "id": "cae-v-102",
+      "word": "defendant",
+      "pos": "noun",
+      "definition": "a person who has been accused of a crime in a court of law",
+      "example": "The defendant remained silent throughout most of the trial.",
+      "topic": "crime & law",
+      "collocations": [
+        "the defendant's lawyer",
+        "find the defendant guilty"
+      ]
+    },
+    {
+      "id": "cae-v-103",
+      "word": "custody",
+      "pos": "noun",
+      "definition": "the state of being kept in prison, or the legal right to care for a child",
+      "example": "He was held in custody until his trial could be arranged.",
+      "topic": "crime & law",
+      "collocations": [
+        "remand in custody",
+        "gain custody of a child"
+      ]
+    },
+    {
+      "id": "cae-v-104",
+      "word": "probation",
+      "pos": "noun",
+      "definition": "a period during which an offender is supervised in the community instead of being sent to prison",
+      "example": "She was given twelve months' probation instead of a prison sentence.",
+      "topic": "crime & law",
+      "collocations": [
+        "on probation",
+        "a probation officer"
+      ]
+    },
+    {
+      "id": "cae-v-105",
+      "word": "deter",
+      "pos": "verb",
+      "definition": "to discourage someone from doing something by making it seem difficult or unpleasant",
+      "example": "Harsher penalties were introduced to deter repeat offenders.",
+      "topic": "crime & law",
+      "collocations": [
+        "deter crime",
+        "fail to deter someone"
+      ]
+    },
+    {
+      "id": "cae-v-106",
+      "word": "misdemeanour",
+      "pos": "noun",
+      "definition": "a minor crime or wrongdoing",
+      "example": "What began as a minor misdemeanour quickly escalated into a serious charge.",
+      "topic": "crime & law",
+      "collocations": [
+        "a minor misdemeanour",
+        "commit a misdemeanour"
+      ]
+    },
+    {
+      "id": "cae-v-107",
+      "word": "tamper with",
+      "pos": "phrasal verb",
+      "definition": "to interfere with something in order to change or damage it, often illegally",
+      "example": "Someone had clearly tampered with the lock before the break-in.",
+      "topic": "crime & law",
+      "collocations": [
+        "tamper with evidence",
+        "tamper with a lock"
+      ]
+    },
+    {
+      "id": "cae-v-108",
+      "word": "plaintiff",
+      "pos": "noun",
+      "definition": "a person who brings a case against someone else in a court of law",
+      "example": "The plaintiff argued that the company had failed to honour the contract.",
+      "topic": "crime & law",
+      "collocations": [
+        "the plaintiff's claim",
+        "represent the plaintiff"
+      ]
+    },
+    {
+      "id": "cae-v-109",
+      "word": "disposable income",
+      "pos": "collocation",
+      "definition": "the money a person has left to spend after paying taxes and essential bills",
+      "example": "As rents rise, young professionals are left with far less disposable income.",
+      "topic": "money",
+      "collocations": [
+        "reduce disposable income",
+        "rising disposable income"
+      ]
+    },
+    {
+      "id": "cae-v-110",
+      "word": "embezzle",
+      "pos": "verb",
+      "definition": "to steal money that has been entrusted to you, especially from an employer",
+      "example": "The former treasurer was accused of embezzling thousands of pounds from the charity.",
+      "topic": "money",
+      "collocations": [
+        "embezzle funds",
+        "be accused of embezzling"
+      ]
+    },
+    {
+      "id": "cae-v-111",
+      "word": "subsidy",
+      "pos": "noun",
+      "definition": "money given by a government to help an industry or activity continue",
+      "example": "Farmers rely heavily on government subsidies to stay profitable.",
+      "topic": "money",
+      "collocations": [
+        "a government subsidy",
+        "cut subsidies"
+      ]
+    },
+    {
+      "id": "cae-v-112",
+      "word": "levy",
+      "pos": "noun",
+      "definition": "a sum of money that has to be paid, especially as a tax",
+      "example": "A new levy on plastic packaging came into force this year.",
+      "topic": "money",
+      "collocations": [
+        "impose a levy",
+        "a tax levy"
+      ]
+    },
+    {
+      "id": "cae-v-113",
+      "word": "austerity",
+      "pos": "noun",
+      "definition": "a situation in which a government spends less money, often leading to economic hardship",
+      "example": "A decade of austerity left many public services badly underfunded.",
+      "topic": "money",
+      "collocations": [
+        "austerity measures",
+        "a period of austerity"
+      ]
+    },
+    {
+      "id": "cae-v-114",
+      "word": "inflation",
+      "pos": "noun",
+      "definition": "a general rise in prices across an economy over time",
+      "example": "Inflation has pushed the price of basic groceries up sharply this year.",
+      "topic": "money",
+      "collocations": [
+        "rising inflation",
+        "curb inflation"
+      ]
+    },
+    {
+      "id": "cae-v-115",
+      "word": "windfall",
+      "pos": "noun",
+      "definition": "an amount of money that someone receives unexpectedly",
+      "example": "The unexpected windfall allowed them to pay off the rest of the mortgage early.",
+      "topic": "money",
+      "collocations": [
+        "an unexpected windfall",
+        "a tax windfall"
+      ]
+    },
+    {
+      "id": "cae-v-116",
+      "word": "squander",
+      "pos": "verb",
+      "definition": "to waste money, time or an opportunity carelessly",
+      "example": "He squandered most of his inheritance on risky investments within a year.",
+      "topic": "money",
+      "collocations": [
+        "squander money",
+        "squander an opportunity"
+      ]
+    },
+    {
+      "id": "cae-v-117",
+      "word": "frugal",
+      "pos": "adjective",
+      "definition": "careful about spending money or using resources, avoiding waste",
+      "example": "Growing up during the recession made her remarkably frugal with money.",
+      "topic": "money",
+      "collocations": [
+        "a frugal lifestyle",
+        "frugal habits"
+      ]
+    },
+    {
+      "id": "cae-v-118",
+      "word": "overdraft",
+      "pos": "noun",
+      "definition": "an arrangement allowing someone to take out more money from their bank account than it contains",
+      "example": "She was charged a hefty fee for exceeding her overdraft limit.",
+      "topic": "money",
+      "collocations": [
+        "an overdraft limit",
+        "go into overdraft"
+      ]
+    },
+    {
+      "id": "cae-v-119",
+      "word": "asset",
+      "pos": "noun",
+      "definition": "a thing of value owned by a person or company",
+      "example": "Property remains the company's single biggest asset.",
+      "topic": "money",
+      "collocations": [
+        "a valuable asset",
+        "sell off an asset"
+      ]
+    },
+    {
+      "id": "cae-v-120",
+      "word": "liability",
+      "pos": "noun",
+      "definition": "a debt or financial obligation, or something that causes problems",
+      "example": "The outstanding loans are listed as a liability on the balance sheet.",
+      "topic": "money",
+      "collocations": [
+        "a financial liability",
+        "a major liability"
+      ]
+    },
+    {
+      "id": "cae-v-121",
+      "word": "hypothesis",
+      "pos": "noun",
+      "definition": "an idea or explanation that is proposed and then tested through research",
+      "example": "The team designed an experiment specifically to test their hypothesis.",
+      "topic": "science",
+      "collocations": [
+        "test a hypothesis",
+        "propose a hypothesis"
+      ]
+    },
+    {
+      "id": "cae-v-122",
+      "word": "empirical",
+      "pos": "adjective",
+      "definition": "based on observation or experiment rather than theory alone",
+      "example": "There is now strong empirical evidence linking the chemical to the disease.",
+      "topic": "science",
+      "collocations": [
+        "empirical evidence",
+        "empirical research"
+      ]
+    },
+    {
+      "id": "cae-v-123",
+      "word": "correlation",
+      "pos": "noun",
+      "definition": "a connection or relationship between two things",
+      "example": "Researchers found a clear correlation between sleep and academic performance.",
+      "topic": "science",
+      "collocations": [
+        "a strong correlation",
+        "establish a correlation"
+      ]
+    },
+    {
+      "id": "cae-v-124",
+      "word": "variable",
+      "pos": "noun",
+      "definition": "a factor that can change and that is measured or controlled in an experiment",
+      "example": "The study controlled for several variables, including age and income.",
+      "topic": "science",
+      "collocations": [
+        "control a variable",
+        "an independent variable"
+      ]
+    },
+    {
+      "id": "cae-v-125",
+      "word": "anomaly",
+      "pos": "noun",
+      "definition": "something that is unusual or does not fit the expected pattern",
+      "example": "The unusual reading was dismissed at first as a simple anomaly.",
+      "topic": "science",
+      "collocations": [
+        "an unexplained anomaly",
+        "detect an anomaly"
+      ]
+    },
+    {
+      "id": "cae-v-126",
+      "word": "replicate",
+      "pos": "verb",
+      "definition": "to repeat an experiment or study to see if the same results occur",
+      "example": "Other laboratories have struggled to replicate the original findings.",
+      "topic": "science",
+      "collocations": [
+        "replicate a study",
+        "fail to replicate results"
+      ]
+    },
+    {
+      "id": "cae-v-127",
+      "word": "peer-reviewed",
+      "pos": "adjective",
+      "definition": "describing research that has been checked and approved by other experts before publication",
+      "example": "The claim has not yet appeared in any peer-reviewed journal.",
+      "topic": "science",
+      "collocations": [
+        "a peer-reviewed study",
+        "peer-reviewed research"
+      ]
+    },
+    {
+      "id": "cae-v-128",
+      "word": "phenomenon",
+      "pos": "noun",
+      "definition": "a fact or situation that is observed to exist, especially one not fully understood",
+      "example": "Scientists still cannot fully explain the phenomenon of ball lightning.",
+      "topic": "science",
+      "collocations": [
+        "a rare phenomenon",
+        "a natural phenomenon"
+      ]
+    },
+    {
+      "id": "cae-v-129",
+      "word": "speculate",
+      "pos": "verb",
+      "definition": "to form an opinion or theory without firm evidence",
+      "example": "Researchers can only speculate about what caused the sudden decline in the population.",
+      "topic": "science",
+      "collocations": [
+        "speculate about something",
+        "widely speculated"
+      ]
+    },
+    {
+      "id": "cae-v-130",
+      "word": "inconclusive",
+      "pos": "adjective",
+      "definition": "not leading to a definite result or decision",
+      "example": "The trial results were inconclusive, so a larger study is now planned.",
+      "topic": "science",
+      "collocations": [
+        "inconclusive evidence",
+        "inconclusive results"
+      ]
+    },
+    {
+      "id": "cae-v-131",
+      "word": "rigorous",
+      "pos": "adjective",
+      "definition": "thorough, careful and exact",
+      "example": "The drug underwent rigorous testing before it was approved.",
+      "topic": "science",
+      "collocations": [
+        "rigorous testing",
+        "a rigorous study"
+      ]
+    },
+    {
+      "id": "cae-v-132",
+      "word": "groundbreaking",
+      "pos": "adjective",
+      "definition": "introducing new ideas or methods for the first time",
+      "example": "The groundbreaking study changed how scientists understood the ageing process.",
+      "topic": "science",
+      "collocations": [
+        "groundbreaking research",
+        "a groundbreaking discovery"
+      ]
+    },
+    {
+      "id": "cae-v-133",
+      "word": "avant-garde",
+      "pos": "adjective",
+      "definition": "new and experimental, especially in art, music or literature",
+      "example": "The gallery is known for championing avant-garde artists ignored by the mainstream.",
+      "topic": "arts",
+      "collocations": [
+        "avant-garde cinema",
+        "an avant-garde movement"
+      ]
+    },
+    {
+      "id": "cae-v-134",
+      "word": "aesthetic",
+      "pos": "adjective",
+      "definition": "concerned with beauty or the appreciation of beauty",
+      "example": "The building was praised for its aesthetic appeal as much as its function.",
+      "topic": "arts",
+      "collocations": [
+        "aesthetic appeal",
+        "an aesthetic choice"
+      ]
+    },
+    {
+      "id": "cae-v-135",
+      "word": "critique",
+      "pos": "noun",
+      "definition": "a detailed analysis and assessment of something, especially a work of art",
+      "example": "The professor's critique focused on the painting's unusual use of colour.",
+      "topic": "arts",
+      "collocations": [
+        "write a critique",
+        "a harsh critique"
+      ]
+    },
+    {
+      "id": "cae-v-136",
+      "word": "improvise",
+      "pos": "verb",
+      "definition": "to create or perform something without preparation",
+      "example": "The actors had to improvise an entire scene after the script was lost.",
+      "topic": "arts",
+      "collocations": [
+        "improvise a scene",
+        "improvise on stage"
+      ]
+    },
+    {
+      "id": "cae-v-137",
+      "word": "abstract",
+      "pos": "adjective",
+      "definition": "describing art that does not attempt to represent things realistically",
+      "example": "Her early work was figurative, but she later moved towards abstract painting.",
+      "topic": "arts",
+      "collocations": [
+        "abstract art",
+        "an abstract painting"
+      ]
+    },
+    {
+      "id": "cae-v-138",
+      "word": "evoke",
+      "pos": "verb",
+      "definition": "to bring a feeling, memory or image into someone's mind",
+      "example": "The soundtrack was designed to evoke a sense of nostalgia.",
+      "topic": "arts",
+      "collocations": [
+        "evoke a memory",
+        "evoke emotion"
+      ]
+    },
+    {
+      "id": "cae-v-139",
+      "word": "portray",
+      "pos": "verb",
+      "definition": "to represent or describe someone or something in a work of art",
+      "example": "The film portrays the city as both glamorous and dangerous.",
+      "topic": "arts",
+      "collocations": [
+        "portray a character",
+        "portray someone sympathetically"
+      ]
+    },
+    {
+      "id": "cae-v-140",
+      "word": "satire",
+      "pos": "noun",
+      "definition": "the use of humour, irony or exaggeration to criticise people or society",
+      "example": "The novel is a biting satire on modern celebrity culture.",
+      "topic": "arts",
+      "collocations": [
+        "political satire",
+        "a work of satire"
+      ]
+    },
+    {
+      "id": "cae-v-141",
+      "word": "flamboyant",
+      "pos": "adjective",
+      "definition": "confident, lively and noticeable, often in a colourful or dramatic way",
+      "example": "The designer was known for his flamboyant costumes and theatrical shows.",
+      "topic": "arts",
+      "collocations": [
+        "a flamboyant personality",
+        "flamboyant style"
+      ]
+    },
+    {
+      "id": "cae-v-142",
+      "word": "medium",
+      "pos": "noun",
+      "definition": "a particular material or method used by an artist",
+      "example": "Watercolour has always been her preferred medium.",
+      "topic": "arts",
+      "collocations": [
+        "work in a medium",
+        "experiment with a new medium"
+      ]
+    },
+    {
+      "id": "cae-v-143",
+      "word": "exhibit",
+      "pos": "verb",
+      "definition": "to show a work of art or object publicly",
+      "example": "Her photographs were exhibited at the national gallery last spring.",
+      "topic": "arts",
+      "collocations": [
+        "exhibit work",
+        "exhibit publicly"
+      ]
+    },
+    {
+      "id": "cae-v-144",
+      "word": "masterpiece",
+      "pos": "noun",
+      "definition": "an outstanding work of art or craftsmanship",
+      "example": "Critics immediately hailed the film as a masterpiece.",
+      "topic": "arts",
+      "collocations": [
+        "a true masterpiece",
+        "create a masterpiece"
+      ]
+    },
+    {
+      "id": "cae-v-145",
+      "word": "subconscious",
+      "pos": "noun",
+      "definition": "the part of the mind that affects behaviour without a person being fully aware of it",
+      "example": "Advertisers often target the subconscious rather than conscious decision-making.",
+      "topic": "psychology",
+      "collocations": [
+        "the subconscious mind",
+        "work on the subconscious"
+      ]
+    },
+    {
+      "id": "cae-v-146",
+      "word": "cognitive",
+      "pos": "adjective",
+      "definition": "relating to mental processes such as thinking, remembering and reasoning",
+      "example": "The study examined the cognitive effects of long-term sleep deprivation.",
+      "topic": "psychology",
+      "collocations": [
+        "cognitive ability",
+        "cognitive decline"
+      ]
+    },
+    {
+      "id": "cae-v-147",
+      "word": "introspective",
+      "pos": "adjective",
+      "definition": "tending to examine one's own thoughts and feelings closely",
+      "example": "Keeping a diary made her far more introspective about her choices.",
+      "topic": "psychology",
+      "collocations": [
+        "an introspective mood",
+        "become introspective"
+      ]
+    },
+    {
+      "id": "cae-v-148",
+      "word": "rationalise",
+      "pos": "verb",
+      "definition": "to find reasons to explain or justify your own behaviour, often unconvincingly",
+      "example": "He tried to rationalise skipping the meeting by claiming it wasn't important anyway.",
+      "topic": "psychology",
+      "collocations": [
+        "rationalise a decision",
+        "rationalise behaviour"
+      ]
+    },
+    {
+      "id": "cae-v-149",
+      "word": "repress",
+      "pos": "verb",
+      "definition": "to prevent yourself from expressing a feeling or desire, often unconsciously",
+      "example": "She had repressed the memory for so long that it took years of therapy to surface again.",
+      "topic": "psychology",
+      "collocations": [
+        "repress a feeling",
+        "repress a memory"
+      ]
+    },
+    {
+      "id": "cae-v-150",
+      "word": "empathy",
+      "pos": "noun",
+      "definition": "the ability to understand and share the feelings of another person",
+      "example": "Good counsellors show genuine empathy without becoming overwhelmed themselves.",
+      "topic": "psychology",
+      "collocations": [
+        "show empathy",
+        "lack empathy"
+      ]
+    },
+    {
+      "id": "cae-v-151",
+      "word": "denial",
+      "pos": "noun",
+      "definition": "a refusal to accept that something unpleasant or painful is true",
+      "example": "He remained in denial about the illness for months after the diagnosis.",
+      "topic": "psychology",
+      "collocations": [
+        "be in denial",
+        "a state of denial"
+      ]
+    },
+    {
+      "id": "cae-v-152",
+      "word": "coping mechanism",
+      "pos": "collocation",
+      "definition": "a strategy used to deal with stress or a difficult situation",
+      "example": "Humour became her main coping mechanism during the difficult months after the move.",
+      "topic": "psychology",
+      "collocations": [
+        "develop a coping mechanism",
+        "an unhealthy coping mechanism"
+      ]
+    },
+    {
+      "id": "cae-v-153",
+      "word": "self-esteem",
+      "pos": "noun",
+      "definition": "confidence in your own worth or abilities",
+      "example": "Constant criticism at work had slowly damaged his self-esteem.",
+      "topic": "psychology",
+      "collocations": [
+        "low self-esteem",
+        "boost self-esteem"
+      ]
+    },
+    {
+      "id": "cae-v-154",
+      "word": "cognitive bias",
+      "pos": "collocation",
+      "definition": "a systematic error in thinking that affects judgement and decisions",
+      "example": "Confirmation bias is one of the most common forms of cognitive bias.",
+      "topic": "psychology",
+      "collocations": [
+        "a cognitive bias",
+        "overcome cognitive bias"
+      ]
+    },
+    {
+      "id": "cae-v-155",
+      "word": "innate",
+      "pos": "adjective",
+      "definition": "existing in a person or animal from birth, not learned",
+      "example": "Some researchers argue that a sense of fairness may be innate rather than taught.",
+      "topic": "psychology",
+      "collocations": [
+        "an innate ability",
+        "innate behaviour"
+      ]
+    },
+    {
+      "id": "cae-v-156",
+      "word": "impulsive",
+      "pos": "adjective",
+      "definition": "tending to act suddenly without thinking about the consequences",
+      "example": "His impulsive decision to quit cost him a secure, well-paid job.",
+      "topic": "psychology",
+      "collocations": [
+        "an impulsive decision",
+        "impulsive behaviour"
+      ]
+    },
+    {
+      "id": "cae-v-157",
+      "word": "electorate",
+      "pos": "noun",
+      "definition": "all the people in a country or area who are entitled to vote",
+      "example": "Nearly seventy per cent of the electorate turned out for the referendum.",
+      "topic": "politics & society",
+      "collocations": [
+        "the national electorate",
+        "appeal to the electorate"
+      ]
+    },
+    {
+      "id": "cae-v-158",
+      "word": "bureaucracy",
+      "pos": "noun",
+      "definition": "a complicated system of official rules and procedures, often seen as excessive",
+      "example": "Small business owners complain constantly about bureaucracy slowing down every application.",
+      "topic": "politics & society",
+      "collocations": [
+        "cut through bureaucracy",
+        "government bureaucracy"
+      ]
+    },
+    {
+      "id": "cae-v-159",
+      "word": "coalition",
+      "pos": "noun",
+      "definition": "a temporary alliance between political parties, often to form a government",
+      "example": "No single party won a majority, so a coalition government was formed.",
+      "topic": "politics & society",
+      "collocations": [
+        "form a coalition",
+        "a coalition government"
+      ]
+    },
+    {
+      "id": "cae-v-160",
+      "word": "referendum",
+      "pos": "noun",
+      "definition": "a vote in which everyone can take part on a particular political question",
+      "example": "The government promised to hold a referendum on the proposed reform.",
+      "topic": "politics & society",
+      "collocations": [
+        "hold a referendum",
+        "the result of a referendum"
+      ]
+    },
+    {
+      "id": "cae-v-161",
+      "word": "polarised",
+      "pos": "adjective",
+      "definition": "divided into two sharply opposing groups with little middle ground",
+      "example": "Public opinion on the policy has become increasingly polarised over the past year.",
+      "topic": "politics & society",
+      "collocations": [
+        "a polarised debate",
+        "polarised opinion"
+      ]
+    },
+    {
+      "id": "cae-v-162",
+      "word": "grassroots",
+      "pos": "adjective",
+      "definition": "relating to ordinary people rather than leaders, especially in politics",
+      "example": "The campaign began as a small grassroots movement before gaining national attention.",
+      "topic": "politics & society",
+      "collocations": [
+        "grassroots support",
+        "a grassroots campaign"
+      ]
+    },
+    {
+      "id": "cae-v-163",
+      "word": "lobby",
+      "pos": "verb",
+      "definition": "to try to persuade a politician or government to support or oppose something",
+      "example": "Environmental groups have been lobbying hard for stricter emissions targets.",
+      "topic": "politics & society",
+      "collocations": [
+        "lobby for change",
+        "lobby a government"
+      ]
+    },
+    {
+      "id": "cae-v-164",
+      "word": "constituency",
+      "pos": "noun",
+      "definition": "an area whose voters elect a representative to a parliament or assembly",
+      "example": "The new boundaries will merge two neighbouring constituencies into one.",
+      "topic": "politics & society",
+      "collocations": [
+        "win a constituency",
+        "represent a constituency"
+      ]
+    },
+    {
+      "id": "cae-v-165",
+      "word": "corruption",
+      "pos": "noun",
+      "definition": "dishonest or illegal behaviour by people in positions of power",
+      "example": "The minister resigned following allegations of corruption.",
+      "topic": "politics & society",
+      "collocations": [
+        "political corruption",
+        "tackle corruption"
+      ]
+    },
+    {
+      "id": "cae-v-166",
+      "word": "segregation",
+      "pos": "noun",
+      "definition": "the enforced separation of different groups of people, often by race",
+      "example": "The museum documents the long struggle to end racial segregation.",
+      "topic": "politics & society",
+      "collocations": [
+        "racial segregation",
+        "end segregation"
+      ]
+    },
+    {
+      "id": "cae-v-167",
+      "word": "welfare state",
+      "pos": "collocation",
+      "definition": "a system in which the government provides social and financial support to citizens",
+      "example": "The country built one of Europe's most generous welfare states after the war.",
+      "topic": "politics & society",
+      "collocations": [
+        "a strong welfare state",
+        "reform the welfare state"
+      ]
+    },
+    {
+      "id": "cae-v-168",
+      "word": "legislation",
+      "pos": "noun",
+      "definition": "a law or set of laws passed by a parliament or similar body",
+      "example": "New legislation requiring clearer food labelling comes into force next month.",
+      "topic": "politics & society",
+      "collocations": [
+        "pass legislation",
+        "draft legislation"
+      ]
+    },
+    {
+      "id": "cae-v-169",
+      "word": "nonetheless",
+      "pos": "linking word",
+      "definition": "despite what has just been said; nevertheless",
+      "example": "The journey was exhausting; nonetheless, she arrived in good spirits.",
+      "topic": "linking words",
+      "collocations": [
+        "and nonetheless",
+        "nonetheless, ..."
+      ]
+    },
+    {
+      "id": "cae-v-170",
+      "word": "furthermore",
+      "pos": "linking word",
+      "definition": "used to add extra information to support a point already made",
+      "example": "The plan is expensive; furthermore, it would take years to complete.",
+      "topic": "linking words",
+      "collocations": [
+        "furthermore, ...",
+        "and, furthermore"
+      ]
+    },
+    {
+      "id": "cae-v-171",
+      "word": "whereas",
+      "pos": "linking word",
+      "definition": "used to introduce a contrast between two facts",
+      "example": "City rents have risen sharply, whereas wages have barely moved.",
+      "topic": "linking words",
+      "collocations": [
+        "whereas in the past",
+        "x, whereas y"
+      ]
+    },
+    {
+      "id": "cae-v-172",
+      "word": "notwithstanding",
+      "pos": "preposition",
+      "definition": "despite; in spite of (a formal word)",
+      "example": "Notwithstanding the criticism, the project went ahead as planned.",
+      "topic": "linking words",
+      "collocations": [
+        "notwithstanding that",
+        "notwithstanding this"
+      ]
+    },
+    {
+      "id": "cae-v-173",
+      "word": "consequently",
+      "pos": "linking word",
+      "definition": "as a result of something just mentioned",
+      "example": "The factory failed its safety inspection; consequently, production was halted.",
+      "topic": "linking words",
+      "collocations": [
+        "consequently, ...",
+        "and consequently"
+      ]
+    },
+    {
+      "id": "cae-v-174",
+      "word": "albeit",
+      "pos": "linking word",
+      "definition": "although; used to add a qualification to something already said",
+      "example": "The team won the match, albeit by the narrowest of margins.",
+      "topic": "linking words",
+      "collocations": [
+        "albeit briefly",
+        "albeit reluctantly"
+      ]
+    },
+    {
+      "id": "cae-v-175",
+      "word": "insofar as",
+      "pos": "linking word",
+      "definition": "to the extent that",
+      "example": "The plan is sound insofar as it addresses the budget, but it ignores staffing.",
+      "topic": "linking words",
+      "collocations": [
+        "insofar as possible",
+        "insofar as it concerns"
+      ]
+    },
+    {
+      "id": "cae-v-176",
+      "word": "given that",
+      "pos": "linking word",
+      "definition": "considering the fact that",
+      "example": "Given that ticket sales were so low, the festival is unlikely to return next year.",
+      "topic": "linking words",
+      "collocations": [
+        "given that fact",
+        "given that this is true"
+      ]
+    },
+    {
+      "id": "cae-v-177",
+      "word": "provided that",
+      "pos": "linking word",
+      "definition": "on condition that; only if",
+      "example": "You can borrow the car provided that you fill it up with petrol afterwards.",
+      "topic": "linking words",
+      "collocations": [
+        "provided that it works",
+        "provided that you agree"
+      ]
+    },
+    {
+      "id": "cae-v-178",
+      "word": "hitherto",
+      "pos": "linking word",
+      "definition": "until now or until a particular time (formal)",
+      "example": "The report revealed data that had hitherto been kept secret.",
+      "topic": "linking words",
+      "collocations": [
+        "hitherto unknown",
+        "hitherto unpublished"
+      ]
+    },
+    {
+      "id": "cae-v-179",
+      "word": "amid",
+      "pos": "preposition",
+      "definition": "in the middle of, or during (often used with difficult situations)",
+      "example": "Share prices fell amid growing concerns about inflation.",
+      "topic": "linking words",
+      "collocations": [
+        "amid controversy",
+        "amid uncertainty"
+      ]
+    },
+    {
+      "id": "cae-v-180",
+      "word": "pending",
+      "pos": "preposition",
+      "definition": "while waiting for something; until something happens",
+      "example": "The licence has been suspended pending the outcome of the investigation.",
+      "topic": "linking words",
+      "collocations": [
+        "pending approval",
+        "pending a decision"
+      ]
+    },
+    {
+      "id": "cae-v-181",
+      "word": "barring",
+      "pos": "preposition",
+      "definition": "except for, or unless something happens",
+      "example": "Barring any last-minute setbacks, the bridge should open by the end of the year.",
+      "topic": "linking words",
+      "collocations": [
+        "barring accidents",
+        "barring unforeseen circumstances"
+      ]
+    },
+    {
+      "id": "cae-v-182",
+      "word": "given",
+      "pos": "preposition",
+      "definition": "taking into account; considering",
+      "example": "Given the circumstances, the committee agreed to extend the deadline.",
+      "topic": "linking words",
+      "collocations": [
+        "given the circumstances",
+        "given the fact that"
+      ]
+    }
+  ]
+}

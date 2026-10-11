@@ -1,0 +1,341 @@
+{
+  "level": "cae",
+  "part": "uoe4",
+  "sets": [
+    {
+      "id": "cae-uoe4-01",
+      "type": "transformation",
+      "title": "Transformations: Everyday Life",
+      "topic": "society",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "I regret not visiting my grandmother more often before she passed away.",
+          "keyword": "WISH",
+          "before": "I",
+          "after": "more often before she passed away.",
+          "answers": [
+            "wish i had visited",
+            "wish i'd visited"
+          ],
+          "explanation": "'Wish' followed by the past perfect expresses regret about something in the past that cannot now be changed.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "If it hadn't been for her quick thinking, the situation could have been far worse.",
+          "keyword": "WERE",
+          "before": "",
+          "after": "her quick thinking, the situation could have been far worse.",
+          "answers": [
+            "were it not for"
+          ],
+          "explanation": "'Were it not for' is a formal inverted conditional structure meaning 'if it were not for', used instead of 'if' to introduce the one factor that prevented a worse outcome.",
+          "tag": "conditional"
+        },
+        {
+          "n": 3,
+          "first": "The company was about to go bankrupt when a new investor stepped in.",
+          "keyword": "VERGE",
+          "before": "The company",
+          "after": "bankruptcy when a new investor stepped in.",
+          "answers": [
+            "was on the verge of"
+          ],
+          "explanation": "'Be on the verge of' is a fixed idiom meaning 'be about to', used here to describe how close the company came to bankruptcy.",
+          "tag": "idiom"
+        },
+        {
+          "n": 4,
+          "first": "She had only just arrived when the phone rang.",
+          "keyword": "HARDLY",
+          "before": "",
+          "after": "arrived when the phone rang.",
+          "answers": [
+            "hardly had she"
+          ],
+          "explanation": "'Hardly' at the start of a sentence triggers inversion of the subject and auxiliary ('hardly had she arrived'), a formal structure for saying one thing happened immediately after another.",
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 5,
+          "first": "Nobody was remotely surprised when the firm announced record profits.",
+          "keyword": "SURPRISE",
+          "before": "The firm's record profits",
+          "after": "to anyone who had followed its recent growth.",
+          "answers": [
+            "came as no surprise"
+          ],
+          "explanation": "'Come as no surprise' is a fixed idiom meaning 'be entirely expected', shifting the focus from the people (who were not surprised) to the profits themselves.",
+          "tag": "idiom"
+        },
+        {
+          "n": 6,
+          "first": "Her recovery after the accident was absolutely amazing.",
+          "keyword": "SHORT",
+          "before": "Her recovery after the accident was",
+          "after": "amazing.",
+          "answers": [
+            "nothing short of"
+          ],
+          "explanation": "'Nothing short of' is a fixed idiom used before an adjective to intensify it, meaning 'absolutely' or 'no less than'.",
+          "tag": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe4-02",
+      "type": "transformation",
+      "title": "Transformations: Work and Communication",
+      "topic": "work",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "\"Don't touch that wire,\" the electrician said to the apprentice.",
+          "keyword": "TOLD",
+          "before": "The electrician",
+          "after": "touch that wire.",
+          "answers": [
+            "told the apprentice not to"
+          ],
+          "explanation": "A reported negative imperative is formed with 'tell someone not to do something'.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 2,
+          "first": "It is highly likely that she missed the train, since she isn't answering her phone.",
+          "keyword": "MUST",
+          "before": "She",
+          "after": "the train, since she isn't answering her phone.",
+          "answers": [
+            "must have missed"
+          ],
+          "explanation": "'Must have' plus the past participle expresses a confident deduction about the past.",
+          "tag": "modal"
+        },
+        {
+          "n": 3,
+          "first": "The company decided not to continue with the project because of rising costs.",
+          "keyword": "OUT",
+          "before": "The company decided to",
+          "after": "the project because of rising costs.",
+          "answers": [
+            "pull out of"
+          ],
+          "explanation": "'Pull out of' is a phrasal verb meaning 'withdraw from', matching the meaning of 'not continue with'.",
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 4,
+          "first": "I have absolutely no idea why she suddenly resigned.",
+          "keyword": "EARTH",
+          "before": "I have no idea",
+          "after": "she suddenly resigned.",
+          "answers": [
+            "why on earth"
+          ],
+          "explanation": "'Why on earth' is an idiomatic intensifier used to emphasise bewilderment about a reason.",
+          "tag": "idiom"
+        },
+        {
+          "n": 5,
+          "first": "The judges did not consider her previous experience when making their decision.",
+          "keyword": "ACCOUNT",
+          "before": "The judges did not",
+          "after": "her previous experience when making their decision.",
+          "answers": [
+            "take into account"
+          ],
+          "explanation": "'Take into account' is a fixed phrase meaning 'consider' or 'allow for'.",
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 6,
+          "first": "It last rained properly here in March.",
+          "keyword": "SINCE",
+          "before": "It",
+          "after": "March.",
+          "answers": [
+            "hasn't rained properly since",
+            "has not rained properly since"
+          ],
+          "explanation": "The present perfect negative with 'since' plus a point in time expresses that something has not happened from that point until now.",
+          "tag": "tense"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe4-03",
+      "type": "transformation",
+      "title": "Transformations: Science and Persistence",
+      "topic": "science",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "She missed the flight because she forgot her passport at home.",
+          "keyword": "HAD",
+          "before": "If she",
+          "after": "her passport at home, she wouldn't have missed the flight.",
+          "answers": [
+            "had not forgotten"
+          ],
+          "explanation": "The third conditional (if + past perfect, ... would have + past participle) describes an unreal past situation and its imagined result.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "They have to finish the report by Friday, according to the manager.",
+          "keyword": "FINISHED",
+          "before": "The report",
+          "after": "by Friday, according to the manager.",
+          "answers": [
+            "has to be finished"
+          ],
+          "explanation": "The passive form of an obligation ('has to be finished') shifts the focus from the people who must act to the report itself.",
+          "tag": "passive"
+        },
+        {
+          "n": 3,
+          "first": "This is easily the most interesting novel she has written.",
+          "keyword": "FAR",
+          "before": "This is",
+          "after": "the most interesting novel she has written.",
+          "answers": [
+            "by far"
+          ],
+          "explanation": "'By far' is a fixed intensifying phrase used before a superlative to emphasise the degree of difference.",
+          "tag": "comparison"
+        },
+        {
+          "n": 4,
+          "first": "She resigned because she wanted to spend more time with her family.",
+          "keyword": "REASON",
+          "before": "",
+          "after": "she resigned was that she wanted to spend more time with her family.",
+          "answers": [
+            "the reason why",
+            "the reason",
+            "the reason that"
+          ],
+          "explanation": "'The reason (why/that)' introduces a clause explaining a cause; the relative adverb 'why' or the relative pronoun 'that' can be included, or omitted altogether.",
+          "tag": "relative-clause"
+        },
+        {
+          "n": 5,
+          "first": "The research team continued with their experiments despite the setback.",
+          "keyword": "CARRIED",
+          "before": "The research team",
+          "after": "despite the setback.",
+          "answers": [
+            "carried on with their experiments"
+          ],
+          "explanation": "'Carry on with' is a phrasal verb meaning 'continue with', matching the meaning of the original sentence.",
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "first": "My brother refused to give up during the negotiations, no matter how difficult they became.",
+          "keyword": "TOOTH",
+          "before": "My brother fought",
+          "after": "during the negotiations, no matter how difficult they became.",
+          "answers": [
+            "tooth and nail"
+          ],
+          "explanation": "'Fight tooth and nail' is an idiom meaning to struggle fiercely and persistently for something.",
+          "tag": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe4-04",
+      "type": "transformation",
+      "title": "Transformations: Society and Decisions",
+      "topic": "society",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "\"I broke the vase,\" said Tom.",
+          "keyword": "ADMITTED",
+          "before": "Tom",
+          "after": "the vase.",
+          "answers": [
+            "admitted breaking",
+            "admitted to breaking"
+          ],
+          "explanation": "'Admit' is followed by a gerund directly or by 'to' plus a gerund; both forms report the confession correctly.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 2,
+          "first": "I strongly advise you to see a doctor about that cough.",
+          "keyword": "BETTER",
+          "before": "You",
+          "after": "see a doctor about that cough.",
+          "answers": [
+            "had better"
+          ],
+          "explanation": "'Had better' is a fixed modal-like structure used to give strong advice or a warning.",
+          "tag": "modal"
+        },
+        {
+          "n": 3,
+          "first": "We don't have enough time to visit every museum, so we'll just see the main ones.",
+          "keyword": "SHORT",
+          "before": "",
+          "after": "of time, we'll just see the main museums.",
+          "answers": [
+            "running short",
+            "being short",
+            "as we are short",
+            "as we're short",
+            "since we're short",
+            "since we are short"
+          ],
+          "explanation": "'Running short of time' / 'being short of time' are fixed phrases meaning 'not having enough time left'; 'as/since we are short of time' expresses the same reason as a full clause.",
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 4,
+          "first": "No matter the number of people who apply, only five positions are available.",
+          "keyword": "MANY",
+          "before": "",
+          "after": "people apply, only five positions are available.",
+          "answers": [
+            "however many",
+            "no matter how many"
+          ],
+          "explanation": "'However many' and 'no matter how many' are both fixed quantifying phrases meaning 'regardless of the number'.",
+          "tag": "quantifier"
+        },
+        {
+          "n": 5,
+          "first": "If there is a fire, please use the stairs, not the lift.",
+          "keyword": "EVENT",
+          "before": "",
+          "after": "a fire, please use the stairs, not the lift.",
+          "answers": [
+            "in the event of"
+          ],
+          "explanation": "'In the event of' is a formal fixed phrase meaning 'if ... happens', used instead of 'if' in official instructions.",
+          "tag": "conditional"
+        },
+        {
+          "n": 6,
+          "first": "Even if nothing else works out, I will still have the satisfaction of having tried.",
+          "keyword": "LEAST",
+          "before": "",
+          "after": "I will have the satisfaction of having tried.",
+          "answers": [
+            "at least"
+          ],
+          "explanation": "'At least' is a fixed phrase meaning 'whatever else happens', introducing the one positive outcome that is guaranteed.",
+          "tag": "comparison"
+        }
+      ]
+    }
+  ]
+}

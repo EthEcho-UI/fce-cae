@@ -1,0 +1,336 @@
+{
+  "level": "cae",
+  "part": "uoe2",
+  "sets": [
+    {
+      "id": "cae-uoe2-01",
+      "type": "openCloze",
+      "title": "Urban Beekeeping",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "Over the past decade, keeping bees on city rooftops {{1}} become a surprisingly popular hobby. What began as a niche pursuit among a handful of enthusiasts has turned {{2}} a genuine urban movement, with hives now appearing on office blocks, hotels and even hospital roofs.",
+        "Supporters argue that urban beekeeping helps pollinate parks and gardens, {{3}} in turn supports a wider range of plant and insect life across the city. Critics, {{4}}, point out that cities may simply not have enough flowers to support so many hives, {{5}} that an excess of honeybees could end up competing with wild bees and other pollinators for the same limited food.",
+        "{{6}} matter how well intentioned, a rooftop hive is not something to take on lightly: bees require regular inspection, and a swarm {{7}} escapes above a busy street can cause genuine alarm. Even so, {{8}} the right training and support, most new beekeepers manage perfectly well, and many say the hobby has reconnected them with the changing seasons in a city that often feels disconnected from nature."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "has"
+          ],
+          "tag": "tense",
+          "explanation": "The present perfect ('has become') is needed because the sentence describes a change that started in the past and is still true now ('over the past decade')."
+        },
+        {
+          "n": 2,
+          "answers": [
+            "into"
+          ],
+          "tag": "preposition",
+          "explanation": "'Turn into' is the fixed phrasal verb meaning 'change or develop into something'."
+        },
+        {
+          "n": 3,
+          "answers": [
+            "which"
+          ],
+          "tag": "relative-clause",
+          "explanation": "'Which' is needed to introduce a non-restrictive relative clause referring back to the whole idea of helping pollinate parks and gardens."
+        },
+        {
+          "n": 4,
+          "answers": [
+            "however"
+          ],
+          "tag": "linking",
+          "explanation": "'However' marks the contrast between the supporters' view in the previous sentence and the critics' concern here."
+        },
+        {
+          "n": 5,
+          "answers": [
+            "and"
+          ],
+          "tag": "linking",
+          "explanation": "'And' links two parallel 'that'-clauses after 'point out', joining the two reasons the critics give."
+        },
+        {
+          "n": 6,
+          "answers": [
+            "no"
+          ],
+          "tag": "fixed-phrase",
+          "explanation": "'No matter how' is the fixed phrase meaning 'regardless of how'."
+        },
+        {
+          "n": 7,
+          "answers": [
+            "that",
+            "which"
+          ],
+          "tag": "relative-clause",
+          "explanation": "A subject relative pronoun referring to 'a swarm' is needed; both 'that' and 'which' are acceptable here."
+        },
+        {
+          "n": 8,
+          "answers": [
+            "with"
+          ],
+          "tag": "preposition",
+          "explanation": "'With the right training and support' means 'provided that they have'; 'with' introduces the accompanying condition."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe2-02",
+      "type": "openCloze",
+      "title": "The Art of Negotiation",
+      "topic": "work",
+      "source": "original",
+      "text": [
+        "Good negotiators are often assumed to be born {{1}} natural persuasive instincts, but research suggests that negotiation is, in fact, a skill {{2}} can be learned and refined like any other. Experienced negotiators prepare thoroughly, gather information about the other side, and resist the temptation to reveal their own position too early.",
+        "One common mistake is to focus too {{3}} on price alone, {{4}} ignoring other factors that might matter just as much to the other party, such as timing, flexibility or long-term trust. Skilled negotiators instead look {{5}} ways to expand the overall deal, so that both sides can walk away feeling they gained something.",
+        "{{6}} the negotiation becomes tense, experienced negotiators rarely raise their voice or walk out; {{7}} they tend to pause, ask clarifying questions, and give the other side room to reconsider. It is this calm persistence, {{8}} than aggressive pressure, that most consistently produces lasting agreements, and it is a quality that can be practised deliberately long before anyone sits down at the table."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "with"
+          ],
+          "tag": "preposition",
+          "explanation": "'Born with' is the fixed phrase for having a quality from birth."
+        },
+        {
+          "n": 2,
+          "answers": [
+            "that",
+            "which"
+          ],
+          "tag": "relative-clause",
+          "explanation": "A subject relative pronoun referring to 'a skill' is needed; 'that' or 'which' both work."
+        },
+        {
+          "n": 3,
+          "answers": [
+            "much"
+          ],
+          "tag": "quantifier",
+          "explanation": "'Focus too much on' is the natural quantifying collocation describing excessive attention."
+        },
+        {
+          "n": 4,
+          "answers": [
+            "thereby",
+            "thus"
+          ],
+          "tag": "linking",
+          "explanation": "A linking adverb meaning 'as a result' is needed before the participle 'ignoring'; 'thereby' and 'thus' both fit."
+        },
+        {
+          "n": 5,
+          "answers": [
+            "for"
+          ],
+          "tag": "preposition",
+          "explanation": "'Look for ways' is the fixed phrasal pattern meaning 'try to find ways'."
+        },
+        {
+          "n": 6,
+          "answers": [
+            "when",
+            "if"
+          ],
+          "tag": "linking",
+          "explanation": "'When' or 'if' can both introduce the condition/time under which negotiators behave calmly."
+        },
+        {
+          "n": 7,
+          "answers": [
+            "instead",
+            "rather"
+          ],
+          "tag": "linking",
+          "explanation": "'Instead' or 'rather' both contrast what experienced negotiators do not do (raise their voice) with what they do instead (pause and ask questions)."
+        },
+        {
+          "n": 8,
+          "answers": [
+            "rather"
+          ],
+          "tag": "comparison",
+          "explanation": "'Rather than' is the fixed comparative phrase contrasting calm persistence with aggressive pressure."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe2-03",
+      "type": "openCloze",
+      "title": "Space Tourism",
+      "topic": "science",
+      "source": "original",
+      "text": [
+        "For most of the twentieth century, space travel {{1}} something only trained astronauts could even dream of attempting. Today, a handful of private companies are racing to make short trips beyond the atmosphere available to anyone {{2}} can afford the ticket.",
+        "Early flights have lasted only a few minutes, giving passengers {{3}} enough time to experience weightlessness before the capsule begins its descent. Even so, demand has been strong: {{4}} the eye-watering prices, thousands of people have already registered their interest for future flights.",
+        "Not everyone is enthusiastic. Environmental campaigners warn that each flight burns through a disproportionate amount of fuel for the number of passengers carried, and argue that the industry should be regulated far more {{5}} than it currently is. Supporters counter {{6}} pointing out that the technology developed for tourism often filters down into cheaper, more efficient launch systems, so {{7}} everyone eventually benefits.",
+        "{{8}} far this remains a niche market reserved for the very wealthy, but few doubt that prices will fall as competition between companies increases."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "was"
+          ],
+          "tag": "tense",
+          "explanation": "The past simple is needed because the sentence describes the whole of the twentieth century as a finished historical period."
+        },
+        {
+          "n": 2,
+          "answers": [
+            "who"
+          ],
+          "tag": "relative-clause",
+          "explanation": "'Who' introduces a relative clause referring back to the person 'anyone'."
+        },
+        {
+          "n": 3,
+          "answers": [
+            "just"
+          ],
+          "tag": "quantifier",
+          "explanation": "'Just enough time' emphasises that the amount of time was the bare minimum needed."
+        },
+        {
+          "n": 4,
+          "answers": [
+            "despite"
+          ],
+          "tag": "preposition",
+          "explanation": "'Despite' introduces a noun phrase ('the eye-watering prices') that contrasts with the strong demand described."
+        },
+        {
+          "n": 5,
+          "answers": [
+            "closely",
+            "tightly",
+            "strictly"
+          ],
+          "tag": "comparison",
+          "explanation": "An adverb meaning 'with stricter control' is needed after 'more'; 'closely', 'tightly' and 'strictly' are all natural collocations with 'regulated'."
+        },
+        {
+          "n": 6,
+          "answers": [
+            "by"
+          ],
+          "tag": "preposition",
+          "explanation": "'Counter by doing something' is the fixed pattern for describing how someone responds to an argument."
+        },
+        {
+          "n": 7,
+          "answers": [
+            "that"
+          ],
+          "tag": "linking",
+          "explanation": "'So that' is the fixed purpose/result structure; 'so' is already given, so the gap needs 'that' to complete it before the result clause 'everyone eventually benefits'."
+        },
+        {
+          "n": 8,
+          "answers": [
+            "so",
+            "thus"
+          ],
+          "tag": "linking",
+          "explanation": "'So far' and 'thus far' are both fixed phrases meaning 'up to now'."
+        }
+      ]
+    },
+    {
+      "id": "cae-uoe2-04",
+      "type": "openCloze",
+      "title": "The Decline of Handwriting",
+      "topic": "education",
+      "source": "original",
+      "text": [
+        "Fewer and fewer adults now write anything by hand beyond signing their name, and in {{1}} schools, typing is taught alongside, or even instead {{2}}, handwriting. Some educators welcome the change, arguing that keyboard skills matter {{3}} in a digital world than the ability to form neat letters with a pen.",
+        "Others are far {{4}} convinced. Studies suggest that the physical act of writing by hand engages the brain differently from typing, helping students remember {{5}} they have written more effectively than if they had simply typed it. {{6}} this research is far from conclusive, it has been enough to persuade several countries to keep handwriting lessons compulsory in primary schools.",
+        "Whatever the eventual outcome, few believe that handwriting will disappear {{7}}: even committed typists still reach for a pen to jot down a quick note or sign a card, {{8}} the keyboard is nowhere in sight. For most people, it seems, the debate is less about choosing sides than about finding room for both skills in a world that increasingly demands speed as well as thought."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "many",
+            "some",
+            "most"
+          ],
+          "tag": "quantifier",
+          "explanation": "A quantifier describing a general but not total number of schools is needed; 'many', 'some' and 'most' all work naturally here."
+        },
+        {
+          "n": 2,
+          "answers": [
+            "of"
+          ],
+          "tag": "preposition",
+          "explanation": "'Instead of' is the fixed phrase meaning 'in place of'."
+        },
+        {
+          "n": 3,
+          "answers": [
+            "more"
+          ],
+          "tag": "comparison",
+          "explanation": "'Matter more... than' is the comparative structure needed to contrast the importance of the two skills."
+        },
+        {
+          "n": 4,
+          "answers": [
+            "less",
+            "from"
+          ],
+          "tag": "comparison",
+          "explanation": "'Far less convinced' and 'far from convinced' are both fixed ways of showing the opposite degree of conviction from the educators who welcome the change."
+        },
+        {
+          "n": 5,
+          "answers": [
+            "what"
+          ],
+          "tag": "pronoun-reference",
+          "explanation": "'What they have written' is the noun clause object of 'remember'; 'what' is needed because there is no specific antecedent."
+        },
+        {
+          "n": 6,
+          "answers": [
+            "while",
+            "although",
+            "though"
+          ],
+          "tag": "linking",
+          "explanation": "A concessive linker is needed to contrast the inconclusive research with its real-world influence; 'while', 'although' and 'though' all fit."
+        },
+        {
+          "n": 7,
+          "answers": [
+            "altogether",
+            "entirely",
+            "completely"
+          ],
+          "tag": "fixed-phrase",
+          "explanation": "An adverb meaning 'completely' is needed after 'disappear'; 'altogether', 'entirely' and 'completely' are all acceptable here."
+        },
+        {
+          "n": 8,
+          "answers": [
+            "when",
+            "while",
+            "if"
+          ],
+          "tag": "linking",
+          "explanation": "A linker introducing the circumstance in which people still reach for a pen is needed; 'when', 'while' and 'if' all fit this meaning."
+        }
+      ]
+    }
+  ]
+}
