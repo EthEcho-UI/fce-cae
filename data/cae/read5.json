@@ -1,0 +1,383 @@
+{
+  "level": "cae",
+  "part": "read5",
+  "sets": [
+    {
+      "id": "cae-read5-01",
+      "type": "multipleChoice",
+      "title": "The Last House on Vane Street",
+      "topic": "family",
+      "source": "original",
+      "intro": "You are going to read an extract from a novel. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "Maren had not meant to keep the key. For three years it had sat at the bottom of a drawer in London, wedged between dead batteries and a coil of picture wire, and she had told herself, each time she came across it, that she would post it back to the solicitor. Now she stood on the cracked path of the house on Vane Street, turning it over in her palm as though it might have changed shape in the meantime, and found that she resented it faintly for still fitting the lock.",
+        "The house had been shrunk by her absence, the way houses always are. The hallway, which she remembered as a place you could lose a dog in, was barely wide enough for the two of them to pass. Her mother's coats still hung on the pegs, and Maren noted, with the detached interest of someone cataloguing someone else's life, that she could not have said which coat her mother had actually worn in the last year. The porch light had a dead moth sealed inside the glass, and it struck her that no one had thought to clean it out, which was, she supposed, the entire problem with coming back only for funerals: you inherited the small negligences along with the furniture.",
+        "It was her aunt Phil who found her in the kitchen an hour later, standing on a chair to reach the top of the dresser. 'You won't find anything up there but dust and your grandmother's good china,' Phil said, not unkindly, though there was an edge to it that Maren recognised from childhood arguments she had mostly forgotten the content of. 'If you're looking for the letters, they're not in this house. She burned them, you know. Years ago, after your father left. I watched her do it in the yard, page by page, like she was feeding a fire that wouldn't take.' Maren climbed down slowly. She had not, in fact, been looking for letters at all, only for the biscuit tin where loose buttons used to live, but Phil's certainty that she had been made her wonder whether some part of her had been looking for them without admitting it.",
+        "What Maren actually felt, turning the key over again outside on the step once Phil had gone home, was not grief so much as a kind of accounting. She added up the visits she had not made, the phone calls allowed to ring out because she was busy, or tired, or simply disinclined to explain, again, why she still hadn't settled anywhere, hadn't married, hadn't done any of the things that would have given her mother a satisfying answer when the neighbours asked. She was aware that this ledger was not, strictly, grief, and that grief might arrive later, unannounced, at some entirely unrelated moment — in a supermarket queue, perhaps, over a brand of soup her mother used to buy. For now there was only this dry, administrative sorrow, and underneath it, shamefully, something closer to relief: the relief of a question finally being closed, even if the answer inside it had never been given.",
+        "She decided, in the end, not to sell the house immediately, though every practical instinct told her to. She told herself this was because the market was poor, or because Phil would be hurt, or because there were things still to be sorted through properly rather than skipped past. But walking back down the path, she caught sight of her own reflection in the hall mirror through the open door — a woman roughly the age her mother had been when Maren left for university — and understood, with the mild surprise of recognising a fact one has avoided for a long time, that she simply was not ready to hand the key to a stranger. Not yet. Possibly not for a long time."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What does the first paragraph suggest about Maren's attitude to the key?",
+          "options": [
+            "She was faintly annoyed that the key still worked, as though time should have passed for that to change.",
+            "She had deliberately kept the key all this time as a sentimental reminder of her childhood in the house.",
+            "She had completely forgotten that she still owned the key until she arrived outside the house that morning.",
+            "She felt that the key no longer had any genuine connection to her earlier life in that house."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: she 'resented it faintly for still fitting the lock', showing she was irritated the key still worked after all this time, not that her situation had resolved.",
+            "There is no suggestion the key was kept deliberately as a sentimental keepsake; she avoided dealing with it rather than treasured it, and tried several times to post it back.",
+            "The text says she came across the key 'each time' she opened the drawer, implying she knew perfectly well she still had it, not that she had forgotten about it.",
+            "Her irritation at the key still fitting shows it very much retained its old hold over her, which contradicts the idea that it no longer had any connection to her past."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 2,
+          "stem": "The reference to the porch light with the dead moth is used mainly to",
+          "options": [
+            "show that Maren's mother had generally neglected small household tasks throughout her final years alone.",
+            "illustrate Maren's point that returning only for funerals means inheriting a house's small, unnoticed negligences.",
+            "suggest that the house had stood completely empty and unvisited for an unusually long stretch of time.",
+            "indicate that Maren felt a specific, nagging guilt about her mother's declining health in recent years."
+          ],
+          "answer": 1,
+          "why": [
+            "The passage does not blame the mother's housekeeping in general; the moth is one small, specific detail, not evidence of broader neglect on her part.",
+            "Correct: Maren links the detail to her theory that 'coming back only for funerals' means 'you inherited the small negligences along with the furniture'.",
+            "The moth detail is about one small neglected task, not a sign that the house had stood empty for an unusually long period beforehand.",
+            "This paragraph is about Maren's detached, cataloguing observation, not about guilt concerning her mother's health, which is never mentioned in this part of the text."
+          ],
+          "tag": "purpose-function"
+        },
+        {
+          "n": 3,
+          "stem": "What does Phil's comment about the letters reveal?",
+          "options": [
+            "She disapproved strongly of Maren searching through her late mother's personal belongings without permission.",
+            "She wanted to warn Maren gently about a family secret Maren did not yet know anything about.",
+            "She assumed, without being asked, that she already knew exactly what Maren was looking for.",
+            "She was deliberately trying to protect Maren from a discovery she feared would be painful."
+          ],
+          "answer": 2,
+          "why": [
+            "Phil's tone has an edge, but her words are not framed as disapproval of searching generally, only as a confident assumption about its purpose.",
+            "Phil is not revealing an unknown secret to Maren; the burning of the letters is described as something Maren could plausibly already half-know, given her reaction to it.",
+            "Correct: Maren 'had not, in fact, been looking for letters at all', so Phil's confident statement shows she assumed a motive Maren had never actually stated.",
+            "Nothing in Phil's tone or wording suggests a protective motive; she states the fact flatly, 'not unkindly' but also not gently or cautiously."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 4,
+          "stem": "In the fourth paragraph, what does Maren recognise about her own feelings?",
+          "options": [
+            "That her sadness matched precisely what she had expected to feel before arriving at the house.",
+            "That she felt essentially no guilt at all about her long absence from her mother's daily life.",
+            "That she deeply regretted never once attending any of her mother's hospital appointments in later years.",
+            "That what she felt was closer to a kind of practical reckoning than to straightforward grief itself."
+          ],
+          "answer": 3,
+          "why": [
+            "She is surprised by the nature of her own feelings, which is the opposite of them matching her expectations precisely.",
+            "The paragraph lists missed visits and calls she clearly feels uneasy about, so the idea that she feels no guilt whatsoever is contradicted.",
+            "There is no mention of hospital appointments being missed; the text instead lists everyday absences, such as unanswered calls and visits.",
+            "Correct: she calls it 'a kind of accounting' and 'dry, administrative sorrow', explicitly distinguishing this feeling from grief itself."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "stem": "The phrase 'the relief of a question finally being closed' refers to",
+          "options": [
+            "Maren's sense that a long-unresolved part of her relationship with her mother was finally settled, whatever the answer.",
+            "Maren's relief that she would simply no longer personally have to manage or maintain the old house itself.",
+            "Maren's relief that Phil had at last fully explained the entire mystery surrounding the burned letters.",
+            "Maren's satisfaction at having just decided, moments earlier, not to sell the house immediately."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the sentence frames the mother's death as closing a long-open question in the relationship, 'even if the answer inside it had never been given' — the relief is at closure itself.",
+            "The relief described is emotional and relational, not about the practical burden of managing the property, which this sentence does not mention.",
+            "Phil's explanation about the letters is a separate, earlier episode, and is not what this particular sentence is referring to.",
+            "The decision about selling the house is only made afterwards, in the final paragraph, not at this earlier point in the text."
+          ],
+          "tag": "meaning-in-context"
+        },
+        {
+          "n": 6,
+          "stem": "What does the final paragraph suggest about Maren's decision regarding the house?",
+          "options": [
+            "She has firmly resolved, from this point on, to move into the house and live there herself.",
+            "She gives herself practical reasons, but the real one is an emotional unreadiness only now admitted.",
+            "She is waiting, before deciding anything further, for Phil's explicit permission to make the final decision.",
+            "She fully intends to sell the house just as soon as the local property market improves."
+          ],
+          "answer": 1,
+          "why": [
+            "There is no suggestion she plans to move in; the paragraph is about delaying a decision, not about relocating there herself.",
+            "Correct: she lists practical excuses but then recognises, with 'mild surprise', that the true reason is she is 'not ready to hand the key to a stranger' — an emotional admission.",
+            "Phil's feelings are mentioned only as one of several excuses Maren offers herself, not as something she is literally waiting on permission for.",
+            "The paragraph explicitly states that 'every practical instinct told her to' sell, yet she decides not to, so this option reverses the actual outcome."
+          ],
+          "tag": "inference"
+        }
+      ]
+    },
+    {
+      "id": "cae-read5-02",
+      "type": "multipleChoice",
+      "title": "In Defence of the Illegible Hand",
+      "topic": "education",
+      "source": "original",
+      "intro": "You are going to read a magazine article. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "There is something almost perverse about defending handwriting in an age when a smartphone can transcribe speech more accurately, and far more legibly, than most people's own pen. And yet a small but persistent body of research keeps dragging the subject back into view, suggesting that the physical act of forming letters by hand does something to memory and understanding that typing simply does not. The findings are not dramatic, and they certainly do not amount to a case for abandoning keyboards. But they are consistent enough to be worth taking seriously, which is more than can be said for most of the nostalgia that usually surrounds this topic.",
+        "The strongest evidence comes from students taking notes in lectures. Those who write notes by hand tend, on later testing, to perform better on questions requiring genuine understanding of a concept, even though those typing can usually capture more words overall and often believe, wrongly, that this has served them better. The likeliest explanation is not that pen and paper possess some mystical advantage, but that handwriting is slower and more effortful, forcing the note-taker to summarise and paraphrase rather than transcribe verbatim. In other words, the apparent inefficiency of handwriting may be doing useful cognitive work that the efficiency of typing quietly removes.",
+        "None of this should be mistaken for an argument that handwriting is inherently superior in some broader sense, a claim one occasionally meets from people who seem to regard a keyboard as a kind of moral shortcut. The research is narrower and more interesting than that: it points to a specific trade-off between speed and depth of processing, one that happens to favour the slower method in certain tasks and would very likely favour speed itself in others, such as drafting a long piece of writing that benefits from easy editing. Pretending otherwise, by treating a fountain pen as evidence of seriousness and a laptop as evidence of laziness, says more about the user's self-image than about any measurable cognitive outcome.",
+        "What is harder to dismiss is the question of children learning to write for the first time. Here the evidence is murkier but, if anything, more consequential, since early handwriting practice appears to be bound up with how children learn to recognise letters at all, each stroke of the pen reinforcing a mental shape in a way that pressing a key does not. Some educators have concluded from this that handwriting instruction should be protected in primary schools regardless of how adult working life eventually unfolds, a position that strikes this writer as sensible rather than sentimental, whatever the eventual keyboard habits of the children in question.",
+        "There is, admittedly, a commercial dimension to all this that is worth flagging before the argument sounds too high-minded. Notebook manufacturers and pen companies have been quick to seize on every study of this kind, folding it into marketing copy that promises improved focus, memory and even creativity to anyone willing to buy a particular brand of fountain pen. None of the research cited here supports claims that specific, and readers should treat such packaging with the same scepticism they would apply to any other product dressed up in the language of cognitive science. The underlying effect is real but narrow, and it has nothing whatsoever to do with the price of the instrument used to produce it.",
+        "It would be convenient to end on a tidy verdict, but the honest one is messier: handwriting is not, as its most devoted defenders like to imply, quietly superior in every respect, nor is it the harmless relic that the most efficiency-minded critics take it to be. It is a tool with particular, demonstrable strengths in particular tasks, principally those involving slow attention to new or difficult material, and no great advantage at all in others. Treating it as a battle to be won by either side obscures the far duller, and far more useful, truth that different tools suit different kinds of thinking, and that the pen has simply not yet been fully retired from the list."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What is the writer's purpose in the first paragraph?",
+          "options": [
+            "To argue decisively that handwriting has now become entirely obsolete in modern education.",
+            "To criticise researchers directly for spending time studying such an unimportant, minor subject.",
+            "To acknowledge a sceptical starting point before presenting evidence that complicates it.",
+            "To predict confidently that keyboards will soon replace pens completely in every context."
+          ],
+          "answer": 2,
+          "why": [
+            "The writer is not arguing handwriting is obsolete; the rest of the piece goes on to defend its continued relevance in specific contexts.",
+            "The writer treats the research as worth taking seriously, not as unimportant, so there is no criticism of researchers here.",
+            "Correct: the writer admits defending handwriting looks 'almost perverse' given technology, then signals that research nonetheless 'keeps dragging the subject back into view' and is 'worth taking seriously'.",
+            "No such confident prediction is made; the paragraph is about present evidence, not a forecast about the future."
+          ],
+          "tag": "purpose-function"
+        },
+        {
+          "n": 2,
+          "stem": "According to the second paragraph, why might handwritten notes lead to better understanding?",
+          "options": [
+            "Handwriting allows students to capture noticeably more of what is actually said than typing usually does.",
+            "Students who write by hand simply believe, rightly or wrongly, that they understand the material better.",
+            "Handwriting is viewed as a more traditional, and therefore more generally respected, method of study.",
+            "Handwriting forces students to condense and rephrase information as they go, rather than copy it directly."
+          ],
+          "answer": 3,
+          "why": [
+            "The text says typists 'can usually capture more words overall', which is the opposite of what this option claims.",
+            "The belief that typing serves students better is described in the text as mistaken, and in any case concerns typists' beliefs, not handwriters'.",
+            "Tradition and respectability are not mentioned anywhere in the paragraph as explanations for the effect.",
+            "Correct: the paragraph explains handwriting's slowness forces note-takers to 'summarise and paraphrase rather than transcribe verbatim', given as the likely mechanism."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What is the writer's attitude to people who treat using a pen as a sign of seriousness?",
+          "options": [
+            "Mildly critical, suggesting that this view reflects the user's self-image more than any real evidence.",
+            "Fully sympathetic, since the writer believes the research genuinely does support this particular view.",
+            "Quietly admiring of their strong personal commitment to traditional, old-fashioned methods of working.",
+            "Entirely indifferent, since the writer claims to have no real opinion on the matter at all."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the writer says this 'says more about the user's self-image than about any measurable cognitive outcome', a pointed but restrained criticism.",
+            "The writer explicitly separates the narrow research finding from this broader claim, which the research does not actually support.",
+            "The tone here is not admiring at all; it is gently dismissive of the attitude being described.",
+            "The writer clearly does have a view on this, stating it directly rather than remaining neutral or indifferent."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "What does the writer suggest about handwriting instruction for children?",
+          "options": [
+            "It should probably be dropped, since most children will mainly type as adults anyway.",
+            "It is worth preserving because of its apparent role in helping children recognise letters early.",
+            "The evidence for its real importance is weak overall and should therefore simply be disregarded.",
+            "It matters only for the small number of children who will eventually become professional writers."
+          ],
+          "answer": 1,
+          "why": [
+            "The writer explicitly says this position 'strikes this writer as sensible' regardless of later adult habits, the opposite of dropping it for that reason.",
+            "Correct: the paragraph links handwriting practice to how children 'learn to recognise letters at all', endorsing protecting instruction on this basis.",
+            "The writer calls the evidence 'murkier but, if anything, more consequential', not weak enough to simply disregard.",
+            "No such restriction to future professional writers is suggested; the point made concerns all children learning to recognise letters."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 5,
+          "stem": "The phrase 'a position that strikes this writer as sensible rather than sentimental' implies that",
+          "options": [
+            "the writer thinks most people who hold this view are being irrationally and needlessly nostalgic.",
+            "the writer actually disagrees with educators who argue for protecting handwriting instruction in schools.",
+            "the writer wants to separate this view from more general, nostalgic defences of handwriting.",
+            "the writer believes sentimentality is always, without exception, a poor basis for educational policy."
+          ],
+          "answer": 2,
+          "why": [
+            "The writer is defending this specific view as reasonable, not accusing the people who hold it of irrationality.",
+            "The writer actually agrees with these educators here, calling their position sensible rather than disagreeing with it.",
+            "Correct: 'sensible rather than sentimental' deliberately marks this conclusion off from the nostalgic arguments the writer dismissed earlier in the text.",
+            "The sentence is a specific judgement about this one case, not a sweeping philosophical claim about sentimentality in general."
+          ],
+          "tag": "meaning-in-context"
+        },
+        {
+          "n": 6,
+          "stem": "Which best summarises the overall argument of the text?",
+          "options": [
+            "Handwriting is quietly superior to typing in almost every realistic situation one can imagine.",
+            "The whole debate over handwriting versus typing is unimportant and should simply be abandoned.",
+            "Typing should eventually and completely replace handwriting in every stage of modern education.",
+            "Each method suits a different task, and neither deserves blanket loyalty."
+          ],
+          "answer": 3,
+          "why": [
+            "The final paragraph explicitly rejects the idea that handwriting is 'quietly superior in every respect'.",
+            "The writer treats the question as worth taking seriously throughout the piece, not as an unimportant one.",
+            "The final paragraph says the pen 'has simply not yet been fully retired', contradicting a prediction of its complete replacement.",
+            "Correct: the conclusion states 'different tools suit different kinds of thinking', summarising the article's deliberately balanced position."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    },
+    {
+      "id": "cae-read5-03",
+      "type": "multipleChoice",
+      "title": "The Unexpected Uses of Boredom",
+      "topic": "psychology",
+      "source": "original",
+      "intro": "You are going to read a magazine article. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "For a sensation so universally disliked, boredom has had a surprisingly productive few decades in the research literature. Psychologists who once dismissed it as merely the absence of anything interesting now treat it as a distinct mental state with its own function, broadly comparable to hunger: an uncomfortable signal that something needs to change, rather than a dead end to be endured. The practical question this raises is less abstract than it sounds, since it bears directly on a habit most readers will recognise in themselves, which is reaching for a phone the instant a queue, a waiting room or a quiet afternoon threatens to produce the feeling at all.",
+        "What the signal appears to be prompting us towards, several studies now suggest, is not distraction but a particular kind of undirected thinking: mind-wandering, daydreaming, the loosely associative mental drifting that tends to surface new connections between ideas that focused attention rarely manages. Writers, composers and scientists have long reported that their best insights arrived not at the desk but in the shower, on a walk, or during some other interval too dull to demand concentration. It would be convenient to conclude from this that boredom is secretly a gift, and a few enthusiastic commentators have duly rushed to that conclusion, but the evidence supports something more modest: boredom creates the conditions in which useful thinking can occur, not a guarantee that it will.",
+        "This matters because of what tends to happen the moment boredom is interrupted before it can do any such work. A phone offers an escape so immediate and so mildly rewarding that the uncomfortable signal is silenced long before the mind has had a chance to wander anywhere productive, let alone generate an idea worth having. Several researchers studying this pattern have noted, with evident unease, that we may be raising a generation that has simply never experienced boredom for longer than the few seconds it takes to unlock a screen, and that we cannot yet know what, if anything, is being lost as a result, precisely because the relevant comparison group barely exists any longer.",
+        "None of this amounts to a case for engineering more boredom into daily life for its own sake, an idea that, taken to its logical extreme, becomes faintly absurd; nobody seriously proposes that commuters should be banned from reading on trains in the name of cognitive hygiene. The more defensible claim is narrower: that a life with zero tolerance for unfilled moments may be quietly closing off a mental process whose value only becomes visible in hindsight, when the stray idea it produced turns out, weeks later, to have been the useful one.",
+        "It is worth adding that boredom's usefulness seems to depend heavily on circumstance, which may be why the research has taken so long to produce a settled picture. A few minutes of enforced waiting, with nothing to do but think, appears to be where most of the reported benefit lies; prolonged, grinding boredom of the sort experienced by someone stuck in a genuinely tedious job shows no comparable advantage, and indeed tends to correlate with the opposite outcomes, including lower wellbeing and reduced motivation over time. The useful variety, in other words, is mild, temporary and ultimately escapable, which is a considerably less romantic picture than the one occasionally painted by commentators keen to rehabilitate the idea wholesale, but a more accurate one nonetheless.",
+        "Boredom, in other words, is not an enemy to be eliminated but an underused resource of a very particular, limited kind, and treating it purely as a problem to be solved may be solving away exactly the thing it was supposed to produce."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "How does the writer characterise the recent shift in how psychologists view boredom?",
+          "options": [
+            "They increasingly see it as having a real function, not simply an absence of interest.",
+            "They have started to view it as a clearly harmful state that people should actively avoid.",
+            "They have definitively proved that boredom always leads directly to some form of creative insight.",
+            "They have shown through repeated studies that boredom is actually far less common than once believed."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: psychologists now see boredom 'as a distinct mental state with its own function', comparing it to hunger as 'a signal that something needs to change' rather than just an absence.",
+            "The text does not describe boredom as harmful and to be avoided; it treats it as potentially useful instead.",
+            "The text later explicitly denies that boredom guarantees insight, only that it creates conditions where insight can occur.",
+            "The frequency of boredom in general is not discussed anywhere in this particular paragraph."
+          ],
+          "tag": "main-idea"
+        },
+        {
+          "n": 2,
+          "stem": "What is the writer's attitude to the claim that boredom is 'secretly a gift'?",
+          "options": [
+            "Fully supportive, since this claim is exactly what the writer believes the research shows.",
+            "Cautious, seeing the underlying research as supporting a considerably weaker claim than this.",
+            "Dismissive, believing firmly that boredom has no genuine value of any kind whatsoever.",
+            "Uncertain, largely because no serious research on this particular topic yet exists at all."
+          ],
+          "answer": 1,
+          "why": [
+            "The writer explicitly says the evidence supports 'something more modest' than this strong claim, not full agreement with it.",
+            "Correct: the writer notes some commentators 'rushed' to the 'gift' conclusion, but clarifies the evidence only shows boredom 'creates the conditions' for useful thinking, 'not a guarantee that it will' occur.",
+            "The writer does not dismiss boredom's value outright; the whole article argues it has some genuine function.",
+            "Research is extensively discussed throughout this paragraph, so claiming none exists is not accurate."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 3,
+          "stem": "Why do researchers mentioned in the third paragraph feel 'evident unease'?",
+          "options": [
+            "Because children today apparently spend noticeably less time playing outdoors than previous generations did.",
+            "Because mobile phones have already been conclusively proven to cause permanent damage to attention spans.",
+            "Because we may be losing the benefits of sustained boredom without yet understanding the consequences.",
+            "Because mind-wandering has reportedly been shown to reduce academic performance among most school-age children."
+          ],
+          "answer": 2,
+          "why": [
+            "Outdoor playtime is not mentioned anywhere in this part of the text as a factor.",
+            "The text does not claim proof of permanent damage; it expresses uncertainty about unknown effects, not a settled finding.",
+            "Correct: the unease concerns a generation that may 'never have experienced boredom for longer than a few seconds', and the fact that 'we cannot yet know what, if anything, is being lost' because comparison is nearly impossible now.",
+            "Academic performance is not discussed anywhere in this particular paragraph."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 4,
+          "stem": "What does the writer mean by saying a comparison group 'barely exists any longer'?",
+          "options": [
+            "Researchers have apparently stopped recruiting participants altogether for psychological studies on boredom.",
+            "Most people nowadays reportedly prefer experiencing boredom to using their phones when given the choice.",
+            "The overall number of psychologists currently studying boredom has fallen quite sharply in recent years.",
+            "Very few people today experience the kind of long, uninterrupted boredom researchers need to study."
+          ],
+          "answer": 3,
+          "why": [
+            "The sentence is not about recruitment practices in research at all, but about the real-world rarity of a certain experience.",
+            "There is no suggestion of a general preference for boredom over phones; the text implies rather the opposite.",
+            "The number of researchers is not what is being referred to here; the 'group' is the people being studied, not the people studying them.",
+            "Correct: the sentence follows directly from the point that phones interrupt boredom almost instantly, so people who experience extended, undisturbed boredom to compare against are increasingly rare."
+          ],
+          "tag": "reference"
+        },
+        {
+          "n": 5,
+          "stem": "What is the function of the comment about banning commuters from reading on trains?",
+          "options": [
+            "To use a deliberately extreme, slightly absurd example to mark the limits of the argument.",
+            "To put forward, quite seriously, a policy that the writer genuinely believes should be adopted.",
+            "To criticise train companies directly for failing to do more to reduce passenger boredom.",
+            "To argue more generally that reading should always be encouraged over the use of phones."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the deliberately extreme, slightly comic example marks out what the writer is not arguing, clarifying that the real claim is narrower than 'engineer more boredom into daily life'.",
+            "The writer explicitly calls this idea 'faintly absurd' and says 'nobody seriously proposes' it, so it is not a genuine recommendation.",
+            "Train companies and their policies are not the actual target of any criticism in this part of the text.",
+            "The comparison between reading and phones is not really the point being made; the example concerns not over-engineering boredom."
+          ],
+          "tag": "purpose-function"
+        },
+        {
+          "n": 6,
+          "stem": "Which statement best reflects the writer's final position?",
+          "options": [
+            "Boredom should ideally be treated as a problem that needs eliminating wherever that is possible.",
+            "Boredom is a resource with real, if modest, value that habits may be quietly removing.",
+            "Boredom has no measurable value at all, and the whole debate has been considerably overstated.",
+            "Boredom reliably guarantees creative breakthroughs, provided that it is simply given enough time to work."
+          ],
+          "answer": 1,
+          "why": [
+            "The final paragraph explicitly argues against treating boredom 'purely as a problem to be solved'.",
+            "Correct: the conclusion calls boredom 'an underused resource' with value that 'only becomes visible in hindsight', consistent with the article's careful, non-absolute tone throughout.",
+            "The writer treats boredom as having genuine, if modest, value, not as an overstated non-issue.",
+            "The text repeatedly avoids the stronger claim that boredom guarantees insight, favouring the more modest 'creates the conditions' framing instead."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    }
+  ]
+}

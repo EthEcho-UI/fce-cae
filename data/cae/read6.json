@@ -1,0 +1,222 @@
+{
+  "level": "cae",
+  "part": "read6",
+  "sets": [
+    {
+      "id": "cae-read6-01",
+      "type": "crossText",
+      "title": "Four Views on St Anselm's Square",
+      "topic": "urban design",
+      "source": "original",
+      "intro": "You are going to read four reviews of a city square redevelopment. For questions 1-4, choose from the reviewers A-D. The reviewers may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Reviewer A",
+          "text": [
+            "The redevelopment of St Anselm's Square has been presented to the public as a triumph of sensitive urban design, and in one respect it deserves that praise. The decision to retain the original Victorian drinking fountain, rather than replace it with the generic steel sculpture favoured by so many regeneration schemes, shows a rare willingness to let a place keep its own history rather than erase it in favour of something more easily photographed.",
+            "Where the scheme falters is in its treatment of the square's edges. The new cafe pavilions, however handsomely built, eat into roughly a third of the open space that previously made the square usable for markets and gatherings, and no one seems to have asked local traders how they felt about this before the contracts were signed. A square that can no longer hold its market is, whatever the architects intended, a smaller achievement than it appears in the brochure, and no amount of heritage polish makes up for the ordinary neighbourhood function it has lost."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Reviewer B",
+          "text": [
+            "Critics who complain that St Anselm's Square has lost space to commercial pavilions are missing the more basic problem: the square was failing long before this redevelopment began. Footfall had collapsed, several of the surrounding shopfronts stood empty for years, and the market itself had shrunk to a handful of stalls selling the same mobile phone cases. A public space that nobody uses is not being protected by being left alone; it is simply being allowed to die more slowly.",
+            "The pavilions, whatever their cost in open floor space, have already brought people back into the square at hours when it was previously deserted, and that alone justifies the trade-off. Taken as a whole, this is unmistakably a successful piece of regeneration, and it is easy, from the comfort of a heritage committee, to prefer an empty square with its history intact to a busy one that has had to compromise slightly to survive. I would rather have the busy one."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Reviewer C",
+          "text": [
+            "What strikes me most about the finished square is not the fountain, nor the pavilions, but the paving. The designers have used a pale local stone that reflects far more heat and light than the dark tarmac it replaced, and on a still August afternoon the square is now measurably, uncomfortably hotter than it was before works began. This is not a minor aesthetic quibble; it is a basic failure of climate-conscious design in a decade when every public project claims to take the issue seriously.",
+            "I do not doubt the architects' sincerity about preserving the fountain, and on that narrow point I agree with those who have praised the scheme. Sincerity about heritage is not the same as competence in materials, however, and the heat problem needs correcting quickly. None of this changes my overall judgement that the square, taken as a whole, is a genuine improvement on what came before; it simply falls short of the standard it could easily have met."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Reviewer D",
+          "text": [
+            "Having watched three previous attempts to regenerate this square fail outright over the past twenty years, I find the current wave of complaints faintly exhausting. Yes, the pavilions take up space; yes, a couple of the new benches already look distinctly weather-beaten after only one winter. But this is, by a wide margin, the most successful version of the square that has existed in my lifetime, and treating each imperfect decision as evidence of a wider failure risks talking the project into the same abandonment that doomed its predecessors.",
+            "I share the view, voiced elsewhere, that the loss of market space is a real and regrettable cost, not an imagined one. Where I part company with other commentators is in believing that this cost was worth paying, given how close the square came to becoming permanently derelict rather than merely imperfect."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which reviewer shares Reviewer A's view on the decision to keep the Victorian fountain?",
+          "answer": "C",
+          "explanation": "Reviewer C states 'I do not doubt the architects' sincerity about preserving the fountain, and on that narrow point I agree with those who have praised the scheme', directly echoing Reviewer A's praise for retaining the fountain rather than replacing it.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 2,
+          "prompt": "Which reviewer has a different opinion from the other three about whether the redevelopment as a whole has been a success?",
+          "answer": "A",
+          "explanation": "Reviewers B, C and D all conclude the square is overall a success or improvement ('unmistakably a successful piece of regeneration', 'a genuine improvement on what came before', 'the most successful version of the square'), whereas Reviewer A alone judges it 'a smaller achievement than it appears in the brochure' because of the lost market function.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 3,
+          "prompt": "Which reviewer raises a concern not mentioned by any of the others?",
+          "answer": "C",
+          "explanation": "Reviewer C is alone in discussing the paving material's effect on heat and light, a climate and comfort concern entirely absent from the other three reviews, which focus on space, footfall and comparative success.",
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "prompt": "Which reviewer shares Reviewer A's concern about the loss of space for the market?",
+          "answer": "D",
+          "explanation": "Reviewer D explicitly agrees that 'the loss of market space is a real and regrettable cost, not an imagined one', directly echoing Reviewer A's concern that the square 'can no longer hold its market'.",
+          "tag": "attitude-opinion"
+        }
+      ]
+    },
+    {
+      "id": "cae-read6-02",
+      "type": "crossText",
+      "title": "Four Economists on a Basic Income Trial",
+      "topic": "economics",
+      "source": "original",
+      "intro": "You are going to read four economists' comments on a universal basic income trial. For questions 1-4, choose from the economists A-D. The economists may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Economist A",
+          "text": [
+            "The pilot results from the universal basic income trial in Harlow have been greeted with more enthusiasm than the data entirely supports. Average household spending rose, and reported stress levels fell measurably among participants, but the trial covered only two thousand households for eighteen months, funded entirely by a one-off grant. None of this tells us whether a permanent, nationwide scheme costing tens of billions a year could be sustained without substantial tax rises elsewhere, and advocates have so far been strikingly vague about where that money would actually come from.",
+            "I do not dispute that recipients benefited; of course a guaranteed income made their lives easier in the short term. Until the funding question is answered, however, I am not prepared to call this trial anything more than an expensive, well-meaning pilot whose national lessons remain unproven."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Economist B",
+          "text": [
+            "Much of the scepticism directed at this trial rests on an exaggerated picture of what a national scheme would cost. Critics routinely quote the gross figure of a universal payment to every adult, ignoring the fact that most serious proposals would claw back a substantial share from higher earners through the tax system, reducing the net cost considerably. The Harlow trial, whatever its scale, demonstrated something genuinely encouraging: participants were markedly more likely to start a small business or retrain for a new career, decisions that a means-tested benefit, with its sharp cutoffs, actively discourages.",
+            "Overall, I regard the trial as a clear success, not merely a pleasant short-term experiment, and I believe the underlying economic logic would hold just as well at a larger scale."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Economist C",
+          "text": [
+            "Economists on both sides of this debate have focused overwhelmingly on the headline cost of a universal income, largely ignoring a less glamorous but significant saving: the administrative cost of means-tested benefits themselves. The current system requires claimants to prove, repeatedly and intrusively, that they remain poor enough to qualify, a process that consumes a substantial share of the welfare budget in casework, assessment and appeals. A universal payment, requiring no such proof, would eliminate most of that overhead at a stroke.",
+            "Taken together with its demonstrated social benefits, I count the trial a success, though for reasons others have underplayed: whether this administrative saving is large enough to offset the scheme's net cost is a separate question I will not attempt to settle here."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Economist D",
+          "text": [
+            "I remain genuinely uncertain whether this pilot tells us anything reliable about national affordability; a scheme funded for eighteen months by grant money is simply not the same experiment as a permanent, tax-funded entitlement, and I would caution against treating the two as interchangeable evidence. That reservation aside, the human results reported here, lower stress, more retraining, more small business formation, are hard to dismiss.",
+            "On balance, I judge the trial a worthwhile success whose main lessons lie in behaviour rather than in budgeting, and on the business-formation effect in particular, I think colleague B's reading of the evidence is exactly right."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which economist expresses a view similar to Economist A's about whether the trial proves a national scheme would be affordable?",
+          "answer": "D",
+          "explanation": "Economist D states a scheme 'funded for eighteen months by grant money is simply not the same experiment as a permanent, tax-funded entitlement', echoing Economist A's doubt that the pilot answers the affordability question for a national scheme.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 2,
+          "prompt": "Which economist has a different opinion from the other three about whether the trial overall counts as a success?",
+          "answer": "A",
+          "explanation": "Economists B, C and D all explicitly call the trial a 'success', while Economist A refuses to call it 'anything more than an expensive, well-meaning pilot whose national lessons remain unproven'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 3,
+          "prompt": "Which economist raises a concern not mentioned by any of the others?",
+          "answer": "C",
+          "explanation": "Economist C is alone in discussing the administrative cost savings of scrapping means-testing, a point entirely absent from the other three analyses.",
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "prompt": "Which economist shares Economist B's view about the scheme's effect on entrepreneurship?",
+          "answer": "D",
+          "explanation": "Economist D cites 'more small business formation' among the trial's results and explicitly says 'colleague B's reading of the evidence is exactly right' on this point, directly agreeing with B's claim that participants were 'more likely to start a small business'.",
+          "tag": "attitude-opinion"
+        }
+      ]
+    },
+    {
+      "id": "cae-read6-03",
+      "type": "crossText",
+      "title": "Four Scientists on Lab-Grown Meat",
+      "topic": "food science",
+      "source": "original",
+      "intro": "You are going to read four scientists' comments on lab-grown meat. For questions 1-4, choose from the scientists A-D. The scientists may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Scientist A",
+          "text": [
+            "Lab-grown meat has moved, in the space of a decade, from science-fiction curiosity to a product now served, under controlled conditions, in a handful of restaurants. The environmental case for it is, on the evidence so far, genuinely strong: early life-cycle analyses suggest a mature production process could use a fraction of the land and water that conventional livestock farming requires, without the associated methane emissions.",
+            "What worries me is less the science than the psychology. Surveys consistently show that a substantial proportion of consumers find the idea of eating meat grown in a steel vessel instinctively unappealing, regardless of how it is explained to them, and I doubt favourable life-cycle data alone will overcome that reluctance."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Scientist B",
+          "text": [
+            "I am less persuaded than some colleagues that consumer squeamishness will prove the decisive obstacle here. History offers a reasonably reliable guide: pasteurised milk, refrigerated meat and even margarine faced very similar instinctive resistance when first introduced, and all three became unremarkable staples within a generation once they became cheap and widely available. The real barrier at present is cost, not psychology.",
+            "Production remains, for now, dramatically more expensive than conventional farming, and until that gap narrows substantially, no amount of taste-testing or clever marketing will shift the product beyond a small and curious niche. Solve the price, and I expect the squeamishness to resolve itself largely on its own."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Scientist C",
+          "text": [
+            "A dimension of this debate that receives far less attention than either cost or consumer taste is regulatory approval, which currently varies enormously between countries. Singapore and the United States have approved certain lab-grown products for sale, while several European countries have moved far more cautiously, citing unresolved questions about long-term safety testing protocols that are, frankly, still being written as the industry develops.",
+            "This patchwork of approval matters enormously for an industry trying to reach the economies of scale that colleague B rightly identifies as central to lowering cost. I would add that I share the view that consumer unease is real, though in my experience regulatory delay is currently the more immediate bottleneck."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Scientist D",
+          "text": [
+            "I agree with those who argue that cost, rather than squeamishness in general, is the dominant barrier at the industry's current stage; every serious cost projection I have reviewed shows the gap closing only slowly, not dramatically, over the coming decade. Where I would add a note of caution is that a meaningful minority of consumers object to lab-grown meat on principle, for reasons connected to ideas about naturalness that are unlikely to be resolved by price alone, a point I think Scientist A was right to raise.",
+            "Taking both factors together, I doubt this technology will move beyond a specialist niche within the next ten years, whatever enthusiastic projections from the industry itself might suggest."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which scientist shares Scientist B's view about what is currently the main barrier to lab-grown meat becoming widespread?",
+          "answer": "D",
+          "explanation": "Scientist D agrees 'cost, rather than squeamishness in general, is the dominant barrier at the industry's current stage', directly matching Scientist B's claim that 'the real barrier at present is cost, not psychology'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 2,
+          "prompt": "Which scientist raises a concern not mentioned by any of the others?",
+          "answer": "C",
+          "explanation": "Scientist C is alone in raising the issue of inconsistent regulatory approval between countries, a concern not discussed by any of the other three.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Which scientist shares Scientist A's view that consumer unease will not simply be resolved by lower prices?",
+          "answer": "D",
+          "explanation": "Scientist D states that a minority's objection to lab-grown meat 'for reasons connected to ideas about naturalness... are unlikely to be resolved by price alone', explicitly crediting 'Scientist A' with being right to raise this.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "prompt": "Which scientist has a different opinion from the other three about whether consumer unease is likely to fade simply as prices fall?",
+          "answer": "B",
+          "explanation": "Scientist B alone predicts the squeamishness will 'resolve itself largely on its own' once price falls, whereas A, C and D all treat consumer unease as a separate, more persistent issue not simply solved by cost.",
+          "tag": "attitude-opinion"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,541 @@
+{
+  "level": "cae",
+  "id": "cae-eval",
+  "title": "Level Check",
+  "minutes": 35,
+  "sets": [
+    {
+      "id": "cae-eval-01",
+      "type": "mcCloze",
+      "title": "The Rise of Urban Beekeeping",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "Urban beekeeping has {{1}} off in cities across Europe over the last decade, with hives now a common sight on office roofs and balconies. Enthusiasts argue that keeping bees in built-up areas can {{2}} a real contribution to local biodiversity, since gardens and parks often offer a greater variety of flowering plants than intensively farmed countryside.",
+        "Critics, {{3}}, warn that a sudden rise in managed hives can put wild, native pollinator species {{4}} risk by increasing competition for the same limited food sources. Beekeeping associations have therefore begun to {{5}} out that newcomers should check local hive density before installing a colony of their own.",
+        "Despite these concerns, demand for beginner courses continues to grow, and several cities have reported waiting lists that {{6}} up within days of being announced. Supporters maintain that, {{7}} managed carefully, urban beekeeping and wild pollinator conservation can {{8}} hand in hand rather than compete with one another."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "taken",
+            "gone",
+            "broken",
+            "set"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'taken off' is the phrasal verb meaning 'become suddenly popular or successful'.",
+            "'Gone off' usually means to spoil or to explode, not to become popular, so it does not fit here.",
+            "'Broken off' means to stop abruptly or detach, which does not match a trend becoming popular.",
+            "'Set off' means to begin a journey or trigger something, not to become widely popular."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 2,
+          "options": [
+            "do",
+            "make",
+            "have",
+            "take"
+          ],
+          "answer": 1,
+          "why": [
+            "'Do a contribution' is not a correct collocation in English.",
+            "Correct: 'make a contribution' is the only verb that collocates naturally with 'contribution'.",
+            "'Have a contribution' is not idiomatic; English uses 'make' or 'give' instead.",
+            "'Take a contribution' reverses the logic of giving something, so it does not fit here."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 3,
+          "options": [
+            "however",
+            "therefore",
+            "moreover",
+            "meanwhile"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'however' signals the contrast between the optimistic view above and the critics' concern that follows.",
+            "'Therefore' marks a result, but the critics' warning is not a consequence of the previous sentence.",
+            "'Moreover' adds a similar point, but this sentence introduces an opposing view, not an additional one.",
+            "'Meanwhile' marks simultaneous events in time, not a contrast between two opinions."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 4,
+          "options": [
+            "in",
+            "on",
+            "at",
+            "under"
+          ],
+          "answer": 2,
+          "why": [
+            "'Put species in risk' is not a correct English phrase.",
+            "'Put species on risk' is not idiomatic; the fixed phrase uses 'at'.",
+            "Correct: 'put something at risk' is the fixed phrase meaning to endanger it.",
+            "'Under risk' is not the standard phrase; English uses 'at risk' instead."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 5,
+          "options": [
+            "point",
+            "set",
+            "bring",
+            "lay"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'point out' is the phrasal verb meaning to state a fact clearly.",
+            "'Set out' means to explain something in an organised way, but does not naturally take a 'that'-clause like this.",
+            "'Bring out' means to reveal a quality, not to state a fact, so it does not fit here.",
+            "'Lay out' means to display or explain in detail, but is not used this way with a direct statement."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "options": [
+            "fill",
+            "grow",
+            "rise",
+            "build"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'fill up' is the phrasal verb meaning to become completely full, fitting a waiting list filling with names.",
+            "'Grow up' refers to maturing, usually of a person, not a list filling with entries.",
+            "'Rise up' means to rebel or stand up, which does not fit a waiting list at all.",
+            "'Build up' suggests a gradual accumulation over a longer period, not filling 'within days' as stated here."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 7,
+          "options": [
+            "if",
+            "unless",
+            "despite",
+            "besides"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'if managed carefully' introduces the condition under which the two activities can coexist.",
+            "'Unless' would reverse the logic, suggesting they can coexist only in the absence of careful management.",
+            "'Despite' needs a noun phrase, not a past participle clause like 'managed carefully', so it does not fit grammatically.",
+            "'Besides' means 'in addition to', which does not express the conditional link needed here."
+          ],
+          "tag": "conditional"
+        },
+        {
+          "n": 8,
+          "options": [
+            "go",
+            "come",
+            "move",
+            "work"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'go hand in hand' is the fixed idiom meaning to happen together successfully.",
+            "'Come hand in hand' is not the established idiom in English.",
+            "'Move hand in hand' is not idiomatic English.",
+            "'Work hand in hand' changes the fixed idiom, which only uses 'go'."
+          ],
+          "tag": "idiom"
+        }
+      ]
+    },
+    {
+      "id": "cae-eval-02",
+      "type": "openCloze",
+      "title": "The Slow Invention of the Bicycle",
+      "topic": "history",
+      "source": "original",
+      "text": [
+        "The bicycle, {{1}} seems such a simple machine today, took several decades of often comically unsuccessful design before it {{2}} the form we would now recognise. Early models had no pedals at all and were propelled {{3}} pushing one's feet directly against the ground, {{4}} limiting how far a rider could comfortably travel in a single outing. Pedals were eventually added directly to a front wheel {{5}} large that mounting one safely required considerable nerve, and this heavier, rigid-framed machine duly earned the nickname 'boneshaker' for the punishing ride it gave over cobbled streets.",
+        "It was not {{6}} the invention of the chain-driven rear wheel, late in the nineteenth century, that the bicycle became genuinely practical {{7}} ordinary riders rather than daredevils. Within a generation, cycling {{8}} transformed from a dangerous novelty into one of the most popular and affordable forms of transport in the Western world."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "which"
+          ],
+          "explanation": "A relative pronoun referring back to 'the bicycle' as the subject of a non-defining clause is needed; 'which' is correct for a thing.",
+          "tag": "relative-clause",
+          "commonWrong": {
+            "what": "'what' cannot follow a noun like 'bicycle' to introduce a relative clause about it."
+          }
+        },
+        {
+          "n": 2,
+          "answers": [
+            "took",
+            "achieved",
+            "reached"
+          ],
+          "explanation": "A past-tense verb is needed to match 'took several decades' earlier in the sentence; 'took the form' is the natural collocation.",
+          "tag": "tense",
+          "commonWrong": {}
+        },
+        {
+          "n": 3,
+          "answers": [
+            "by"
+          ],
+          "explanation": "'By' plus a gerund expresses the means by which something was done: 'propelled by pushing'.",
+          "tag": "preposition",
+          "commonWrong": {
+            "with": "'with pushing' is not a correct pattern; English uses 'by' before a gerund describing method."
+          }
+        },
+        {
+          "n": 4,
+          "answers": [
+            "severely",
+            "considerably",
+            "significantly",
+            "substantially"
+          ],
+          "explanation": "An adverb of degree modifying 'limiting' is needed, to show how much a pedal-less, foot-propelled design restricted how far a rider could travel in one outing.",
+          "tag": "word-formation-adverb",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "answers": [
+            "so"
+          ],
+          "explanation": "'So large that' is the fixed pattern expressing result or degree, matching 'required considerable nerve' as the consequence.",
+          "tag": "comparison",
+          "commonWrong": {
+            "too": "'too large that' is not grammatical; 'too' needs 'to', not 'that', to introduce a result clause."
+          }
+        },
+        {
+          "n": 6,
+          "answers": [
+            "until"
+          ],
+          "explanation": "'Not until' is the fixed structure meaning something did not happen before a stated point in time.",
+          "tag": "linking",
+          "commonWrong": {
+            "before": "'not before the invention' is not the idiomatic fixed phrase used for this meaning; English prefers 'not until'."
+          }
+        },
+        {
+          "n": 7,
+          "answers": [
+            "for"
+          ],
+          "explanation": "'Practical for' expresses who or what something is suitable for; 'practical for ordinary riders' is the natural collocation.",
+          "tag": "preposition",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "answers": [
+            "had",
+            "was"
+          ],
+          "explanation": "Either the past perfect active 'had transformed' (showing a completed change within the stated generation) or the simple past passive 'was transformed' fits naturally in this past narrative; the present perfect does not.",
+          "tag": "tense",
+          "commonWrong": {
+            "has": "'has transformed' uses the present perfect, which does not fit a narrative describing events firmly in the past."
+          }
+        }
+      ]
+    },
+    {
+      "id": "cae-eval-03",
+      "type": "wordFormation",
+      "title": "Plastic Waste and Public Pressure",
+      "topic": "environment",
+      "source": "original",
+      "text": [
+        "The {{1}} of plastic waste in the ocean has become one of the most visible symbols of environmental damage in the last twenty years. Campaigners argue that without {{2}} action from governments, the problem will only worsen as global plastic production continues to rise year on year.",
+        "Some manufacturers have responded with genuine {{3}}, redesigning packaging to use less material or switching to compostable alternatives, while others have been accused of mere {{4}} gestures intended chiefly to improve their public image rather than to reduce actual waste.",
+        "Public {{5}} of the issue has risen sharply since striking photographs of affected marine life began circulating online, and surveys suggest that consumers are now significantly more {{6}} to avoid single-use plastic where a reasonable alternative exists.",
+        "Nevertheless, experts caution that individual behaviour change alone is {{7}} to solve a problem of this scale, and that meaningful, {{8}} reform of how plastic is produced and disposed of will ultimately be required."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "ACCUMULATE",
+          "answers": [
+            "accumulation"
+          ],
+          "explanation": "A noun is needed as the subject of the sentence; 'accumulation' means 'the gradual gathering of something over time'.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 2,
+          "stem": "DECIDE",
+          "answers": [
+            "decisive"
+          ],
+          "explanation": "An adjective is needed to describe 'action'; 'decisive action' means action that is firm and effective.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {
+            "decided": "'decided action' is not the natural collocation; English uses 'decisive' to describe firm, effective action."
+          }
+        },
+        {
+          "n": 3,
+          "stem": "INVEST",
+          "answers": [
+            "investment"
+          ],
+          "explanation": "A noun following 'genuine' is needed; 'investment' fits the context of manufacturers committing real resources to redesigning packaging.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 4,
+          "stem": "SYMBOL",
+          "answers": [
+            "symbolic"
+          ],
+          "explanation": "An adjective describing 'gestures' is needed; 'symbolic gestures' means actions meant to represent good intentions rather than achieve real change.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        },
+        {
+          "n": 5,
+          "stem": "AWARE",
+          "answers": [
+            "awareness"
+          ],
+          "explanation": "A noun following 'public' is needed as the subject; 'public awareness' is the standard collocation for how informed people generally are about an issue.",
+          "tag": "word-formation-noun",
+          "commonWrong": {}
+        },
+        {
+          "n": 6,
+          "stem": "WILL",
+          "answers": [
+            "willing"
+          ],
+          "explanation": "An adjective following 'more' is needed to complete 'willing to avoid'; 'willing' describes being ready to do something.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {
+            "willed": "'willed' is not used as an adjective meaning ready or disposed to do something; that meaning requires 'willing'."
+          }
+        },
+        {
+          "n": 7,
+          "stem": "LIKELY",
+          "answers": [
+            "unlikely"
+          ],
+          "explanation": "A negative adjective is needed, since the sentence argues individual behaviour change on its own will probably not be enough to solve the problem.",
+          "tag": "word-formation-negative",
+          "commonWrong": {}
+        },
+        {
+          "n": 8,
+          "stem": "STRUCTURE",
+          "answers": [
+            "structural"
+          ],
+          "explanation": "An adjective describing 'reform' is needed; 'structural reform' means change to the fundamental systems involved, not superficial adjustment.",
+          "tag": "word-formation-adjective",
+          "commonWrong": {}
+        }
+      ]
+    },
+    {
+      "id": "cae-eval-04",
+      "type": "transformation",
+      "title": "Key Word Transformations",
+      "topic": "grammar",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "I regret not asking for advice before making such a big decision.",
+          "keyword": "WISH",
+          "before": "I",
+          "after": "advice before making such a big decision.",
+          "answers": [
+            "wish i had asked for"
+          ],
+          "explanation": "'Wish' followed by the past perfect ('had asked') expresses regret about a past action that did not happen.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "It is possible that the meeting will be postponed until next week.",
+          "keyword": "MIGHT",
+          "before": "The meeting",
+          "after": "until next week.",
+          "answers": [
+            "might be postponed"
+          ],
+          "explanation": "'Might be postponed' is the passive modal form expressing possibility, matching the meaning of 'it is possible that... will be postponed'.",
+          "tag": "modal"
+        },
+        {
+          "n": 3,
+          "first": "Despite her lack of experience, she was given the leading role in the play.",
+          "keyword": "ALTHOUGH",
+          "before": "",
+          "after": "experience, she was given the leading role in the play.",
+          "answers": [
+            "although she lacked",
+            "although she had little"
+          ],
+          "explanation": "'Although' must be followed by a full clause with a subject and verb, unlike 'despite', which takes a noun phrase; 'she lacked experience' supplies that clause.",
+          "tag": "linking"
+        },
+        {
+          "n": 4,
+          "first": "The committee will not approve the proposal unless it is amended first.",
+          "keyword": "ONLY",
+          "before": "",
+          "after": "will the committee approve the proposal.",
+          "answers": [
+            "only if it is amended",
+            "only when it is amended"
+          ],
+          "explanation": "Fronting 'only if/when' triggers subject-auxiliary inversion ('will the committee approve'), matching the meaning of 'unless' in the original sentence.",
+          "tag": "conditional"
+        }
+      ]
+    },
+    {
+      "id": "cae-eval-05",
+      "type": "multipleChoice",
+      "title": "Rethinking Silence in Museums",
+      "topic": "culture",
+      "source": "original",
+      "intro": "Read the text and answer questions 1-6.",
+      "text": [
+        "A quiet but significant shift has been taking place in how museums think about silence. For decades, the unspoken rule in most galleries was that visitors should move through in a hush, speaking, if at all, in the lowered tones usually reserved for libraries or places of worship. Increasingly, though, curators are questioning whether that hush actually serves anyone particularly well, or whether it has simply become a habit nobody thought to examine.",
+        "The case against enforced silence is not merely about comfort. Several studies of visitor behaviour suggest that people absorb and remember considerably more from an exhibition when they are permitted to discuss what they are seeing with a companion as they go, testing half-formed impressions out loud rather than keeping them to themselves until the cafe afterwards. A hushed gallery, on this view, is not a neutral backdrop for contemplation but an active obstacle to the kind of thinking museums are supposedly there to encourage.",
+        "None of this has gone unchallenged. Defenders of the traditional hush argue that a crowded gallery full of murmured conversation quickly becomes a genuinely noisy one, drowning out the quieter, more reflective experience that some visitors specifically come for and would be unable to find elsewhere. The two aims, sociable discussion and undisturbed contemplation, are not easily reconciled within the same physical space at the same time.",
+        "A handful of institutions have tried a practical compromise: designated quiet rooms alongside galleries where conversation is actively encouraged, allowing visitors to choose the experience that suits them on a given day rather than imposing one uniform mood on everybody regardless of preference. Early feedback suggests visitors appreciate having the choice made explicit, even when they rarely bother to use the quiet room themselves."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What does the first paragraph suggest about the traditional museum hush?",
+          "options": [
+            "It may have persisted more through unexamined habit than clear justification.",
+            "It was introduced specifically to protect fragile older exhibits from vibration.",
+            "It has always been strongly enforced by museum staff at every institution.",
+            "It was originally borrowed directly from religious building customs."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the text questions whether the hush 'has simply become a habit nobody thought to examine', suggesting it lacks clear ongoing justification.",
+            "Protecting exhibits from vibration is not mentioned anywhere in the text as a reason for the hush.",
+            "The text describes an 'unspoken rule' rather than strict active enforcement by staff at every institution.",
+            "The text only compares the tone to that used in religious places as an analogy, not as the historical origin of the museum custom."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 2,
+          "stem": "According to the second paragraph, why might discussing an exhibition out loud help visitors?",
+          "options": [
+            "It allows visitors to correct factual errors made by museum guides.",
+            "It encourages visitors to spend significantly longer in each gallery room.",
+            "It helps visitors test their impressions rather than keep them unexamined.",
+            "It reduces the overall noise levels within a crowded exhibition space."
+          ],
+          "answer": 2,
+          "why": [
+            "Correcting guides is not mentioned in the text at all as a benefit of discussion.",
+            "Time spent in each room is not discussed as an outcome in this paragraph.",
+            "Correct: the text describes visitors 'testing half-formed impressions out loud rather than keeping them to themselves', which the studies link to greater understanding and memory.",
+            "The paragraph is about enabling conversation, which would logically increase, not reduce, noise levels."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What is the main concern raised by defenders of the traditional hush?",
+          "options": [
+            "That conversation among visitors could damage sensitive artworks over time.",
+            "That museum staff would struggle to manage larger numbers of visitors.",
+            "That visitors would stop reading the information cards beside each exhibit.",
+            "That conversation would remove the quiet option some visitors specifically want."
+          ],
+          "answer": 3,
+          "why": [
+            "Damage to artworks from conversation is not a concern raised anywhere in the text.",
+            "Staff management of visitor numbers is not discussed as a concern in this paragraph.",
+            "Reading information cards is not mentioned as an issue connected to this debate.",
+            "Correct: defenders worry that conversation would 'drown out the quieter, more reflective experience that some visitors specifically come for', removing that option entirely."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "stem": "What compromise does the final paragraph describe?",
+          "options": [
+            "Museums closing on certain days specifically to allow for quiet restoration work.",
+            "Separate spaces being created so visitors can choose their preferred experience.",
+            "Audio guides being introduced to replace the need for visitor conversation altogether.",
+            "Entry tickets being priced differently depending on which type of visit is chosen."
+          ],
+          "answer": 1,
+          "why": [
+            "Closing for restoration work is not mentioned anywhere in this paragraph.",
+            "Correct: the text describes 'designated quiet rooms alongside galleries where conversation is actively encouraged', letting visitors choose their preferred experience.",
+            "Audio guides are not mentioned in the text as part of this particular compromise.",
+            "Differentiated ticket pricing is not discussed anywhere in the passage."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "stem": "What does 'early feedback' in the final paragraph suggest about the compromise?",
+          "options": [
+            "Visitors value having the option, even if they do not always use it.",
+            "Visitors overwhelmingly prefer the quiet room to the conversational galleries.",
+            "Visitors find the existence of two separate spaces confusing to navigate.",
+            "Visitors have not yet formed any clear opinion on the new arrangement."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the text states visitors 'appreciate having the choice made explicit, even when they rarely bother to use the quiet room themselves', showing the value lies in having the option.",
+            "There is no claim of overwhelming preference for the quiet room; in fact, it is 'rarely' used according to the text.",
+            "Confusion about navigating the spaces is not mentioned anywhere in the passage.",
+            "The text reports specific feedback, so the claim that no clear opinion has formed is contradicted."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "stem": "Which best describes the overall tone of the passage?",
+          "options": [
+            "Strongly in favour of abolishing all quiet spaces in museums immediately.",
+            "Mainly focused on criticising museum staff for poor visitor management.",
+            "Balanced, presenting both sides of a genuine disagreement about atmosphere.",
+            "Dismissive of any concerns raised by visitors who prefer a quiet experience."
+          ],
+          "answer": 2,
+          "why": [
+            "The passage does not argue for abolishing quiet spaces; it describes a compromise that preserves them alongside conversational ones.",
+            "Staff management is not criticised anywhere in the passage; the focus is on visitor experience and institutional policy.",
+            "Correct: the passage presents the case for and against enforced silence even-handedly, before describing a compromise that accommodates both views.",
+            "The passage takes visitor preferences for quiet seriously, presenting the defenders' concern as a genuine and reasonable one."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    }
+  ]
+}

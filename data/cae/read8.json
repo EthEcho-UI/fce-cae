@@ -1,0 +1,372 @@
+{
+  "level": "cae",
+  "part": "read8",
+  "sets": [
+    {
+      "id": "cae-read8-01",
+      "type": "multipleMatching",
+      "title": "Five People on Life Without a Car",
+      "topic": "lifestyle",
+      "source": "original",
+      "intro": "You are going to read about five people's experiences of giving up car ownership. For questions 1-10, choose from the people A-E. The people may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Person A",
+          "text": [
+            "I gave up my car eighteen months ago, mainly because the maths had simply stopped working. Between insurance, parking permits, servicing and a car that sat unused for five days out of seven, I was effectively paying a significant monthly sum for the privilege of owning something that mostly depreciated in a car park. I now use a bicycle for most short trips and a car-sharing scheme for the handful of occasions a car is genuinely necessary, and I have been startled by how rarely those occasions actually arise.",
+            "What I had not anticipated was how much mental effort simply evaporated once I stopped owning a car. No more worrying about the next service, no more scraping ice off a windscreen on a dark morning, no more searching for parking after a long day. I do not think I was consciously stressed by any of this before, but its sudden absence was noticeable all the same."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Person B",
+          "text": [
+            "My decision to go car-free was less about money than about the five minutes of mild rage I experienced most mornings sitting in traffic on the same stretch of ring road. I now cycle to work, which takes almost exactly the same door-to-door time as driving used to, but arrives without the frustration attached. I will admit the calculation only works because my commute is relatively short and largely flat; I would think twice about recommending it to anyone facing a longer or hillier route.",
+            "The one aspect I underestimated was how much I would need to plan ahead for anything bulky. A weekly supermarket trip now means either a delivery slot booked in advance or a slightly undignified cycle home with shopping bags balanced awkwardly on the handlebars, and more than once I have simply had to leave something behind."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Person C",
+          "text": [
+            "I have never owned a car and, at thirty-four, increasingly suspect I never will, though this has rather more to do with where I happen to live than any particular principle on my part. The city I live in has frequent, reliable trams and a dense enough network of shops and services that a car would mostly sit idle, an expensive solution to a problem I do not actually have.",
+            "Friends who have moved from smaller towns to join me here are often surprised by how quickly they adapt to being car-free themselves, which suggests to me that the habit of driving everywhere is shaped far more by a place's infrastructure than by any fixed trait of the person doing the driving."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Person D",
+          "text": [
+            "We sold our second car three years ago when our children started cycling to school with friends rather than needing a lift, and honestly I wish we had done it years earlier rather than treating a second vehicle as an unquestioned necessity. The savings have been real and immediate, easily covering a family holiday every year that we would previously have found hard to justify.",
+            "What surprised me was the resistance I felt internally before making the change, a nagging worry that we would be caught out without a second car in some emergency that, in three years, has simply never materialised. I suspect most people overestimate how often that emergency scenario would actually occur."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Person E",
+          "text": [
+            "I tried going without a car for exactly four months before admitting defeat and buying a small, second-hand one again. I live in a rural area where the nearest supermarket is an hour's walk away and the bus service, generously described, runs twice a day on weekdays only. The car-free lifestyle that works beautifully for friends in the city simply has no equivalent version out here.",
+            "I do not regret the experiment; it taught me to drive considerably less than I used to, combining errands into single trips rather than making several short journeys. But the idea that everyone could simply give up their car with enough willpower strikes me, from where I am sitting, as a city-centred assumption that does not travel well."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which person decided to give up a car mainly for financial reasons?",
+          "answer": "A",
+          "explanation": "Person A states the decision was 'mainly because the maths had simply stopped working', citing insurance, parking and servicing costs for a car that was rarely used.",
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "prompt": "Which person found that a daily frustration disappeared once they stopped driving?",
+          "answer": "B",
+          "explanation": "Person B describes 'the five minutes of mild rage I experienced most mornings sitting in traffic', which cycling to work removed.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Which person suggests that where someone lives matters more than their personal character in determining whether they drive?",
+          "answer": "C",
+          "explanation": "Person C concludes that 'the habit of driving everywhere is shaped far more by a place's infrastructure than by any fixed trait of the person doing the driving', based on friends adapting quickly after moving to the city.",
+          "tag": "inference"
+        },
+        {
+          "n": 4,
+          "prompt": "Which person mentions an unexpected mental benefit of not owning a car?",
+          "answer": "A",
+          "explanation": "Person A describes how 'much mental effort simply evaporated', listing worries about servicing, ice on windscreens and parking that disappeared once they stopped owning a car.",
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "prompt": "Which person eventually returned to car ownership after trying to live without one?",
+          "answer": "E",
+          "explanation": "Person E 'tried going without a car for exactly four months before admitting defeat and buying a small, second-hand one again', due to the rural location.",
+          "tag": "detail"
+        },
+        {
+          "n": 6,
+          "prompt": "Which person admits that their situation would not suit everyone who might want to copy it?",
+          "answer": "B",
+          "explanation": "Person B admits 'the calculation only works because my commute is relatively short and largely flat' and would 'think twice about recommending it' for a longer or hillier route.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 7,
+          "prompt": "Which person had expected a particular change to be difficult but found it was not?",
+          "answer": "D",
+          "explanation": "Person D describes feeling 'resistance... a nagging worry that we would be caught out' before giving up the second car, a worry that 'has simply never materialised' in three years.",
+          "tag": "inference"
+        },
+        {
+          "n": 8,
+          "prompt": "Which person has changed their habits without entirely abandoning car use?",
+          "answer": "E",
+          "explanation": "Person E now drives 'considerably less', having learned to combine errands into single trips, despite ultimately buying a car again.",
+          "tag": "detail"
+        },
+        {
+          "n": 9,
+          "prompt": "Which person mentions a practical difficulty with transporting shopping?",
+          "answer": "B",
+          "explanation": "Person B describes needing to book a delivery slot in advance or cycle home 'with shopping bags balanced awkwardly on the handlebars', sometimes leaving items behind.",
+          "tag": "detail"
+        },
+        {
+          "n": 10,
+          "prompt": "Which person questions whether a widely recommended lifestyle change applies equally to everyone?",
+          "answer": "E",
+          "explanation": "Person E calls the assumption that 'everyone could simply give up their car with enough willpower' a 'city-centred assumption that does not travel well', directly questioning its universal applicability.",
+          "tag": "attitude-opinion"
+        }
+      ]
+    },
+    {
+      "id": "cae-read8-02",
+      "type": "multipleMatching",
+      "title": "Five Adults Learning an Instrument",
+      "topic": "hobbies",
+      "source": "original",
+      "intro": "You are going to read about five adults' experiences of learning a musical instrument. For questions 1-10, choose from the people A-E. The people may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Person A",
+          "text": [
+            "I picked up the violin at forty-one, mostly to prove to myself that I could still learn something genuinely difficult from scratch. The first six months were, without exaggeration, the most humbling experience of my adult life; the instrument produced sounds that caused the family cat to leave the room, and I distinctly remember wondering whether I had simply made a very expensive mistake.",
+            "What kept me going was lowering my expectations drastically. Once I stopped comparing myself to professional violinists on recordings and started comparing myself only to my own playing from the previous month, the frustration eased considerably, and I began to notice small, genuine improvements I would otherwise have dismissed entirely."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Person B",
+          "text": [
+            "My partner bought me a secondhand piano for my fiftieth birthday, and I will confess my first reaction was mild irritation rather than gratitude, since I had never expressed the slightest interest in learning it. Three years later, I practise most evenings and genuinely look forward to it, which goes to show how wrong an initial reaction can turn out to be.",
+            "The biggest obstacle for me was not the instrument itself but simply finding twenty uninterrupted minutes in an already full working day. I eventually solved this by practising first thing, before checking any messages or emails, rather than waiting for a quiet moment later that never actually arrived."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Person C",
+          "text": [
+            "I learned guitar as a teenager, abandoned it entirely for two decades, and picked it up again last year almost on a whim. The physical memory in my fingers surprised me considerably; chord shapes I thought I had forgotten returned within a few weeks, even though I could not have consciously recalled a single one of them beforehand.",
+            "What has changed since my teenage attempts is my patience. I no longer expect to sound impressive within a fortnight, which has, somewhat paradoxically, made the whole experience considerably more enjoyable than it ever was the first time around, when I gave up out of frustration almost as soon as I had begun."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Person D",
+          "text": [
+            "I took up the cello at thirty-five specifically because a doctor recommended a hobby that would force me to switch off from work entirely, and nothing achieves that quite as effectively as an instrument demanding total concentration. The expense of a decent cello was, I admit, rather more significant than I had initially budgeted for, and very nearly put me off before I had even started.",
+            "Group lessons turned out to be the element I had least expected to value. I had assumed I would prefer learning alone, but the mild social pressure of a weekly group class, and the comparison with fellow beginners rather than professionals, has done more for my consistency than any amount of solitary practice ever managed."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Person E",
+          "text": [
+            "I started learning the saxophone in my sixties, partly inspired by a documentary and partly out of sheer boredom after retiring. Neighbours were remarkably tolerant during the early months, which I remain genuinely grateful for, since I have since heard recordings of my first attempts and can confirm they were every bit as unpleasant as I feared at the time.",
+            "The thing nobody warned me about was how physically demanding it would be; building the breath control needed to sustain a note left me surprisingly out of breath after only a few minutes, a fact that initially embarrassed me far more than any wrong note ever did."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Who changed their approach by comparing themselves only to their own earlier progress?",
+          "answer": "A",
+          "explanation": "Person A describes how 'comparing myself only to my own playing from the previous month' eased the frustration of learning, rather than comparing to professional recordings.",
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "prompt": "Who was initially unenthusiastic about an instrument given to them as a gift?",
+          "answer": "B",
+          "explanation": "Person B's 'first reaction was mild irritation rather than gratitude' on receiving the piano, since they had never asked to learn it.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 3,
+          "prompt": "Who found that physical skills from years earlier returned more easily than expected?",
+          "answer": "C",
+          "explanation": "Person C was surprised that 'chord shapes I thought I had forgotten returned within a few weeks', despite not consciously remembering them beforehand.",
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "prompt": "Who took up an instrument partly on medical advice?",
+          "answer": "D",
+          "explanation": "Person D 'took up the cello... specifically because a doctor recommended a hobby that would force me to switch off from work entirely'.",
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "prompt": "Who discovered that learning with others suited them better than they had assumed?",
+          "answer": "D",
+          "explanation": "Person D 'had assumed I would prefer learning alone' but found 'the mild social pressure of a weekly group class... has done more for my consistency' than solo practice.",
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "prompt": "Who was unprepared for the physical demands of playing an instrument?",
+          "answer": "E",
+          "explanation": "Person E admits 'nobody warned me about how physically demanding it would be', describing being left 'out of breath' while learning breath control for the saxophone.",
+          "tag": "detail"
+        },
+        {
+          "n": 7,
+          "prompt": "Who found a practical solution to the problem of finding time to practise?",
+          "answer": "B",
+          "explanation": "Person B 'eventually solved' the problem of finding practice time 'by practising first thing, before checking any messages or emails'.",
+          "tag": "detail"
+        },
+        {
+          "n": 8,
+          "prompt": "Who suggests that patience, rather than talent, explains why a second attempt has gone better than a first?",
+          "answer": "C",
+          "explanation": "Person C attributes their improved experience to increased patience: 'I no longer expect to sound impressive within a fortnight', unlike their teenage attempt, when they 'gave up out of frustration'.",
+          "tag": "inference"
+        },
+        {
+          "n": 9,
+          "prompt": "Who nearly abandoned the idea of learning an instrument because of its cost?",
+          "answer": "D",
+          "explanation": "Person D notes the cello's expense 'very nearly put me off before I had even started'.",
+          "tag": "detail"
+        },
+        {
+          "n": 10,
+          "prompt": "Who expresses gratitude towards people who had to tolerate their early attempts at playing?",
+          "answer": "E",
+          "explanation": "Person E says 'neighbours were remarkably tolerant during the early months, which I remain genuinely grateful for'.",
+          "tag": "attitude-opinion"
+        }
+      ]
+    },
+    {
+      "id": "cae-read8-03",
+      "type": "multipleMatching",
+      "title": "Five Views on Sleep-Tracking Apps",
+      "topic": "technology",
+      "source": "original",
+      "intro": "You are going to read about five people's experiences of using sleep-tracking apps. For questions 1-10, choose from the people A-E. The people may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Person A",
+          "text": [
+            "I started using a sleep-tracking app two years ago, drawn in by the promise of finally understanding why I woke up tired despite seemingly sleeping for a reasonable number of hours. The data, once I had it, was genuinely useful: it showed my sleep was being fragmented repeatedly overnight by a partner's snoring, something I had never consciously registered until the graphs made the pattern impossible to ignore.",
+            "Armed with that evidence, I finally persuaded my partner to see a doctor about it, something years of groggy mornings alone had never managed to achieve. The app did not fix the problem itself, but it supplied the proof needed to take the issue seriously."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Person B",
+          "text": [
+            "My relationship with my sleep app turned distinctly unhealthy within a few months. I began checking my 'sleep score' first thing every morning, and a poor score would set the tone of frustration and worry for my entire day, regardless of how I actually felt physically. Eventually I realised the anxiety the app generated was very possibly doing more harm to my sleep than the sleep itself.",
+            "I deleted it eight months ago and, if anything, report feeling better rested since, which I recognise is not exactly rigorous scientific evidence, but which has been enough to keep me from reinstalling it."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Person C",
+          "text": [
+            "As someone with a long-standing interest in data, I enjoy my sleep tracker purely as a form of record-keeping, rather like keeping a diary. I rarely act directly on any single night's reading, but reviewing the broader trend over several months has helped me notice, for instance, that my sleep reliably worsens in the week before a work deadline, a pattern I would never have identified through memory alone.",
+            "I would be cautious, though, about recommending this approach to anyone who tends towards anxiety about health matters generally; for me the data is simply interesting, but I can easily imagine it becoming a source of worry for someone more inclined to dwell on it."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Person D",
+          "text": [
+            "I bought a sleep tracker specifically to help manage a shift-work pattern that has me rotating between day and night shifts every few weeks, and on this narrow, practical point it has genuinely delivered. Seeing exactly how disrupted my sleep becomes during a transition week has helped me negotiate a more gradual shift change with my employer, backed by concrete figures rather than a vague complaint about tiredness.",
+            "I remain sceptical, however, about how accurate these devices really are at distinguishing light sleep from simply lying still, and I treat the absolute numbers with considerable caution even while finding the broader week-to-week trends useful."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Person E",
+          "text": [
+            "A sleep specialist I consulted actively advised me to stop using my tracker, which surprised me considerably at the time, though her reasoning made sense once she explained it. She pointed out that obsessively monitoring something as naturally variable as sleep can itself become a significant source of the very insomnia a person is trying to measure and fix, a condition she referred to, memorably, as orthosomnia.",
+            "I followed her advice reluctantly, half-expecting my sleep to suffer without the reassurance of data, but within a month I was, if anything, sleeping somewhat better, which has left me rather more sceptical of these devices generally than I was before."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Who used tracking data to persuade someone else to seek medical help?",
+          "answer": "A",
+          "explanation": "Person A used the app's evidence of fragmented sleep to persuade 'my partner to see a doctor about it', regarding the snoring it revealed.",
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "prompt": "Who was advised by a professional to stop using a sleep tracker?",
+          "answer": "E",
+          "explanation": "Person E was 'actively advised' by a sleep specialist 'to stop using my tracker', due to the risk of 'orthosomnia'.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Who found that the tracker's results affected their mood independently of how they actually felt?",
+          "answer": "B",
+          "explanation": "Person B describes how 'a poor score would set the tone of frustration and worry for my entire day, regardless of how I actually felt physically'.",
+          "tag": "inference"
+        },
+        {
+          "n": 4,
+          "prompt": "Who uses the tracker mainly to observe long-term patterns rather than single nights?",
+          "answer": "C",
+          "explanation": "Person C says they 'rarely act directly on any single night's reading, but reviewing the broader trend over several months has helped' identify patterns.",
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "prompt": "Who expresses doubt about how accurately the device measures a particular aspect of sleep?",
+          "answer": "D",
+          "explanation": "Person D remains 'sceptical... about how accurate these devices really are at distinguishing light sleep from simply lying still'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 6,
+          "prompt": "Who stopped using a tracker and reported feeling better afterwards?",
+          "answer": "B",
+          "explanation": "Person B 'deleted it eight months ago and, if anything, report feeling better rested since'.",
+          "tag": "detail"
+        },
+        {
+          "n": 7,
+          "prompt": "Who used tracking data to support a request made to an employer?",
+          "answer": "D",
+          "explanation": "Person D used the data on disrupted sleep during shift transitions to 'negotiate a more gradual shift change with my employer, backed by concrete figures'.",
+          "tag": "detail"
+        },
+        {
+          "n": 8,
+          "prompt": "Who warns that this kind of tracking might not suit everyone equally?",
+          "answer": "C",
+          "explanation": "Person C would 'be cautious... about recommending this approach to anyone who tends towards anxiety about health matters generally'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 9,
+          "prompt": "Who initially doubted that giving up the device would work out well?",
+          "answer": "E",
+          "explanation": "Person E 'followed her advice reluctantly, half-expecting my sleep to suffer without the reassurance of data', before finding it actually improved.",
+          "tag": "inference"
+        },
+        {
+          "n": 10,
+          "prompt": "Who compares their use of the device to keeping a diary?",
+          "answer": "C",
+          "explanation": "Person C says they 'enjoy my sleep tracker purely as a form of record-keeping, rather like keeping a diary'.",
+          "tag": "detail"
+        }
+      ]
+    }
+  ]
+}

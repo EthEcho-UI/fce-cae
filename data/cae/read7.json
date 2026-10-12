@@ -1,0 +1,291 @@
+{
+  "level": "cae",
+  "part": "read7",
+  "sets": [
+    {
+      "id": "cae-read7-01",
+      "type": "gappedText",
+      "title": "The End of the Lighthouse Keeper",
+      "topic": "history",
+      "source": "original",
+      "intro": "You are going to read an article about the automation of lighthouses. Six paragraphs have been removed. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+      "text": [
+        "For well over a century, the lighthouse keeper occupied a peculiar place in the public imagination: half hermit, half guardian, trusted with a solitary vigil that quite literally kept ships off the rocks. The job demanded a strange combination of mechanical competence, since the great lamps and foghorns required constant maintenance, and sheer tolerance for isolation, since many stations could be reached only by boat, and only in calm weather.",
+        "{{1}}",
+        "By the 1990s, almost every lighthouse in Britain had been converted to run unattended, its light and foghorn triggered automatically by sensors rather than by a person climbing the tower at dusk. The change was presented, not unreasonably, as straightforward progress: automation was cheaper, safer for the staff involved, and no less reliable than a human keeper checking the equipment by hand.",
+        "{{2}}",
+        "What is less often discussed is what automation did to the surrounding settlements. Many lighthouse stations had, over generations, developed small support communities: families who supplied the keepers, maintained the access paths, or simply grew used to the lighthouse as a fixture of local life and employment. When the keepers left, so, in many cases, did the last reliable source of local income.",
+        "{{3}}",
+        "There is, nonetheless, a genuine case for having been glad to see the system changed. Keepers died in accidents with a regularity that today's inspectors would find alarming: falls from towers, carbon monoxide poisoning from poorly ventilated oil lamps, and more than one keeper simply vanishing from an isolated rock station, never to be satisfactorily explained. No modern safety regulator would sanction asking anyone to do this work today.",
+        "{{4}}",
+        "The decommissioned towers themselves have, in the years since, found a surprising second life. Rather than being demolished, a significant number have been converted into holiday accommodation, prized precisely for the isolation that once made the job so gruelling. Visitors now pay substantial sums for a week in conditions that keepers were paid, modestly, to endure for months at a stretch.",
+        "{{5}}",
+        "A handful of enthusiasts have gone further still, forming small societies dedicated to keeping the mechanical lamps themselves in working order, even where they no longer serve any navigational purpose. Their argument is that something is lost when a piece of maritime heritage is simply switched off and left to rust, regardless of whether a satellite system has rendered its original function redundant.",
+        "{{6}}",
+        "Whatever one makes of the romance that still clings to the image of the lighthouse keeper, it is worth remembering that the job was, for most of its history, neither romantic nor especially well paid. The automation that ended it was not a betrayal of tradition so much as the overdue correction of a system that had, for a very long time, asked a great deal of a very small number of people."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Automation did not happen overnight, however, nor was it universally welcomed at the time. Keepers' unions argued, with some justification, that unmanned stations would be slower to notice equipment failures during storms, when a human presence could intervene immediately rather than wait for a fault to be reported remotely."
+        },
+        {
+          "id": "B",
+          "text": "Historians who have interviewed surviving keepers' families describe a more complicated legacy than either nostalgia or relief alone would suggest: pride in a demanding job well done, mixed with genuine resentment at how abruptly a decades-old way of life was wound up, often with only a few months' notice."
+        },
+        {
+          "id": "C",
+          "text": "As the maps accompanying the original keeper registers make clear, the role itself had existed, in one form or another, since the earliest purpose-built lighthouses of the eighteenth century, attracting the same kind of person throughout: resourceful, largely self-sufficient, and generally unbothered by long stretches without company."
+        },
+        {
+          "id": "D",
+          "text": "A few former fishing villages that depended on this trade have never fully recovered the population they lost once the lighthouse contracts ended, their harbours now home to a handful of retirees rather than the working households of a generation earlier."
+        },
+        {
+          "id": "E",
+          "text": "Some of these restored properties have become minor tourist attractions in their own right, with waiting lists stretching more than a year ahead, a demand that would have astonished the keepers who once requested transfers to less remote postings whenever one became available."
+        },
+        {
+          "id": "F",
+          "text": "It is tempting, looking back, to romanticise this isolation as a kind of noble simplicity, but doing so risks overlooking just how dangerous and poorly supported the work genuinely was, particularly before modern communications made it possible to call for help at all."
+        },
+        {
+          "id": "G",
+          "text": "Whether this preservation work amounts to meaningful heritage conservation or simply nostalgia for its own sake remains a matter of some disagreement even among the enthusiasts themselves, several of whom have questioned how useful it is to keep machinery running that nobody actually needs any more."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "F",
+          "explanation": "Gap 1 follows a paragraph introducing the keeper's isolation and mechanical duties; F's 'this isolation' refers back to that description, and its warning against romanticising it sets up the following paragraph's factual account of automation as 'straightforward progress'.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "A",
+          "explanation": "Gap 2 follows the claim that automation was 'straightforward progress'; A's 'however' directly challenges that framing, and its mention of unions' concerns about delayed fault detection leads into the next paragraph's shift to 'what is less often discussed'.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "D",
+          "explanation": "Gap 3 follows the paragraph about support communities losing their income; D continues this exact thread with a concrete example of villages that 'never fully recovered', before the text pivots with 'there is, nonetheless' to the case for automation.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "B",
+          "explanation": "Gap 4 follows the paragraph listing fatal accidents keepers suffered; B's reference to 'a more complicated legacy' than either view synthesises the tension between the previous two paragraphs (community loss vs justified safety gains) before the text moves on to the towers' afterlife.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "E",
+          "explanation": "Gap 5 follows the paragraph about towers being converted into holiday accommodation; E's 'these restored properties' refers directly back to that conversion, continuing the theme of tourist demand before the text turns to the heritage enthusiasts in the next paragraph.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "G",
+          "explanation": "Gap 6 follows the paragraph about enthusiasts preserving the mechanical lamps; G's 'this preservation work' refers back to that activity, and its note of disagreement 'even among the enthusiasts themselves' leads naturally into the final paragraph's measured conclusion.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "C",
+        "explanation": "C opens with 'as the maps accompanying the original keeper registers make clear', but no maps or keeper registers are mentioned or implied anywhere else in the text, so this backward reference has nothing to attach to at any gap; the historical claim that follows is otherwise plausible-sounding, which is exactly what makes the broken reference easy to miss on a first read."
+      }
+    },
+    {
+      "id": "cae-read7-02",
+      "type": "gappedText",
+      "title": "The Alien Intelligence of the Octopus",
+      "topic": "science",
+      "source": "original",
+      "intro": "You are going to read an article about octopus intelligence. Six paragraphs have been removed. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+      "text": [
+        "Few animals have done more in the last twenty years to unsettle our assumptions about intelligence than the octopus. Lacking a backbone, a long lifespan or anything resembling a human-style brain structure, it seemed, on paper, an unlikely candidate for the sort of problem-solving usually associated with crows, dolphins or primates. And yet laboratory after laboratory has recorded behaviour that is difficult to explain without granting the animal something close to genuine cognitive flexibility.",
+        "{{1}}",
+        "Octopuses kept in research tanks have repeatedly been observed removing lids from jars to reach food hidden inside, a task that requires not just manual dexterity but some working model of how a screw-top container behaves, since the lid must be turned the correct way rather than simply pulled. More strikingly still, several individuals have learned this entirely by watching another octopus perform the task first, a form of observational learning rarely confirmed outside vertebrates.",
+        "{{2}}",
+        "Much of this intelligence is distributed in a way that has no real parallel among mammals. Roughly two-thirds of an octopus's neurons sit not in its central brain but in its arms, which appear capable of carrying out complex, semi-independent sensing and manipulation tasks with comparatively little direct instruction from the centre. Some researchers have gone so far as to describe each arm as possessing a limited intelligence of its own.",
+        "{{3}}",
+        "This unusual arrangement raises an awkward question for anyone trying to compare octopus intelligence with our own: what, exactly, are we measuring? A human solves a puzzle with a single, centrally coordinated brain; an octopus may solve the same puzzle through some division of labour between a central brain and eight semi-autonomous limbs, a process that resists any neat translation into human terms of comparison.",
+        "{{4}}",
+        "Octopuses are also, famously, masters of camouflage, able to change both the colour and texture of their skin within a fraction of a second to match their surroundings. What is less widely appreciated is that this same skin contains light-sensitive proteins similar to those found in eyes, raising the strange possibility that an octopus may, in some limited sense, be able to sense light through its skin even with its eyes closed.",
+        "{{5}}",
+        "None of this intelligence, remarkable as it is, appears to have been put to any great evolutionary use in the way that intelligence in long-lived social animals typically is. Most octopus species live barely a year or two, reproduce once, and then die shortly afterwards, leaving no opportunity to pass learned behaviour on to offspring who might benefit from it directly.",
+        "{{6}}",
+        "It is this combination, dazzling cognitive ability paired with a solitary, brutally short life, that researchers find hardest to reconcile with everything else known about intelligence in the animal kingdom, and it is likely to keep the octopus at the centre of this particular scientific puzzle for a long while yet."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "This disconnect between capability and apparent purpose is precisely what makes the octopus such an unusual case study, since nearly every other animal celebrated for its intelligence lives long enough, and socially enough, for that intelligence to pay some obvious evolutionary dividend."
+        },
+        {
+          "id": "B",
+          "text": "Nowhere is this apparent cognitive flexibility more striking than in the way the animal routinely handles simple physical puzzles set for it in captivity, something several independent research groups, working quite separately from one another, have now documented in considerable and consistent detail."
+        },
+        {
+          "id": "C",
+          "text": "Whether this amounts to anything resembling vision in the usual sense remains hotly debated among specialists, but it has already prompted a rethink of long-held assumptions about where, exactly, the boundary between merely sensing light and genuinely seeing is supposed to lie in the animal kingdom."
+        },
+        {
+          "id": "D",
+          "text": "Some researchers have proposed treating octopus cognition as a genuinely distinct category, neither more nor less sophisticated than the centralised intelligence of mammals, but organised on such different principles that direct comparison may simply be the wrong exercise to attempt in the first place."
+        },
+        {
+          "id": "E",
+          "text": "A small number of marine biologists have argued that this distributed arrangement evolved specifically to compensate for the octopus's lack of a protective shell, giving each arm the independent reflexes needed to react to danger far faster than a single central brain could realistically manage alone."
+        },
+        {
+          "id": "F",
+          "text": "Early scepticism about these reports has largely faded in recent years as the number of independently documented cases across different research teams has steadily grown, making it increasingly difficult for sceptics to dismiss the behaviour as a single unreliable anecdote."
+        },
+        {
+          "id": "G",
+          "text": "Captive breeding programmes have so far made remarkably little headway in extending this brief lifespan, and several researchers now suspect that the short life cycle may be genetically fixed rather than simply a consequence of conditions inside a research tank."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "B",
+          "explanation": "Gap 1 follows the opening paragraph's claim that octopus behaviour is 'difficult to explain without granting the animal something close to genuine cognitive flexibility'; B's 'this apparent cognitive flexibility' picks that phrase up directly, and its mention of 'physical puzzles' leads naturally into the next paragraph's specific example of jar-opening.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "F",
+          "explanation": "Gap 2 follows the claim that one octopus learned the task by watching another, a claim likely to provoke doubt; F's 'early scepticism about these reports has largely faded' responds directly to that doubt before the text moves to the distributed-nervous-system paragraph.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "E",
+          "explanation": "Gap 3 follows the paragraph describing neurons distributed into the arms; E's 'this distributed arrangement' refers back to exactly that feature, offering an evolutionary explanation before the next paragraph raises the comparison problem it creates.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "D",
+          "explanation": "Gap 4 follows the paragraph questioning how to compare octopus and human intelligence; D's proposal to treat octopus cognition as 'a genuinely distinct category' directly answers that comparison problem, before the text shifts topic to camouflage and light-sensitive skin.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "C",
+          "explanation": "Gap 5 follows the paragraph about skin that may sense light; C's 'whether this amounts to anything resembling vision' refers directly back to that light-sensing claim, before the text moves on to the short lifespan paragraph.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "G",
+          "explanation": "Gap 6 follows the paragraph noting that octopuses die shortly after reproducing; G continues this exact thread with detail about captive breeding failing to extend lifespan, before the final paragraph draws the two themes (intelligence and short life) together.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "A",
+        "explanation": "A summarises the article's overall argument about the mismatch between octopus intelligence and its evolutionary use, which is exactly the point the final paragraph makes in its own words; inserting A at any gap would pre-empt and duplicate that conclusion rather than link two neighbouring paragraphs, so it fits nowhere."
+      }
+    },
+    {
+      "id": "cae-read7-03",
+      "type": "gappedText",
+      "title": "Why We Stopped Fixing Things",
+      "topic": "technology",
+      "source": "original",
+      "intro": "You are going to read an article about the right to repair movement. Six paragraphs have been removed. Choose from the paragraphs A-G the one which fits each gap (1-6). There is one extra paragraph which you do not need to use.",
+      "text": [
+        "There was a time, not so very long ago, when a broken toaster, radio or washing machine was something you fixed, not something you simply threw away and replaced. A repair shop existed on most high streets, spare parts were easy to obtain, and manufacturers published the diagrams needed to take a product apart without destroying it in the process. That world has, for most consumer electronics at least, largely disappeared.",
+        "{{1}}",
+        "The campaign that has grown up in response, loosely known as the right to repair movement, argues that this shift was never simply a side effect of more sophisticated technology, as manufacturers often claim, but in many cases a deliberate business decision. Glued-in batteries, proprietary screws and components, serial-numbered parts, and software locks that disable a device when an unauthorised part is fitted, none of these are unavoidable consequences of modern design.",
+        "{{2}}",
+        "Manufacturers counter that some of these measures exist for good reasons unconnected to profit. Sealed, glued construction, they argue, allows for genuinely waterproof phones and more compact devices than a design built around easy disassembly ever could, and serial-numbered parts can help detect stolen or counterfeit components entering the repair supply chain. There is at least a kernel of truth in this defence, even critics of the industry generally concede.",
+        "{{3}}",
+        "Where the argument becomes harder to settle is the question of software, since a growing number of devices now refuse to function correctly, even when physically repaired, unless the replacement part is first authorised through a manufacturer's own proprietary system. A screen or battery swapped by an independent repair shop may work perfectly in every physical sense and still trigger persistent warnings, or even reduced performance, until the device is 'paired' using software only the manufacturer, or an authorised partner, controls.",
+        "{{4}}",
+        "Legislators in several jurisdictions have begun responding to these complaints with new rules obliging manufacturers to supply spare parts, tools and repair documentation to independent shops and to consumers themselves, not just to their own approved repair network. Early results from the jurisdictions that have adopted such rules suggest a modest but measurable increase in the number of devices being repaired rather than discarded.",
+        "{{5}}",
+        "Critics of the legislation, including some manufacturers, warn that mandating open access to repair information could expose users to greater safety risks from poorly trained amateur repairers, and that it may struggle to keep pace with genuinely novel product designs that existing rules were never written to anticipate. Supporters respond that the safety argument has historically been used to justify restrictions that had rather more to do with protecting profit margins on official repairs.",
+        "{{6}}",
+        "Whatever the eventual balance struck between these competing claims, the underlying economic logic of repairability seems unlikely to disappear. A throwaway model works well for manufacturers chasing frequent upgrade sales, but it generates a steadily mounting quantity of electronic waste that someone, eventually, has to deal with, and public patience with that arrangement appears, on current evidence, to be wearing distinctly thin."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Today, a cracked screen or a failing battery is, for many popular smartphone models, treated by both the manufacturer and the typical consumer as sufficient justification for buying an entirely new device, rather than as a problem worth the time and expense of having fixed."
+        },
+        {
+          "id": "B",
+          "text": "Rather, the campaign contends, they function chiefly as barriers that push customers towards costlier official repair services, or towards buying a replacement device altogether, well before the underlying components have genuinely reached the end of their useful working life."
+        },
+        {
+          "id": "C",
+          "text": "What critics object to is less the existence of these design choices than the suspicion that they are frequently extended well beyond any genuine engineering necessity, deployed in situations where a simpler, more repairable alternative would have worked almost as well."
+        },
+        {
+          "id": "D",
+          "text": "This practice, sometimes described by critics as parts pairing, effectively turns what should be a straightforward mechanical repair into something only the original manufacturer can fully authorise, regardless of who physically carries out the actual work on the device itself, or how competently they do it."
+        },
+        {
+          "id": "E",
+          "text": "Independent repair shops, who had campaigned loudest for these changes, broadly welcomed the new obligations, though several reported that manufacturers had been slow to comply fully with the documentation requirements in the first year after the rules took effect."
+        },
+        {
+          "id": "F",
+          "text": "This disagreement over the real motive behind safety warnings is unlikely to be resolved quickly, since both sides of the debate can point to genuine historical cases that appear, at least on the surface, to support their own preferred version of events rather than the other's."
+        },
+        {
+          "id": "G",
+          "text": "A small number of manufacturers have tried to pre-empt tighter regulation by voluntarily offering limited self-repair kits for a handful of flagship products, though critics note that the parts involved are often priced high enough to make professional repair barely more expensive."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "A",
+          "explanation": "Gap 1 follows the opening paragraph's claim that the repair-friendly world 'has largely disappeared'; A illustrates exactly this with the concrete smartphone example, before the next paragraph names the 'right to repair movement' that formed in response.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "B",
+          "explanation": "Gap 2 follows the list of design features (glued batteries, proprietary screws) the movement blames on manufacturers; B's 'rather, the campaign contends' directly continues that argument by explaining their supposed real function, before manufacturers' side of the argument is given next.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "C",
+          "explanation": "Gap 3 follows the manufacturers' defence of sealed, glued designs; C's 'what critics object to' responds directly to that defence, conceding its 'kernel of truth' point while narrowing the real objection, before the text moves to the separate issue of software.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "D",
+          "explanation": "Gap 4 follows the description of devices needing software 'pairing' after a part is replaced; D's 'this practice' refers directly back to that pairing system, naming it before the text turns to legislators' response.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "E",
+          "explanation": "Gap 5 follows the paragraph about new legislation requiring manufacturers to supply parts and documentation; E describes how independent repair shops, who campaigned for exactly these changes, reacted to them, before the text turns to critics of the legislation.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "F",
+          "explanation": "Gap 6 follows the paragraph setting out the opposing safety arguments from critics and supporters of the legislation; F's 'this disagreement over the real motive' refers directly back to that dispute, before the final paragraph draws a broader conclusion.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "G",
+        "explanation": "G describes manufacturers voluntarily offering self-repair kits, a plausible-sounding detail about industry response, but it fits nowhere because every gap already has a specific paragraph it must link backward and forward to, and none of those transitions calls for this particular claim about voluntary kits, which is not picked up or referred to anywhere else in the text."
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "level": "cae",
+  "tests": [
+    {
+      "id": "cae-test-1",
+      "title": "Practice Test 1",
+      "minutes": 90,
+      "sets": [
+        "cae-uoe1-01", "cae-uoe2-01", "cae-uoe3-01", "cae-uoe4-01",
+        "cae-read5-01", "cae-read6-01", "cae-read7-01", "cae-read8-01"
+      ]
+    },
+    {
+      "id": "cae-test-2",
+      "title": "Practice Test 2",
+      "minutes": 90,
+      "sets": [
+        "cae-uoe1-02", "cae-uoe2-02", "cae-uoe3-02", "cae-uoe4-02",
+        "cae-read5-02", "cae-read6-02", "cae-read7-02", "cae-read8-02"
+      ]
+    },
+    {
+      "id": "cae-test-3",
+      "title": "Practice Test 3",
+      "minutes": 90,
+      "sets": [
+        "cae-uoe1-03", "cae-uoe2-03", "cae-uoe3-03", "cae-uoe4-03",
+        "cae-read5-03", "cae-read6-03", "cae-read7-03", "cae-read8-03"
+      ]
+    }
+  ]
+}
