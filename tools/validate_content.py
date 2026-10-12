@@ -231,6 +231,16 @@ def main():
                 sets_by_id[s.get("id")] = s
             if not d.get("sets"):
                 err(str(p), "no sets")
+            if typ in ("mcCloze", "multipleChoice"):
+                mc = [q for s in d.get("sets") or [] for q in s.get("questions") or []
+                      if q.get("answer") in (0, 1, 2, 3) and isinstance(q.get("options"), list) and len(q["options"]) == 4]
+                if len(mc) >= 8:
+                    pos = [sum(q["answer"] == i for q in mc) for i in range(4)]
+                    if max(pos) > 0.45 * len(mc) or min(pos) < 0.1 * len(mc):
+                        err(str(p), f"answer positions unbalanced {pos} (test-wise learners can guess)")
+                    longest = sum(len(q["options"][q["answer"]]) == max(len(o) for o in q["options"]) for q in mc)
+                    if typ == "multipleChoice" and longest > 0.4 * len(mc):
+                        err(str(p), f"correct option is the longest in {longest}/{len(mc)} questions (max 40%)")
 
         p = root / level / "vocab.json"
         if p.exists() and (d := load(p)) is not None:
