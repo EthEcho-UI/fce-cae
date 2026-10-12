@@ -1,0 +1,63 @@
+{
+  "level": "cae",
+  "part": "read8",
+  "sets": [
+    {
+      "id": "cae-read8-01",
+      "type": "multipleMatching",
+      "title": "Scientists on their most surprising result",
+      "topic": "science",
+      "source": "original",
+      "intro": "You are going to read about five researchers describing an unexpected result from their work. For questions 1-10, choose from the researchers A-E.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Dr Hana Larsen, marine biology",
+          "text": [
+            "My own assumption going into the project was that deep-sea creatures living in near-total darkness would show relatively little variation between individuals, since there seemed to be so few environmental pressures to differentiate them. Years of imaging thousands of specimens convinced me I was mistaken: the behavioural variation we recorded, even among near-identical individuals from the same small area, rivalled anything documented in far better-studied surface species. What surprised me more than the variation itself was how long the field had assumed otherwise, apparently because deep-sea specimens are so difficult and expensive to observe in anything resembling their natural state over an extended period."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Professor Ibrahim Keskin, linguistics",
+          "text": [
+            "I had expected that children acquiring two languages simultaneously from birth would show a measurable delay in each language compared with monolingual peers, a view that was, until fairly recently, close to consensus among researchers in the field. Our longitudinal data instead showed no meaningful delay in either language once we controlled properly for how much exposure each child actually received, rather than simply how many languages were present in the household. The earlier studies, it turned out, had rarely accounted for this distinction with any real precision, which had quietly distorted the picture for decades."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Dr Priya Nair, climate science",
+          "text": [
+            "The finding that genuinely unsettled our research group concerned the speed, not the direction, of change in a particular glacial system we had modelled extensively using historical trends. Our models, built on decades of prior observation, consistently underestimated how quickly a specific feedback mechanism would accelerate once a particular threshold temperature was crossed, by a margin none of us had considered remotely plausible beforehand. It was a humbling reminder that extrapolating smoothly from historical trends can fail precisely when a system is approaching a genuine structural change, rather than simply continuing along its previous trajectory."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Professor Elias Thornton, archaeology",
+          "text": [
+            "We had gone into the excavation expecting to confirm, rather than challenge, the existing timeline for when a particular farming technique first spread through the region, based on comparable sites nearby. Instead, dating evidence pushed the technique's arrival back by nearly three centuries, forcing a genuine rethink of how the method could have travelled given the trade routes known to exist at that time. Several colleagues initially suspected contamination of the samples, which is a fair and necessary first response to such an unexpected result, but repeated independent testing in two separate laboratories ultimately confirmed the original, surprising dates."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Dr Monica Alvarez, immunology",
+          "text": [
+            "Perhaps the most unexpected result of my career concerned a treatment we had already judged, based on extensive laboratory work, to be almost certain to fail in actual patients, for reasons that seemed robust at the time. We continued the trial mainly to generate data for a quite different follow-up study we had already planned around it, with genuinely low expectations for the treatment itself. The treatment, against essentially every prediction our models had made, produced a measurable benefit in a meaningful subgroup of participants, a result that has reshaped how cautious I am now about dismissing an approach purely on theoretical grounds before real trial data exists."
+          ]
+        }
+      ],
+      "questions": [
+        { "n": 1, "prompt": "Which researcher found that an existing scientific consensus had been based on insufficiently precise measurement?", "answer": "B", "explanation": "Keskin says earlier studies 'rarely accounted for this distinction with any real precision'.", "tag": "detail" },
+        { "n": 2, "prompt": "Which researcher mentions that colleagues initially suspected a technical error in the data?", "answer": "D", "explanation": "Thornton says 'colleagues initially suspected contamination of the samples'.", "tag": "detail" },
+        { "n": 3, "prompt": "Which researcher continued a study mainly for a different purpose than testing the thing that ultimately produced the surprising result?", "answer": "E", "explanation": "Alvarez continued the trial 'mainly to generate data for a quite different follow-up study'.", "tag": "detail" },
+        { "n": 4, "prompt": "Which researcher's finding involved underestimating the speed, rather than the direction, of a process?", "answer": "C", "explanation": "Nair specifies the surprise 'concerned the speed, not the direction, of change'.", "tag": "detail" },
+        { "n": 5, "prompt": "Which researcher attributes a long-standing misunderstanding partly to the practical difficulty of gathering data?", "answer": "A", "explanation": "Larsen notes deep-sea specimens 'are so difficult and expensive to observe' over time.", "tag": "inference" },
+        { "n": 6, "prompt": "Which researcher had their result confirmed independently by more than one laboratory?", "answer": "D", "explanation": "Thornton mentions 'repeated independent testing in two separate laboratories'.", "tag": "detail" },
+        { "n": 7, "prompt": "Which researcher says their result changed how they judge an approach before real-world testing takes place?", "answer": "E", "explanation": "Alvarez says the result 'has reshaped how cautious I am now about dismissing an approach purely on theoretical grounds'.", "tag": "attitude-opinion" },
+        { "n": 8, "prompt": "Which researcher expected relatively little variation but found a great deal?", "answer": "A", "explanation": "Larsen expected 'relatively little variation' but found variation that 'rivalled' well-studied species.", "tag": "detail" },
+        { "n": 9, "prompt": "Which researcher's result required reconsidering how something could physically have spread given known historical routes?", "answer": "D", "explanation": "Thornton describes 'a genuine rethink of how the method could have travelled given the trade routes known to exist'.", "tag": "inference" },
+        { "n": 10, "prompt": "Which researcher explains that earlier studies failed to separate two related but distinct factors?", "answer": "B", "explanation": "Keskin distinguishes 'how much exposure each child actually received' from simply 'how many languages were present'.", "tag": "detail" }
+      ]
+    }
+  ]
+}

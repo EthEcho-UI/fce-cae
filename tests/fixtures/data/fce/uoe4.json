@@ -1,0 +1,75 @@
+{
+  "level": "fce",
+  "part": "uoe4",
+  "sets": [
+    {
+      "id": "fce-uoe4-01",
+      "type": "transformation",
+      "title": "Key word transformation practice",
+      "topic": "everyday life",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "I regret not studying harder at school.",
+          "keyword": "WISH",
+          "before": "I",
+          "after": "harder at school.",
+          "answers": ["wish i had studied", "wish that i had studied"],
+          "explanation": "'Wish' + past perfect is used to express regret about something in the past.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "I managed to finish the report on time.",
+          "keyword": "ABLE",
+          "before": "I",
+          "after": "finish the report on time.",
+          "answers": ["was able to"],
+          "explanation": "'Be able to' + infinitive is an alternative way of expressing 'managed to'.",
+          "tag": "verb-pattern"
+        },
+        {
+          "n": 3,
+          "first": "Although it was raining, we went for a walk.",
+          "keyword": "SPITE",
+          "before": "",
+          "after": "the rain, we went for a walk.",
+          "answers": ["in spite of"],
+          "explanation": "'In spite of' + noun phrase expresses the same contrast as 'although' + clause.",
+          "tag": "linking"
+        },
+        {
+          "n": 4,
+          "first": "It is possible that the train was delayed by weather.",
+          "keyword": "MUST",
+          "before": "The train",
+          "after": "delayed by weather.",
+          "answers": ["must have been"],
+          "explanation": "'Must have been' expresses a confident deduction about something in the past.",
+          "tag": "modal"
+        },
+        {
+          "n": 5,
+          "first": "I would prefer to stay at home tonight.",
+          "keyword": "RATHER",
+          "before": "I",
+          "after": "stay at home tonight.",
+          "answers": ["would rather"],
+          "explanation": "'Would rather' + bare infinitive expresses a preference, like 'would prefer to'.",
+          "tag": "verb-pattern"
+        },
+        {
+          "n": 6,
+          "first": "I don't do as much exercise now as I did when I was younger.",
+          "keyword": "USED",
+          "before": "I",
+          "after": "do more exercise when I was younger.",
+          "answers": ["used to"],
+          "explanation": "'Used to' + infinitive describes a past habit that no longer happens.",
+          "tag": "tense"
+        }
+      ]
+    }
+  ]
+}

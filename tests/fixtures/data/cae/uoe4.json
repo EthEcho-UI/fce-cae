@@ -1,0 +1,75 @@
+{
+  "level": "cae",
+  "part": "uoe4",
+  "sets": [
+    {
+      "id": "cae-uoe4-01",
+      "type": "transformation",
+      "title": "Key word transformation practice",
+      "topic": "everyday life",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "She had barely sat down when the phone rang.",
+          "keyword": "NO",
+          "before": "",
+          "after": "had she sat down than the phone rang.",
+          "answers": ["no sooner"],
+          "explanation": "'No sooner...than' is an inverted structure meaning 'immediately after'.",
+          "tag": "linking"
+        },
+        {
+          "n": 2,
+          "first": "The company said it was not responsible for the delay.",
+          "keyword": "DENIED",
+          "before": "The company",
+          "after": "being responsible for the delay.",
+          "answers": ["denied being"],
+          "explanation": "'Deny' + gerund reports someone saying something is not true.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 3,
+          "first": "This project is much more complicated than we expected.",
+          "keyword": "FAR",
+          "before": "This project is",
+          "after": "complicated than we expected.",
+          "answers": ["far more"],
+          "explanation": "'Far more' intensifies a comparative adjective, like 'much more'.",
+          "tag": "comparison"
+        },
+        {
+          "n": 4,
+          "first": "If she had known about the traffic, she would have left earlier.",
+          "keyword": "HAD",
+          "before": "",
+          "after": "known about the traffic, she would have left earlier.",
+          "answers": ["had she known"],
+          "explanation": "Inverting 'if she had known' to 'had she known' is a formal alternative conditional structure.",
+          "tag": "conditional"
+        },
+        {
+          "n": 5,
+          "first": "The manager postponed the meeting until next week.",
+          "keyword": "PUT",
+          "before": "The manager",
+          "after": "the meeting until next week.",
+          "answers": ["put off"],
+          "explanation": "'Put off' is a phrasal verb meaning 'to postpone'.",
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 6,
+          "first": "It doesn't matter how hard he tries, he never wins.",
+          "keyword": "MATTER",
+          "before": "",
+          "after": "how hard he tries, he never wins.",
+          "answers": ["no matter"],
+          "explanation": "'No matter how' means 'regardless of how', matching the original meaning.",
+          "tag": "linking"
+        }
+      ]
+    }
+  ]
+}

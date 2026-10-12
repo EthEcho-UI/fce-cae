@@ -1,0 +1,17 @@
+{
+  "level": "fce",
+  "words": [
+    { "id": "fce-v-001", "word": "take up", "pos": "phrasal verb", "definition": "to start doing a new hobby or activity", "example": "She has taken up the cello since she retired.", "collocations": ["take up a hobby", "take up running"], "topic": "free time" },
+    { "id": "fce-v-002", "word": "give up", "pos": "phrasal verb", "definition": "to stop doing something, often because it is too difficult", "example": "He has given up the guitar after a few frustrating weeks.", "collocations": ["give up smoking", "give up easily"], "topic": "free time" },
+    { "id": "fce-v-003", "word": "make an effort", "pos": "collocation", "definition": "to try hard to do something", "example": "You need to make an effort if you want to improve quickly.", "collocations": ["make a real effort", "make little effort"], "topic": "work" },
+    { "id": "fce-v-004", "word": "reach a decision", "pos": "collocation", "definition": "to finally decide something, often after discussion", "example": "After a long meeting, the committee finally reached a decision.", "collocations": ["reach an agreement", "reach a conclusion"], "topic": "work" },
+    { "id": "fce-v-005", "word": "break the ice", "pos": "idiom", "definition": "to do or say something to make people feel more relaxed in a social situation", "example": "The host told a joke to break the ice at the start of the party.", "collocations": ["break the ice with a joke"], "topic": "social life" },
+    { "id": "fce-v-006", "word": "out of the blue", "pos": "idiom", "definition": "suddenly and unexpectedly", "example": "She called me out of the blue after years of silence.", "collocations": ["appear out of the blue"], "topic": "social life" },
+    { "id": "fce-v-007", "word": "nevertheless", "pos": "linking word", "definition": "despite what has just been said; however", "example": "The weather was terrible; nevertheless, they went ahead with the picnic.", "collocations": [], "topic": "writing" },
+    { "id": "fce-v-008", "word": "as a result", "pos": "linking word", "definition": "because of this; consequently", "example": "He practised every day; as a result, his playing improved quickly.", "collocations": [], "topic": "writing" },
+    { "id": "fce-v-009", "word": "despite", "pos": "preposition", "definition": "without being affected by; in spite of", "example": "Despite the rain, the match continued.", "collocations": ["despite the fact that"], "topic": "writing" },
+    { "id": "fce-v-010", "word": "reliable", "pos": "adjective", "definition": "able to be trusted to do what is expected", "example": "My neighbour is very reliable and always waters my plants when I'm away.", "collocations": ["a reliable source", "a reliable friend"], "topic": "character" },
+    { "id": "fce-v-011", "word": "generosity", "pos": "noun", "definition": "the quality of being willing to give money, time or help freely", "example": "His generosity surprised everyone at the fundraiser.", "collocations": ["show generosity", "great generosity"], "topic": "character" },
+    { "id": "fce-v-012", "word": "gradually", "pos": "adverb", "definition": "slowly, over a period of time", "example": "Her confidence gradually improved after a few lessons.", "collocations": ["gradually increase", "gradually change"], "topic": "progress" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "level": "cae",
+  "part": "uoe3",
+  "sets": [
+    {
+      "id": "cae-uoe3-01",
+      "type": "wordFormation",
+      "title": "The decline of the high street",
+      "topic": "economics",
+      "source": "original",
+      "text": [
+        "Town centres that once thrived are now struggling {{1}} as shopping habits change. The {{2}} of online retail has accelerated this decline.",
+        "Shoppers increasingly expect a wide {{3}} of products available instantly, which puts smaller shops under constant pressure. Councils have also become {{4}} on business rates that are shrinking year on year.",
+        "Several cities have invested heavily in {{5}} projects to attract new businesses, although not every scheme has {{6}} reversed the trend. Local {{7}} support schemes have had mixed results.",
+        "The long-term future of many high streets remains a matter of considerable {{8}}."
+      ],
+      "questions": [
+        { "n": 1, "stem": "ECONOMY", "answers": ["economically"], "explanation": "The adverb 'economically' describes the manner in which the centres are struggling.", "tag": "word-formation-adverb" },
+        { "n": 2, "stem": "GROW", "answers": ["growth"], "explanation": "The noun 'growth' is needed after 'the' and before 'of online retail'.", "tag": "word-formation-noun" },
+        { "n": 3, "stem": "VARY", "answers": ["variety"], "explanation": "The noun 'variety' fits after 'a wide' and before 'of products'.", "tag": "word-formation-noun" },
+        { "n": 4, "stem": "RELY", "answers": ["reliant"], "explanation": "The adjective 'reliant' is needed after 'become' and before 'on'.", "tag": "word-formation-adjective" },
+        { "n": 5, "stem": "REGENERATE", "answers": ["regeneration"], "explanation": "The noun 'regeneration' is needed to describe the type of projects.", "tag": "word-formation-noun" },
+        { "n": 6, "stem": "SUCCESS", "answers": ["successfully"], "explanation": "The adverb 'successfully' describes how the scheme has, or has not, reversed the trend.", "tag": "word-formation-adverb" },
+        { "n": 7, "stem": "FINANCE", "answers": ["financial"], "explanation": "The adjective 'financial' describes the type of support schemes.", "tag": "word-formation-adjective" },
+        { "n": 8, "stem": "CERTAIN", "answers": ["uncertainty"], "explanation": "The negative noun 'uncertainty' fits after 'considerable', showing the future is unclear.", "tag": "word-formation-negative" }
+      ]
+    }
+  ]
+}

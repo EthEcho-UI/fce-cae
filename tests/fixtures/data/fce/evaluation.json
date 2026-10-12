@@ -1,0 +1,119 @@
+{
+  "level": "fce",
+  "id": "fce-eval",
+  "title": "Level check",
+  "minutes": 30,
+  "sets": [
+    {
+      "id": "fce-eval-01",
+      "type": "mcCloze",
+      "title": "Staying active",
+      "topic": "health",
+      "source": "original",
+      "text": [
+        "Many people find that regular exercise helps them feel less {{1}} during a busy week. A short walk at lunchtime can make a surprising {{2}} to someone's mood.",
+        "Experts {{3}} recommend at least twenty minutes of activity most days. {{4}} you prefer walking or cycling, the most important thing is simply to move regularly."
+      ],
+      "questions": [
+        { "n": 1, "options": ["stressed", "stress", "stressing", "stressful"], "answer": 0, "why": ["Correct: 'feel stressed' is the natural adjective pattern after 'feel'.", "'Stress' is a noun and cannot follow 'feel' this way.", "'Stressing' does not fit after 'feel less'.", "'Stressful' describes things or situations, not how a person feels."], "tag": "collocation" },
+        { "n": 2, "options": ["difference", "change", "effect", "result"], "answer": 0, "why": ["Correct: 'make a difference' is a fixed collocation.", "'Make a change' is possible but less natural with 'surprising' here.", "'Make an effect' is not a correct collocation; the usual verb is 'have an effect'.", "'Make a result' is not a correct English collocation."], "tag": "collocation" },
+        { "n": 3, "options": ["general", "generally", "generalise", "generality"], "answer": 1, "why": ["'General' is an adjective and cannot modify the verb 'recommend'.", "Correct: the adverb 'generally' is needed to modify the verb 'recommend'.", "'Generalise' is a verb and cannot be used here.", "'Generality' is a noun and cannot modify a verb."], "tag": "verb-pattern" },
+        { "n": 4, "options": ["Whether", "If", "Although", "Because"], "answer": 0, "why": ["Correct: 'whether...or' presents two alternatives, matching 'walking or cycling'.", "'If' does not pair naturally with 'or' to present two alternatives like this.", "'Although' would introduce a contrast, which does not fit here.", "'Because' would give a reason, which does not fit here."], "tag": "conditional" }
+      ]
+    },
+    {
+      "id": "fce-eval-02",
+      "type": "openCloze",
+      "title": "Modern libraries",
+      "topic": "community",
+      "source": "original",
+      "text": [
+        "Public libraries are not just places {{1}} people borrow books. Many now offer free computer access, language classes {{2}} even recording studios.",
+        "Libraries {{3}} struggled financially in recent years, so many rely heavily on volunteers. {{4}} local funding is limited, some communities have organised their own fundraising events to keep a branch open."
+      ],
+      "questions": [
+        { "n": 1, "answers": ["where"], "explanation": "'Where' is the relative pronoun referring to 'places'.", "tag": "relative-clause" },
+        { "n": 2, "answers": ["and"], "explanation": "'And' links the list of services the library offers.", "tag": "linking" },
+        { "n": 3, "answers": ["have"], "explanation": "The present perfect 'have struggled' fits the idea of a situation continuing from the past to now.", "tag": "tense" },
+        { "n": 4, "answers": ["because", "since", "as"], "explanation": "'Because/since/as' all introduce the reason local communities organised fundraising events.", "tag": "linking" }
+      ]
+    },
+    {
+      "id": "fce-eval-03",
+      "type": "wordFormation",
+      "title": "Reading habits",
+      "topic": "education",
+      "source": "original",
+      "text": [
+        "Scientists say that regular reading can improve {{1}} ability in both children and adults. A short daily habit is often more useful than {{2}} sessions once a month.",
+        "Teachers encourage {{3}} discussion about books to deepen understanding. Even {{4}} readers can benefit from revisiting a favourite story."
+      ],
+      "questions": [
+        { "n": 1, "stem": "COMPREHEND", "answers": ["comprehension"], "explanation": "The noun 'comprehension' is needed after 'improve' and before 'ability'.", "tag": "word-formation-noun" },
+        { "n": 2, "stem": "OCCASION", "answers": ["occasional"], "explanation": "The adjective 'occasional' is needed to describe the infrequent sessions.", "tag": "word-formation-adjective" },
+        { "n": 3, "stem": "ACT", "answers": ["active"], "explanation": "The adjective 'active' is needed to describe the kind of discussion teachers encourage.", "tag": "word-formation-adjective" },
+        { "n": 4, "stem": "EXPERIENCE", "answers": ["experienced"], "explanation": "The adjective 'experienced' is needed to describe the readers.", "tag": "word-formation-adjective" }
+      ]
+    },
+    {
+      "id": "fce-eval-04",
+      "type": "transformation",
+      "title": "Key word transformation",
+      "topic": "everyday life",
+      "source": "original",
+      "questions": [
+        { "n": 1, "first": "It's possible she forgot about the meeting.", "keyword": "MIGHT", "before": "She", "after": "about the meeting.", "answers": ["might have forgotten"], "explanation": "'Might have' + past participle expresses a past possibility.", "tag": "modal" },
+        { "n": 2, "first": "I last visited Paris three years ago.", "keyword": "BEEN", "before": "I", "after": "to Paris for three years.", "answers": ["haven't been", "have not been"], "explanation": "The present perfect 'haven't been' expresses the time since the last visit.", "tag": "tense" },
+        { "n": 3, "first": "Someone stole my bike last night.", "keyword": "STOLEN", "before": "My bike", "after": "last night.", "answers": ["was stolen"], "explanation": "The passive 'was stolen' focuses on the bike rather than the unknown thief.", "tag": "passive" },
+        { "n": 4, "first": "I want to know the result as fast as possible.", "keyword": "SOON", "before": "I want to know the result", "after": "as possible.", "answers": ["as soon as"], "explanation": "'As soon as possible' is the standard phrase meaning 'as fast as possible'.", "tag": "comparison" }
+      ]
+    },
+    {
+      "id": "fce-eval-05",
+      "type": "multipleChoice",
+      "title": "Free weekend buses",
+      "topic": "community",
+      "source": "original",
+      "intro": "Read the article and answer the questions.",
+      "text": [
+        "A growing number of small towns are introducing free weekend bus services to reduce traffic in their centres. The idea began almost by accident: a local council noticed that visitor numbers dropped sharply whenever nearby car parks were full, so they offered a free shuttle bus as a temporary fix during a single busy weekend. Feedback was so positive that the scheme became permanent within a year.",
+        "Shop owners were initially unconvinced, worried that visitors without cars would simply spend less money. In practice, the opposite happened: people who arrived by bus often stayed longer, since they were not restricted by parking time limits, and ended up browsing more shops than they originally planned to visit. Several town centres have since reported a measurable rise in weekend takings since introducing the service.",
+        "Not every town has had the same experience, however. In places where the bus route does not pass close to the main shopping street, use of the service has remained low, suggesting that convenience matters more to visitors than the fact that the service is free."
+      ],
+      "questions": [
+        { "n": 1, "stem": "Why did the council first introduce the free bus service?", "options": ["As a long-term plan to reduce pollution.", "As a temporary solution to a parking problem during one busy weekend.", "Because shop owners specifically requested it.", "To replace an existing paid bus service."], "answer": 1, "why": ["Reducing pollution is not mentioned as the original reason.", "Correct: it was 'a temporary fix during a single busy weekend' for the parking problem.", "Shop owners are only mentioned later, and were initially unconvinced, not in favour.", "There is no mention of replacing an existing paid service."], "tag": "detail" },
+        { "n": 2, "stem": "What was the shop owners' initial worry?", "options": ["That the buses would be too expensive to run.", "That visitors arriving by bus would spend less money.", "That the scheme would increase traffic.", "That tourists would avoid the town altogether."], "answer": 1, "why": ["Cost of running the buses is not mentioned as their worry.", "Correct: they worried visitors 'without cars would simply spend less money'.", "Increased traffic is not mentioned as a concern.", "Avoiding the town altogether is not mentioned."], "tag": "detail" },
+        { "n": 3, "stem": "What actually happened once the bus service started?", "options": ["Visitors spent less time in the town.", "Visitors who came by bus often stayed and shopped longer.", "Shops had to close earlier.", "Parking problems got worse."], "answer": 1, "why": ["The opposite happened: visitors stayed longer, not less time.", "Correct: 'people who arrived by bus often stayed longer... and ended up browsing more shops'.", "Shop closing times are not mentioned.", "Parking problems are not described as getting worse."], "tag": "inference" },
+        { "n": 4, "stem": "According to the final paragraph, what determines whether the scheme works well in a town?", "options": ["Whether the service is advertised well.", "Whether the bus route is convenient for reaching the shops.", "How many buses run each day.", "Whether the town already had traffic problems."], "answer": 1, "why": ["Advertising is not mentioned in the final paragraph.", "Correct: where the route 'does not pass close to the main shopping street, use of the service has remained low'.", "The number of buses per day is not discussed.", "Pre-existing traffic problems are not discussed in this paragraph."], "tag": "main-idea" }
+      ]
+    },
+    {
+      "id": "fce-eval-06",
+      "type": "gappedText",
+      "title": "Rooftop beekeeping",
+      "topic": "nature",
+      "source": "original",
+      "intro": "Four sentences have been removed. Choose from A-E. There is one extra sentence.",
+      "text": [
+        "Urban beekeeping has become increasingly popular on rooftops in large cities. {{1}} Many beekeepers say the hobby connects them to nature in a way nothing else in city life does.",
+        "Setting up a rooftop hive requires more planning than people often expect. {{2}} A beginner should also check local rules, since some cities limit how many hives are allowed per building.",
+        "The bees themselves rarely cause problems for neighbours. {{3}} Most complaints, when they happen, come from simple misunderstanding rather than any real danger.",
+        "{{4}} For this reason, many experienced beekeepers recommend joining a local group before starting."
+      ],
+      "options": [
+        { "id": "A", "text": "They tend to fly well above street level, so people walking nearby almost never notice them." },
+        { "id": "B", "text": "The number of hobbyist hives has roughly doubled in the last decade, according to several city beekeeping associations." },
+        { "id": "C", "text": "A stable, flat surface and some protection from strong wind are both essential." },
+        { "id": "D", "text": "Beginners often underestimate how much specialist knowledge is needed before the first hive is even delivered." },
+        { "id": "E", "text": "A hive placed in full sun all day can overheat badly during the summer months." }
+      ],
+      "questions": [
+        { "n": 1, "answer": "B", "explanation": "B gives the statistic behind the claim that the hobby 'has become increasingly popular'.", "tag": "cohesion" },
+        { "n": 2, "answer": "C", "explanation": "C explains the planning (a stable surface, wind protection) that the sentence before refers to.", "tag": "cohesion" },
+        { "n": 3, "answer": "A", "explanation": "A explains why the bees 'rarely cause problems for neighbours' — they fly above street level.", "tag": "cohesion" },
+        { "n": 4, "answer": "D", "explanation": "D introduces the idea of needing expert help, which 'for this reason' then refers to.", "tag": "cohesion" }
+      ],
+      "extra": { "id": "E", "explanation": "Overheating in full sun is a real risk but is never otherwise discussed in this text, so E fits nowhere." }
+    }
+  ]
+}

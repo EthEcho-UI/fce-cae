@@ -1,0 +1,29 @@
+{
+  "level": "cae",
+  "part": "uoe2",
+  "sets": [
+    {
+      "id": "cae-uoe2-01",
+      "type": "openCloze",
+      "title": "The limits of artificial intelligence",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "Artificial intelligence is advancing at {{1}} pace that few predicted even a decade ago. {{2}} impressive these systems have become, they remain far from infallible.",
+        "One difficulty lies {{3}} the fact that many algorithms are trained on data that reflect existing social biases. {{4}} developers are careful, these biases can be reproduced, and sometimes amplified, in the system's output.",
+        "{{5}} far, most regulatory efforts have focused on transparency rather than on restricting how such systems are used. Critics argue that transparency alone, {{6}} welcome, is not {{7}} to prevent harm.",
+        "It remains to be seen {{8}} governments will agree on shared standards before the technology outpaces the rules meant to govern it."
+      ],
+      "questions": [
+        { "n": 1, "answers": ["such"], "explanation": "'Such a pace that' introduces a result clause describing how fast the pace is.", "tag": "comparison" },
+        { "n": 2, "answers": ["however"], "explanation": "'However' + adjective at the start of a clause introduces a concession ('no matter how impressive').", "tag": "linking", "commonWrong": { "although": "'Although' would need a full clause structure, not 'although impressive these systems...'." } },
+        { "n": 3, "answers": ["in"], "explanation": "'Lies in the fact that' is the standard preposition pattern after 'lies'.", "tag": "preposition" },
+        { "n": 4, "answers": ["unless"], "explanation": "'Unless' introduces the condition under which the biases will NOT be avoided.", "tag": "conditional" },
+        { "n": 5, "answers": ["so"], "explanation": "'So far' is the fixed phrase meaning 'up to now'.", "tag": "fixed-phrase" },
+        { "n": 6, "answers": ["while", "although"], "explanation": "'While/although welcome' concedes that transparency is a good thing before qualifying that point.", "tag": "linking" },
+        { "n": 7, "answers": ["enough"], "explanation": "'Enough' after 'not' and before 'to prevent' expresses insufficiency.", "tag": "quantifier" },
+        { "n": 8, "answers": ["whether"], "explanation": "'Whether' introduces the indirect question after 'remains to be seen'.", "tag": "reported-speech" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "level": "cae",
+  "part": "read5",
+  "sets": [
+    {
+      "id": "cae-read5-01",
+      "type": "multipleChoice",
+      "title": "The vanishing art of sustained attention",
+      "topic": "work",
+      "source": "original",
+      "intro": "You are going to read an article about concentration in modern working life. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "It has become almost a cliche to observe that modern working life is fragmented into ever smaller units of attention, interrupted by notifications, messages and the general expectation of near-instant responsiveness. Yet the scale of the shift is still worth stating plainly. Research tracking office workers across several industries has repeatedly found that many professionals are interrupted, on average, every few minutes during a typical working day, and that a meaningful proportion of these interruptions are self-inflicted, arising from habitual checking rather than genuine necessity. What is less often acknowledged is how long it can take to recover full concentration after even a brief interruption; some studies put the figure at over twenty minutes. Multiplied across a working day, the cumulative cost to sustained, demanding thought is considerable, even if it rarely appears on any balance sheet.",
+        "Cal Newport, a computer scientist who has written extensively on the subject, popularised the term 'deep work' to describe the kind of undistracted, cognitively demanding effort that produces genuinely valuable output, as opposed to the shallow, logistical tasks that fill most calendars. His argument is not simply that distraction is unpleasant, but that the capacity for sustained concentration is itself a skill that atrophies without practice, much like physical fitness. Professionals who spend most of their day skimming between emails and chat messages, he suggests, may gradually lose the ability to engage with difficult material for extended periods, even when circumstances briefly allow it. The implication is unsettling: an entire generation of knowledge workers may be unconsciously training themselves out of the very capacity their jobs are supposed to reward.",
+        "Not every commentator accepts this framing without reservation. Some researchers point out that collaborative, interrupted work has always been part of many professions, and that framing deep, solitary focus as inherently superior risks undervaluing collective problem-solving, which often depends on precisely the kind of frequent, informal exchange that 'deep work' advocates discourage. There is also a question of privilege: employees with the authority to close their inbox for three uninterrupted hours are rarely the most junior or the most replaceable, and advice that assumes such control may simply be unavailable to much of the workforce. A junior employee who ignores messages for half a day, however admirable the theory, may face consequences that a senior researcher simply does not.",
+        "Even so, few would dispute that something has been lost. Workers across sectors increasingly describe a nagging sense of having been busy all day while accomplishing comparatively little of substance, a feeling distinct from ordinary tiredness. Several companies, aware of this complaint, have experimented with 'no-meeting days' or shared blocks of quiet time, with genuinely mixed results: some teams report a noticeable rise in output, while others simply shift the same fragmented habits into the newly protected hours, checking phones out of habit rather than necessity. This suggests that scheduling alone cannot fix what is, at root, a cultural and individual habit, reinforced over years, rather than purely a structural problem that any single policy can resolve.",
+        "Perhaps the more useful question is not whether deep work is possible for everyone, since clearly its preconditions are unevenly distributed, but what smaller, realistic steps might partially restore some of the lost capacity for sustained attention. Turning off non-essential notifications for defined periods, protecting even thirty minutes rather than three hours, and treating concentration as something that must be deliberately rebuilt rather than assumed, all seem more achievable than wholesale lifestyle change. Nobody seriously proposes returning to a pre-digital working life; the more modest ambition is simply to notice how much of today's fragmentation is genuinely necessary, and how much has crept in unexamined."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "According to the first paragraph, what is 'less often acknowledged' about interruptions?",
+          "options": [
+            "How frequently they occur during a typical day.",
+            "How long it can take to fully regain concentration afterwards.",
+            "That most of them come from colleagues rather than technology.",
+            "That they mainly affect workers in a single industry."
+          ],
+          "answer": 1,
+          "why": [
+            "Frequency is mentioned, but presented as already well known, not as 'less often acknowledged'.",
+            "Correct: the text says 'less often acknowledged is how long it can take to recover full concentration'.",
+            "The source of interruptions is not discussed in these terms.",
+            "The research is described as spanning 'several industries', not one."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "stem": "What does Cal Newport suggest about the ability to concentrate deeply?",
+          "options": [
+            "It is a fixed trait that cannot change over time.",
+            "It can weaken through lack of practice, similar to physical fitness.",
+            "It matters only for people working in computer science.",
+            "It naturally improves the more someone multitasks."
+          ],
+          "answer": 1,
+          "why": [
+            "The text explicitly says it 'atrophies without practice', the opposite of fixed.",
+            "Correct: the text compares this capacity to physical fitness, which weakens without use.",
+            "Newport's field is mentioned only as his background, not a limitation on his argument.",
+            "The text suggests the opposite: skimming between tasks may weaken concentration."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 3,
+          "stem": "What is one criticism some researchers make of the 'deep work' idea, according to paragraph 3?",
+          "options": [
+            "It overvalues solitary focus and undervalues collaborative, informal exchange.",
+            "It has never been tested in any real workplace.",
+            "It applies equally well to employees at every level of seniority.",
+            "It ignores the existence of open-plan offices."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: critics say it risks 'undervaluing collective problem-solving' that depends on frequent exchange.",
+            "Testing in workplaces is not mentioned as a criticism.",
+            "The text argues the opposite: it may not apply equally across seniority levels.",
+            "Open-plan offices are not mentioned."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "What point does the text make about a 'junior employee' in paragraph 3?",
+          "options": [
+            "They are usually the ones most able to ignore messages for hours.",
+            "They may face real consequences for ignoring messages that a more senior person would not.",
+            "They tend to prefer working without any supervision.",
+            "They are rarely affected by interruptions at work."
+          ],
+          "answer": 1,
+          "why": [
+            "The text says the opposite: junior staff are least likely to have this freedom.",
+            "Correct: the text says such an employee 'may face consequences that a senior researcher simply does not'.",
+            "Preference for supervision is not discussed.",
+            "No claim is made that junior staff are less affected by interruptions."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 5,
+          "stem": "Why does the writer mention 'no-meeting days' in paragraph 4?",
+          "options": [
+            "To prove that scheduling changes always increase output.",
+            "To give an example of an attempted solution with mixed, not uniformly positive, results.",
+            "To argue that meetings should be abolished entirely.",
+            "To show that most companies have abandoned the idea already."
+          ],
+          "answer": 1,
+          "why": [
+            "The text explicitly says the results were 'genuinely mixed', not uniformly positive.",
+            "Correct: it illustrates an attempted fix whose outcomes varied between teams.",
+            "Abolishing meetings entirely is not argued anywhere.",
+            "Abandonment of the idea is not mentioned."
+          ],
+          "tag": "purpose-function"
+        },
+        {
+          "n": 6,
+          "stem": "What is the writer's overall conclusion in the final paragraph?",
+          "options": [
+            "Deep work is achievable for everyone if they simply try harder.",
+            "Small, realistic changes may be more useful than expecting dramatic lifestyle change.",
+            "Technology is entirely responsible for the loss of concentration.",
+            "Nothing can be done to recover lost powers of concentration."
+          ],
+          "answer": 1,
+          "why": [
+            "The text says preconditions for full deep work 'are unevenly distributed', contradicting this.",
+            "Correct: the paragraph favours 'smaller, realistic steps' over 'wholesale lifestyle change'.",
+            "Technology alone is not identified as the sole cause anywhere in the text.",
+            "The paragraph explicitly proposes steps that 'seem more achievable', not hopelessness."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    }
+  ]
+}

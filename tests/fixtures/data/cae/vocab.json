@@ -1,0 +1,17 @@
+{
+  "level": "cae",
+  "words": [
+    { "id": "cae-v-001", "word": "ubiquitous", "pos": "adjective", "definition": "present, or seeming to be present, everywhere at once", "example": "Smartphones have become ubiquitous in modern life.", "collocations": ["ubiquitous presence", "almost ubiquitous"], "topic": "technology" },
+    { "id": "cae-v-002", "word": "exacerbate", "pos": "verb", "definition": "to make a problem or bad situation worse", "example": "Cutting the support programme will only exacerbate the housing crisis.", "collocations": ["exacerbate a problem", "exacerbate tensions"], "topic": "society" },
+    { "id": "cae-v-003", "word": "meticulous", "pos": "adjective", "definition": "showing great attention to detail; very careful and thorough", "example": "She kept meticulous records of every transaction.", "collocations": ["meticulous attention to detail", "meticulous planning"], "topic": "work" },
+    { "id": "cae-v-004", "word": "watershed moment", "pos": "idiom", "definition": "a turning point after which things change significantly", "example": "The discovery marked a watershed moment in the treatment of the disease.", "collocations": ["mark a watershed moment"], "topic": "history" },
+    { "id": "cae-v-005", "word": "concede", "pos": "verb", "definition": "to admit, often reluctantly, that something is true", "example": "He finally conceded that his original plan had failed.", "collocations": ["concede defeat", "concede a point"], "topic": "debate" },
+    { "id": "cae-v-006", "word": "notwithstanding", "pos": "preposition", "definition": "in spite of; without being affected by", "example": "Notwithstanding the delays, the project was finished on budget.", "collocations": [], "topic": "writing" },
+    { "id": "cae-v-007", "word": "underpin", "pos": "verb", "definition": "to support or form the basis of a theory, idea or system", "example": "These principles underpin the entire legal system.", "collocations": ["underpin a theory", "underpin the economy"], "topic": "academic writing" },
+    { "id": "cae-v-008", "word": "albeit", "pos": "linking word", "definition": "although; even though", "example": "The plan worked, albeit more slowly than expected.", "collocations": [], "topic": "writing" },
+    { "id": "cae-v-009", "word": "rule of thumb", "pos": "idiom", "definition": "a broadly accurate practical guide, not based on exact calculation", "example": "As a rule of thumb, you should save at least ten per cent of your income.", "collocations": ["a good rule of thumb"], "topic": "advice" },
+    { "id": "cae-v-010", "word": "circumvent", "pos": "verb", "definition": "to find a way around a difficulty, rule or obstacle", "example": "The company found a legal way to circumvent the new regulations.", "collocations": ["circumvent a rule", "circumvent restrictions"], "topic": "business" },
+    { "id": "cae-v-011", "word": "tenuous", "pos": "adjective", "definition": "very weak or slight; barely strong enough to hold together", "example": "The link between the two events is, at best, tenuous.", "collocations": ["a tenuous connection", "a tenuous argument"], "topic": "argument" },
+    { "id": "cae-v-012", "word": "in tandem", "pos": "collocation", "definition": "happening at the same time as, or working together with, something else", "example": "The two departments now work in tandem to avoid duplicating effort.", "collocations": ["work in tandem"], "topic": "work" }
+  ]
+}

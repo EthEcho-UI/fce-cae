@@ -1,0 +1,20 @@
+{
+  "level": "cae",
+  "tests": [
+    {
+      "id": "cae-test-1",
+      "title": "Practice Test 1",
+      "minutes": 90,
+      "sets": [
+        "cae-uoe1-01",
+        "cae-uoe2-01",
+        "cae-uoe3-01",
+        "cae-uoe4-01",
+        "cae-read5-01",
+        "cae-read6-01",
+        "cae-read7-01",
+        "cae-read8-01"
+      ]
+    }
+  ]
+}

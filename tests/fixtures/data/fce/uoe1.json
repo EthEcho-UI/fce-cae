@@ -1,0 +1,157 @@
+{
+  "level": "fce",
+  "part": "uoe1",
+  "sets": [
+    {
+      "id": "fce-uoe1-01",
+      "type": "mcCloze",
+      "title": "Community gardens",
+      "topic": "community",
+      "source": "original",
+      "text": [
+        "Many cities are now encouraging residents to take {{1}} in community gardening projects. These schemes allow neighbours to share a piece of land and grow vegetables together.",
+        "Whether the project works well often depends {{2}} how much free time the volunteers have. Most people who join agree to {{3}} after a small plot every weekend, watering the plants and pulling out weeds.",
+        "{{4}}, not everyone can help every single week, so groups usually share the jobs between several families. {{5}} harvest festival is held every September to celebrate the work of the whole year.",
+        "Community gardens are becoming {{6}} popular than private allotments because they cost less and bring people together. Everyone who joins {{7}} bring their own gloves and a small spade. In most neighbourhoods the festival {{8}} organised entirely by local volunteers, with no help from the city council."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "piece",
+            "place",
+            "part",
+            "role"
+          ],
+          "answer": 2,
+          "why": [
+            "'Take piece' is not a real English collocation.",
+            "'Take place' means 'to happen', which does not fit here.",
+            "Correct: 'take part in' is a fixed collocation meaning 'to join in an activity'.",
+            "'Take role' is not a natural collocation; the usual phrase is 'play a role'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 2,
+          "options": [
+            "on",
+            "of",
+            "for",
+            "with"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the verb 'depend' is followed by the preposition 'on'.",
+            "'Depend of' is not correct in English.",
+            "'Depend for' is not correct in English.",
+            "'Depend with' is not correct in English."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 3,
+          "options": [
+            "look",
+            "take",
+            "keep",
+            "hold"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'look after' is a phrasal verb meaning 'to take care of'.",
+            "'Take after' means 'to resemble a relative', which does not fit here.",
+            "'Keep after' is not a standard English phrasal verb.",
+            "'Hold after' is not a standard English phrasal verb."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 4,
+          "options": [
+            "Moreover",
+            "However",
+            "Therefore",
+            "Besides"
+          ],
+          "answer": 1,
+          "why": [
+            "'Moreover' adds a similar point, but this sentence introduces a contrast.",
+            "Correct: 'However' signals the contrast between wanting to help and not always having time.",
+            "'Therefore' shows a result, which does not fit the contrast here.",
+            "'Besides' introduces an additional point, not a contrast."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 5,
+          "options": [
+            "An",
+            "The",
+            "Some",
+            "A"
+          ],
+          "answer": 1,
+          "why": [
+            "'An' is used before vowel sounds and is also the wrong article here.",
+            "Correct: 'The' is used because the festival is a specific, well-known yearly event for this group.",
+            "'Some' is used for unspecified quantities, not a single specific event.",
+            "'A' would suggest one of several unspecified festivals, which does not fit."
+          ],
+          "tag": "article-determiner"
+        },
+        {
+          "n": 6,
+          "options": [
+            "very",
+            "most",
+            "more",
+            "much"
+          ],
+          "answer": 2,
+          "why": [
+            "'Very' cannot be followed by 'than'.",
+            "'Most popular' would need 'the' and does not fit the comparative structure with 'than'.",
+            "Correct: 'more...than' is the comparative form used to compare two things.",
+            "'Much' cannot directly replace a comparative adjective before 'than' like this."
+          ],
+          "tag": "comparison"
+        },
+        {
+          "n": 7,
+          "options": [
+            "might",
+            "can",
+            "would",
+            "must"
+          ],
+          "answer": 3,
+          "why": [
+            "'Might' expresses possibility, not obligation.",
+            "'Can' expresses ability or permission, not a required rule here.",
+            "'Would' does not express obligation in this context.",
+            "Correct: 'must' expresses the strong obligation that everyone needs their own gloves and spade."
+          ],
+          "tag": "modal"
+        },
+        {
+          "n": 8,
+          "options": [
+            "was",
+            "has",
+            "does",
+            "is"
+          ],
+          "answer": 3,
+          "why": [
+            "'Was organised' is past tense, which does not match the present-tense description of a regular event.",
+            "'Has organised' would need 'been' to form a passive, and the meaning would still not fit.",
+            "'Does organised' is not a grammatically correct form.",
+            "Correct: the present simple passive 'is organised' fits because this happens every year, as already described."
+          ],
+          "tag": "passive"
+        }
+      ]
+    }
+  ]
+}

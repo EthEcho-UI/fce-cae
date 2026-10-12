@@ -1,0 +1,157 @@
+{
+  "level": "cae",
+  "part": "uoe1",
+  "sets": [
+    {
+      "id": "cae-uoe1-01",
+      "type": "mcCloze",
+      "title": "Rethinking procrastination",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Procrastination is often {{1}} as simple laziness, yet psychologists increasingly argue that the two are rarely the same thing. Putting off a task we find unpleasant is, {{2}} all, a deeply human response to discomfort.",
+        "Rather than reflecting a lack of willpower, chronic procrastination can {{3}} from anxiety about failing to meet one's own standards. Avoiding the task altogether becomes a {{4}} of protecting oneself from that anxiety, however short-lived the relief.",
+        "Some researchers have gone so far as to {{5}} that productivity culture, with its relentless emphasis on efficiency, may actually be making the problem worse. {{6}} criticising people for procrastinating, they argue, we should examine why a task feels threatening in the first place.",
+        "{{7}} this advice is easier to give than to follow, small changes in how a task is framed can {{8}} a noticeable difference, turning an overwhelming project into a series of manageable steps."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "rejected",
+            "ignored",
+            "denied",
+            "dismissed"
+          ],
+          "answer": 3,
+          "why": [
+            "'Rejected as' is not a natural collocation in this context.",
+            "'Ignored as' does not combine naturally with 'as' this way.",
+            "'Denied as' is not a correct collocation.",
+            "Correct: 'dismissed as' is the fixed collocation meaning 'treated as not worth taking seriously'."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 2,
+          "options": [
+            "of",
+            "after",
+            "above",
+            "in"
+          ],
+          "answer": 1,
+          "why": [
+            "'Of all' is not a standard fixed phrase with this meaning.",
+            "Correct: 'after all' is the fixed phrase meaning 'when everything is considered'.",
+            "'Above all' means 'most importantly', which does not fit the sense here.",
+            "'In all' is not a standard fixed phrase with this meaning."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 3,
+          "options": [
+            "grow",
+            "come",
+            "rise",
+            "stem"
+          ],
+          "answer": 3,
+          "why": [
+            "'Grow from' is not the natural idiomatic choice here.",
+            "'Come from' is possible generally but less precise than the idiomatic 'stem from'.",
+            "'Rise from' suggests physically getting up, not psychological origin.",
+            "Correct: 'stem from' is a phrasal verb meaning 'to originate from'."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 4,
+          "options": [
+            "means",
+            "mean",
+            "meaning",
+            "meant"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'a means of' is a fixed phrase meaning 'a method for'.",
+            "'Mean' is not a noun form and cannot follow 'a'.",
+            "'Meaning' changes the sense entirely to 'significance', not 'method'.",
+            "'Meant' is a past participle and cannot follow 'a' as a noun."
+          ],
+          "tag": "fixed-phrase"
+        },
+        {
+          "n": 5,
+          "options": [
+            "speak",
+            "suggest",
+            "tell",
+            "say"
+          ],
+          "answer": 1,
+          "why": [
+            "'Speak' does not fit this verb pattern at all.",
+            "Correct: 'go so far as to suggest' is the natural pattern for a bold claim.",
+            "'Tell' needs an object (tell someone) and does not fit this pattern.",
+            "'Say' is possible but less natural than 'suggest' with a claim like this."
+          ],
+          "tag": "verb-pattern"
+        },
+        {
+          "n": 6,
+          "options": [
+            "Rather than",
+            "Instead",
+            "Other than",
+            "Except for"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'rather than' + gerund contrasts two possible actions (criticising vs examining).",
+            "'Instead' alone cannot be directly followed by a gerund in this way.",
+            "'Other than' means 'apart from', which does not fit the contrast intended.",
+            "'Except for' means 'apart from', which does not fit the contrast intended."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 7,
+          "options": [
+            "Because",
+            "Unless",
+            "Although",
+            "Despite"
+          ],
+          "answer": 2,
+          "why": [
+            "'Because' would give a reason, not a concession, which does not fit.",
+            "'Unless' introduces a condition, which does not fit the concession here.",
+            "Correct: 'although' + clause introduces the concession that the advice is hard to follow.",
+            "'Despite' must be followed by a noun phrase, not a full clause with 'is'."
+          ],
+          "tag": "linking"
+        },
+        {
+          "n": 8,
+          "options": [
+            "create",
+            "produce",
+            "make",
+            "do"
+          ],
+          "answer": 2,
+          "why": [
+            "'Create a difference' is understandable but not the natural fixed collocation.",
+            "'Produce a difference' is understandable but not the natural fixed collocation.",
+            "Correct: 'make a difference' is the fixed collocation.",
+            "'Do a difference' is not correct English."
+          ],
+          "tag": "collocation"
+        }
+      ]
+    }
+  ]
+}

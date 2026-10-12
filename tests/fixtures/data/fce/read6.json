@@ -1,0 +1,40 @@
+{
+  "level": "fce",
+  "part": "read6",
+  "sets": [
+    {
+      "id": "fce-read6-01",
+      "type": "gappedText",
+      "title": "Learning to sail at fifty-two",
+      "topic": "hobbies",
+      "source": "original",
+      "intro": "Six sentences have been removed from the article. Choose from the sentences A-G the one which fits each gap. There is one extra sentence you do not need to use.",
+      "text": [
+        "At the age of fifty-two, Daniel Osei decided to learn something he had always found intimidating: sailing. {{1}} He signed up for a short beginner's course at a sailing club on the coast.",
+        "The first lesson did not go smoothly. {{2}} Still, the instructor reassured him that almost everyone capsizes at least once during their first few sessions.",
+        "By the third week, something had changed. {{3}} Daniel found himself looking forward to each session rather than dreading it.",
+        "He also noticed changes beyond the water. {{4}} His colleagues began to comment that he seemed calmer under pressure at work.",
+        "Not everything about the hobby was easy to explain to friends. {{5}} Daniel simply tells people that sailing forces him to concentrate on one thing at a time, which he rarely manages to do anywhere else.",
+        "Eighteen months later, Daniel has passed two further qualifications and is considering buying a small boat of his own. {{6}} For him, the biggest surprise was not learning to sail itself, but discovering how much he had needed a hobby that asked for his full attention."
+      ],
+      "options": [
+        { "id": "A", "text": "He capsized twice within the first hour and swallowed what felt like half the sea." },
+        { "id": "B", "text": "His wife had given him a sailing lesson voucher as a joke birthday present, never expecting him to actually use it." },
+        { "id": "C", "text": "He began reading about sailing late at night and found himself calculating wind directions during his daily commute." },
+        { "id": "D", "text": "He started arriving at meetings early instead of rushing in at the last minute, something that was entirely new for him." },
+        { "id": "E", "text": "Explaining why getting shouted at by the wind and nearly falling into cold water counts as relaxing is not straightforward." },
+        { "id": "F", "text": "He now plans to spend most weekends on the water once the better weather arrives." },
+        { "id": "G", "text": "Several of his friends had already taken up similar outdoor hobbies after retiring early." }
+      ],
+      "questions": [
+        { "n": 1, "answer": "B", "explanation": "B explains how Daniel came to try sailing at all, which leads naturally into 'He signed up for a short beginner's course'.", "tag": "cohesion" },
+        { "n": 2, "answer": "A", "explanation": "A gives a concrete example of the lesson 'not going smoothly', and repeats 'capsize', which the next sentence also uses.", "tag": "cohesion" },
+        { "n": 3, "answer": "C", "explanation": "C shows the change in Daniel's attitude ('something had changed') that leads into him looking forward to sessions.", "tag": "cohesion" },
+        { "n": 4, "answer": "D", "explanation": "D describes a change 'beyond the water' (at work), which is exactly what the colleagues then comment on.", "tag": "cohesion" },
+        { "n": 5, "answer": "E", "explanation": "E gives the specific difficulty of explaining the hobby, which 'Daniel simply tells people...' then resolves.", "tag": "cohesion" },
+        { "n": 6, "answer": "F", "explanation": "F describes his plans for the sport, fitting naturally before the concluding sentence about his biggest surprise.", "tag": "cohesion" }
+      ],
+      "extra": { "id": "G", "explanation": "The text is about Daniel's personal experience; his friends' own hobbies are never otherwise mentioned, so G fits nowhere." }
+    }
+  ]
+}

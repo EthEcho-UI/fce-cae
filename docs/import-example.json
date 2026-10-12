@@ -1,0 +1,74 @@
+{
+  "level": "fce",
+  "sets": [
+    {
+      "id": "fce-own-01",
+      "type": "transformation",
+      "title": "My own key word transformation set",
+      "topic": "general",
+      "source": "own",
+      "questions": [
+        {
+          "n": 1,
+          "first": "If you don't leave now, you will miss the train.",
+          "keyword": "UNLESS",
+          "before": "You will miss the train",
+          "after": "now.",
+          "answers": ["unless you leave", "unless you leave now"],
+          "explanation": "'Unless' introduces the one condition under which the result will NOT happen, so it replaces the negative if-clause.",
+          "tag": "conditional"
+        },
+        {
+          "n": 2,
+          "first": "Someone stole my bicycle outside the station yesterday.",
+          "keyword": "WAS",
+          "before": "My bicycle",
+          "after": "outside the station yesterday.",
+          "answers": ["was stolen"],
+          "explanation": "The focus moves from the unknown thief to the bicycle, so the passive voice is needed.",
+          "tag": "passive"
+        },
+        {
+          "n": 3,
+          "first": "\"I will finish the report by Friday,\" said Theo.",
+          "keyword": "WOULD",
+          "before": "Theo said he",
+          "after": "the report by Friday.",
+          "answers": ["would finish"],
+          "explanation": "In reported speech, 'will' in the original statement becomes 'would'.",
+          "tag": "reported-speech"
+        },
+        {
+          "n": 4,
+          "first": "It is possible that Mia is still at work.",
+          "keyword": "MIGHT",
+          "before": "Mia",
+          "after": "still at work.",
+          "answers": ["might be"],
+          "explanation": "'Might be' expresses the same degree of possibility as 'it is possible that ... is'.",
+          "tag": "modal"
+        },
+        {
+          "n": 5,
+          "first": "This museum is less interesting than the one we visited last year.",
+          "keyword": "AS",
+          "before": "This museum isn't",
+          "after": "the one we visited last year.",
+          "answers": ["as interesting as"],
+          "explanation": "'Less interesting than' can be rephrased as a negative equal comparison: 'not as interesting as'.",
+          "tag": "comparison"
+        },
+        {
+          "n": 6,
+          "first": "The scientist who won the award studies ocean currents.",
+          "keyword": "WHO",
+          "before": "The scientist",
+          "after": "studies ocean currents.",
+          "answers": ["who won the award"],
+          "explanation": "A relative clause with 'who' identifies which scientist is meant.",
+          "tag": "relative-clause"
+        }
+      ]
+    }
+  ]
+}

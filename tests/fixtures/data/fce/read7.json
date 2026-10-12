@@ -1,0 +1,63 @@
+{
+  "level": "fce",
+  "part": "read7",
+  "sets": [
+    {
+      "id": "fce-read7-01",
+      "type": "multipleMatching",
+      "title": "Learning an instrument as an adult",
+      "topic": "hobbies",
+      "source": "original",
+      "intro": "You are going to read about five adults who each learned to play a musical instrument. For questions 1-10, choose from the people A-E.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Maria",
+          "text": [
+            "When I turned forty, I decided to finally learn the piano, something I'd wanted to do since I was a child but never had the chance to try. My elderly neighbour had an old upright piano she wasn't using and offered to lend it to me, which made getting started easy. The hardest part has been fitting in regular practice around a full-time job; I only manage about three short sessions a week, and progress feels slow. Even so, I notice real improvement every few months, and my teacher says that adult students often progress steadily even with limited practice time, as long as they stay consistent."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Tomasz",
+          "text": [
+            "I picked up the guitar during a long period of working from home, mainly because I needed something to do during lunch breaks that wasn't staring at a screen. I taught myself using online videos rather than taking formal lessons, which suited my irregular schedule much better. The biggest challenge was simply not giving up during the first few frustrating weeks, when my fingers hurt and nothing I played sounded recognisable. What finally kept me going was joining an online community of other beginners who shared short video clips of their own progress, however rough, every weekend."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Beatrice",
+          "text": [
+            "My son plays violin in his school orchestra, and watching him rehearse made me want to try it myself, even at sixty-three. I was nervous about looking foolish at my age, but the local music school runs a weekly adult beginners' class specifically for people in exactly my situation, which put me at ease immediately. Learning to read music again after decades away from it has been harder than the instrument itself. My classmates, several of whom are around my own age, have become good friends, and we often practise together between lessons, which helps far more than practising alone."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Samuel",
+          "text": [
+            "A colleague who plays in a weekend band suggested I try drums after I mentioned feeling bored with my usual gym routine. I bought an inexpensive electronic kit so I could practise with headphones late in the evening without disturbing my neighbours. Unlike some instruments, drumming demands a surprising amount of physical coordination, and my arms ached for the first month. I was initially sceptical that a hobby could feel like exercise, but I now genuinely look forward to sessions as a way to unwind after stressful days at work rather than as a chore."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Nadia",
+          "text": [
+            "I started cello lessons after retiring, partly to replace the structure that going to work used to give my week. Transporting such a large instrument to lessons on public transport turned out to be far more awkward than I had expected, so I now drive instead. My teacher insists that adults often worry too much about sounding perfect right away, and encouraged me to record myself playing so I could hear my own gradual progress rather than only noticing mistakes. That single piece of advice changed how I feel about practising completely."
+          ]
+        }
+      ],
+      "questions": [
+        { "n": 1, "prompt": "Which person was lent a useful object by someone else?", "answer": "A", "explanation": "Maria's neighbour 'had an old upright piano... and offered to lend it to me'.", "tag": "detail" },
+        { "n": 2, "prompt": "Which person mentions physical discomfort in a part of the body other than the fingers?", "answer": "D", "explanation": "Samuel says 'my arms ached for the first month'.", "tag": "detail" },
+        { "n": 3, "prompt": "Which person was inspired to start by watching a family member play?", "answer": "C", "explanation": "Beatrice says watching 'my son plays violin... made me want to try it myself'.", "tag": "detail" },
+        { "n": 4, "prompt": "Which person solved a practical problem by changing how they travelled?", "answer": "E", "explanation": "Nadia found transporting the cello on public transport awkward, 'so I now drive instead'.", "tag": "detail" },
+        { "n": 5, "prompt": "Which person relies mainly on teaching themselves rather than taking formal lessons?", "answer": "B", "explanation": "Tomasz 'taught myself using online videos rather than taking formal lessons'.", "tag": "detail" },
+        { "n": 6, "prompt": "Which person says the instrument helped replace a routine they missed?", "answer": "E", "explanation": "Nadia started lessons 'partly to replace the structure that going to work used to give my week'.", "tag": "detail" },
+        { "n": 7, "prompt": "Which person found support from other beginners online?", "answer": "B", "explanation": "Tomasz joined 'an online community of other beginners who shared short video clips of their own progress'.", "tag": "detail" },
+        { "n": 8, "prompt": "Which person was advised to worry less about playing perfectly?", "answer": "E", "explanation": "Nadia's teacher said 'adults often worry too much about sounding perfect right away'.", "tag": "attitude-opinion" },
+        { "n": 9, "prompt": "Which person says making friends has helped their learning?", "answer": "C", "explanation": "Beatrice's classmates 'have become good friends, and we often practise together... which helps far more than practising alone'.", "tag": "detail" },
+        { "n": 10, "prompt": "Which person admits feeling worried about seeming embarrassing because of their age?", "answer": "C", "explanation": "Beatrice says 'I was nervous about looking foolish at my age'.", "tag": "attitude-opinion" }
+      ]
+    }
+  ]
+}

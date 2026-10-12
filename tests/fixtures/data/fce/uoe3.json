@@ -1,0 +1,29 @@
+{
+  "level": "fce",
+  "part": "uoe3",
+  "sets": [
+    {
+      "id": "fce-uoe3-01",
+      "type": "wordFormation",
+      "title": "A short history of photography",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "Photography has had great {{1}} for how people remember events. Early cameras were large and {{2}} to carry around.",
+        "Several {{3}} in camera technology changed this during the twentieth century. Many photographers now work {{4}} for newspapers and magazines.",
+        "Good {{5}} often matters more than expensive equipment, and a single photograph can have a {{6}} effect on how we see history.",
+        "Modern phones can now match equipment that used to be extremely {{7}}. Some experts worry that people now take photographs too {{8}}, without thinking about the moment."
+      ],
+      "questions": [
+        { "n": 1, "stem": "SIGNIFY", "answers": ["significance"], "explanation": "The noun 'significance' (meaning 'importance') fits after 'great'.", "tag": "word-formation-noun" },
+        { "n": 2, "stem": "CONVENIENT", "answers": ["inconvenient"], "explanation": "The negative prefix 'in-' is needed because large cameras were difficult, not easy, to carry.", "tag": "word-formation-negative" },
+        { "n": 3, "stem": "IMPROVE", "answers": ["improvements"], "explanation": "The plural noun 'improvements' fits after 'several'.", "tag": "word-formation-noun" },
+        { "n": 4, "stem": "PROFESSION", "answers": ["professionally"], "explanation": "The adverb 'professionally' is needed to describe how the photographers work.", "tag": "word-formation-adverb" },
+        { "n": 5, "stem": "TIME", "answers": ["timing"], "explanation": "'Timing' is the noun formed from 'time' meaning the choice of the right moment.", "tag": "word-formation-noun" },
+        { "n": 6, "stem": "POWER", "answers": ["powerful"], "explanation": "The adjective 'powerful' is needed to describe the effect of the photograph.", "tag": "word-formation-adjective" },
+        { "n": 7, "stem": "EXPENSE", "answers": ["expensive"], "explanation": "The adjective 'expensive' is needed after the linking verb 'to be'.", "tag": "word-formation-adjective" },
+        { "n": 8, "stem": "CARE", "answers": ["carelessly"], "explanation": "The adverb 'carelessly' describes the manner of taking photographs without much thought.", "tag": "word-formation-adverb" }
+      ]
+    }
+  ]
+}

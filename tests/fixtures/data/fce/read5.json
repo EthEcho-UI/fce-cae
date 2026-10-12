@@ -1,0 +1,130 @@
+{
+  "level": "fce",
+  "part": "read5",
+  "sets": [
+    {
+      "id": "fce-read5-01",
+      "type": "multipleChoice",
+      "title": "The letter-writing club",
+      "topic": "lifestyle",
+      "source": "original",
+      "intro": "You are going to read a magazine article about a woman who started a letter-writing club. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "When Elena Ferris was given a box of her grandmother's letters after a house move, she expected to feel nothing more than mild curiosity. Instead, she spent an entire evening reading them, struck by how differently people once communicated. The letters, dated between 1962 and 1979, were full of small details: the weather on a particular Tuesday, a recipe for a cake that had gone wrong, a joke about a neighbour's dog. Nothing in them was especially dramatic, yet Elena found herself more moved by these ordinary descriptions than by anything she had read in years. A few weeks later, almost on impulse, she wrote a long letter to an old university friend she had not properly spoken to in over a decade, describing her week in exactly the kind of unhurried detail her grandmother once had.",
+        "That single letter grew into something much bigger. Elena began writing to several friends regularly, and when she mentioned this habit to colleagues at work, two of them asked if they could join in. Within six months, what had started as a private experiment had become a small letter-writing club that met once a month in a cafe near the local library. Members bring stamps, decent pens, and whatever paper they prefer, and spend an hour simply writing to people who matter to them. Some write to relatives abroad; others write to friends who live only a short bus ride away but whom they rarely see in person. The appeal, Elena insists, has little to do with nostalgia for a supposedly simpler past and much more to do with the discipline the activity demands.",
+        "Unlike a text message, a letter cannot be dashed off in a few seconds between other tasks. It requires the writer to sit still, choose words carefully, and commit to an idea before crossing it out is even possible. For Elena, this slower pace is precisely the point. 'When you know a letter will take fifteen minutes to write and several days to arrive, you naturally think harder about what is actually worth saying,' she explains. Several club members have remarked that they say truer, more considered things in letters than they ever do in rushed phone calls. Crucially, nobody in the group claims to be rejecting modern technology altogether; most still send messages constantly throughout the day. Letters, they say, simply serve a different purpose, reserved for thoughts that deserve more attention.",
+        "The club has also noticed an unexpected side effect: receiving a letter has become a small event in itself. Several members describe checking their post with genuine anticipation for the first time in years, something none of them associated with everyday life before joining. One member, a retired teacher named Robert, admits he was initially sceptical, assuming the club would fade within a few meetings once the novelty wore off. Eighteen months later, it is still going, and two more branches have started in nearby towns after friends of friends asked to join. Elena is quick to point out that she never intended to start a movement; she only wanted an excuse to write back to the people worth keeping in touch with properly."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What surprised Elena most about her grandmother's letters?",
+          "options": [
+            "They contained dramatic family secrets.",
+            "Ordinary, everyday details affected her more than she had expected.",
+            "They were written in a style of handwriting she found difficult to read.",
+            "They mentioned relatives she had never heard of before."
+          ],
+          "answer": 1,
+          "why": [
+            "The text says nothing in the letters was 'especially dramatic'.",
+            "Correct: the text says she was 'more moved by these ordinary descriptions than by anything she had read in years'.",
+            "Handwriting is not mentioned anywhere in the text.",
+            "Unknown relatives are not mentioned in the text."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "stem": "According to the text, what do members of the club do at their monthly meetings?",
+          "options": [
+            "They discuss which stamps are the most valuable.",
+            "They spend time writing letters to people who matter to them.",
+            "They read letters written by famous authors.",
+            "They teach each other how to write more quickly."
+          ],
+          "answer": 1,
+          "why": [
+            "Stamps are only mentioned as something members bring, not a topic of discussion.",
+            "Correct: the text says they 'spend an hour simply writing to people who matter to them'.",
+            "Letters by famous authors are not mentioned.",
+            "Writing speed is not mentioned; if anything, the text values slowness."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What is Elena's opinion of the slow pace of letter-writing?",
+          "options": [
+            "She thinks it is a disadvantage compared with texting.",
+            "She believes it forces people to think more carefully about what they say.",
+            "She finds it frustrating that letters take days to arrive.",
+            "She thinks people should stop using modern technology completely."
+          ],
+          "answer": 1,
+          "why": [
+            "She sees the slow pace as 'precisely the point', not a disadvantage.",
+            "Correct: she says you 'naturally think harder about what is actually worth saying'.",
+            "She presents the delay as valuable, not frustrating.",
+            "The text explicitly says nobody in the group rejects modern technology."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "Why does the writer mention that club members still send text messages throughout the day?",
+          "options": [
+            "To show that the club secretly disapproves of modern technology.",
+            "To make clear that the group is not rejecting technology, only using letters for a different purpose.",
+            "To criticise members for being too attached to their phones.",
+            "To explain why the club eventually stopped meeting."
+          ],
+          "answer": 1,
+          "why": [
+            "The text says the opposite: nobody rejects technology.",
+            "Correct: it clarifies that letters 'simply serve a different purpose', alongside normal technology use.",
+            "There is no criticism of phone use in the text.",
+            "The club has not stopped meeting; it is described as still running."
+          ],
+          "tag": "purpose-function"
+        },
+        {
+          "n": 5,
+          "stem": "In the final paragraph, who does the phrase 'none of them' refer to?",
+          "options": [
+            "The club's founders only.",
+            "The club members, who had not felt that anticipation before joining.",
+            "Staff at the local post office.",
+            "People outside the club who do not write letters."
+          ],
+          "answer": 1,
+          "why": [
+            "The phrase refers to several members in general, not only the founders.",
+            "Correct: it refers back to the 'several members' who now feel anticipation they did not feel before.",
+            "Post office staff are not mentioned in this paragraph.",
+            "The phrase refers to people inside the club, not outsiders."
+          ],
+          "tag": "reference"
+        },
+        {
+          "n": 6,
+          "stem": "What does the example of Robert suggest about the club?",
+          "options": [
+            "It has grown and lasted longer than even sceptical members expected.",
+            "It has struggled to keep its original members.",
+            "It only appeals to retired teachers.",
+            "It stopped running after eighteen months."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: Robert expected it to 'fade within a few meetings', yet it is still running and has even expanded.",
+            "The text gives no evidence that members have left.",
+            "Robert is one example; nothing suggests the club only appeals to retired teachers.",
+            "The text says it is 'still going' after eighteen months, not that it stopped."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    }
+  ]
+}

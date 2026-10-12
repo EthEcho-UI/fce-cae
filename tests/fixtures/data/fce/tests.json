@@ -1,0 +1,19 @@
+{
+  "level": "fce",
+  "tests": [
+    {
+      "id": "fce-test-1",
+      "title": "Practice Test 1",
+      "minutes": 75,
+      "sets": [
+        "fce-uoe1-01",
+        "fce-uoe2-01",
+        "fce-uoe3-01",
+        "fce-uoe4-01",
+        "fce-read5-01",
+        "fce-read6-01",
+        "fce-read7-01"
+      ]
+    }
+  ]
+}

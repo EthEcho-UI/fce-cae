@@ -1,0 +1,72 @@
+{
+  "level": "fce",
+  "part": "uoe2",
+  "sets": [
+    {
+      "id": "fce-uoe2-01",
+      "type": "openCloze",
+      "title": "Working from home",
+      "topic": "work",
+      "source": "original",
+      "text": [
+        "Working from home has become much more common {{1}} the last few years. Many employees now spend {{2}} two or three days a week at home instead of travelling to an office.",
+        "One of the main advantages is {{3}} people can organise their own time more freely. {{4}} they are careful, however, they can end up working longer hours than before.",
+        "{{5}} most workers say they enjoy the extra freedom, a few admit {{6}} they sometimes feel lonely without colleagues nearby. Companies {{7}} offer home working usually ask staff to attend the office at least once a week.",
+        "It is still too early to say {{8}} this way of working will continue once the current trend fades."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": ["over", "in", "during"],
+          "explanation": "'Over/in/during the last few years' are all common ways to describe a recent period of time.",
+          "tag": "preposition"
+        },
+        {
+          "n": 2,
+          "answers": ["around", "about", "between"],
+          "explanation": "'Around'/'about' both mean 'approximately'; 'between' also works before 'two and three days'.",
+          "tag": "quantifier",
+          "commonWrong": { "almost": "'Almost two or three days' is not a natural combination with 'or'." }
+        },
+        {
+          "n": 3,
+          "answers": ["that"],
+          "explanation": "'That' introduces the clause explaining what the advantage actually is.",
+          "tag": "relative-clause",
+          "commonWrong": { "what": "'What' cannot be used here because the sentence already has its own subject, 'people'." }
+        },
+        {
+          "n": 4,
+          "answers": ["if"],
+          "explanation": "'If' introduces the condition under which people might end up working longer hours.",
+          "tag": "conditional"
+        },
+        {
+          "n": 5,
+          "answers": ["while", "although", "whereas"],
+          "explanation": "'While/although/whereas' all introduce a contrast with the idea in the second half of the sentence.",
+          "tag": "linking"
+        },
+        {
+          "n": 6,
+          "answers": ["that"],
+          "explanation": "'Admit that' is the usual pattern for reporting what someone confesses.",
+          "tag": "relative-clause"
+        },
+        {
+          "n": 7,
+          "answers": ["that", "which"],
+          "explanation": "'That/which' is the relative pronoun referring back to 'companies'.",
+          "tag": "relative-clause"
+        },
+        {
+          "n": 8,
+          "answers": ["whether"],
+          "explanation": "'Whether' introduces the indirect question about whether the trend will continue.",
+          "tag": "reported-speech",
+          "commonWrong": { "if": "'If' is possible in informal speech but 'whether' is the standard form after 'say' in writing." }
+        }
+      ]
+    }
+  ]
+}

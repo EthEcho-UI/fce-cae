@@ -1,0 +1,50 @@
+{
+  "level": "cae",
+  "part": "read6",
+  "sets": [
+    {
+      "id": "cae-read6-01",
+      "type": "crossText",
+      "title": "Should university teaching move back fully in person?",
+      "topic": "education",
+      "source": "original",
+      "intro": "Four students give their opinion on whether university teaching should return fully to in-person delivery. For questions 1-4, choose from the students A-D.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Priya",
+          "text": [
+            "I understand why recorded lectures are convenient, but I think something genuine is lost when students stop attending in person. Watching a lecture alone, often at double speed with a phone nearby, is simply not the same as sitting in a room where you can ask a question immediately or notice when the lecturer pauses on a point that matters. I have watched my own engagement decline over two years of mixed-format teaching: I understand less, retain less, and feel far less connected to my course than I did in my first year, when everything was delivered face to face. For me, the convenience of recordings does not come close to outweighing what is lost in terms of actual learning quality."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Marcus",
+          "text": [
+            "Flexible access to lectures has made it possible for me to continue a part-time job that pays my rent, something that would simply not be manageable if every session demanded my physical presence at a fixed time. I still attend small-group sessions in person, since those genuinely benefit from being face to face, but recorded lectures let me rearrange my week around paid work without falling behind. Removing that flexibility would not bring back some golden age of concentration; it would mainly push students like me out of higher education altogether, or force us into even more exhausting schedules than we already manage."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Elena",
+          "text": [
+            "I don't think the question should be framed as lectures versus seminars, because the two serve completely different purposes. A lecture is largely one-directional information delivery, and whether that happens in a hall or through a recording makes comparatively little difference to how much students absorb. Seminars and discussion groups are another matter entirely: their entire value comes from spontaneous, in-the-moment exchange between students and tutors, which simply cannot be replicated on a recording watched days later. My view, then, is that universities should feel free to record lectures freely, while protecting seminars and discussion-based teaching as strictly in-person activities."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Tomasz",
+          "text": [
+            "Much of this debate misses what I consider the real issue, which is how students are assessed rather than how material is delivered. Whether a lecture is live or recorded matters far less than whether an assessment genuinely tests understanding rather than the ability to recall or search for facts quickly. I have done well in both fully in-person and fully online modules, and in neither case did the delivery method meaningfully predict how much I actually learned; what mattered was whether the final assessment demanded real thought. Arguing endlessly about lecture format, while assessment design stays largely unexamined, strikes me as solving the wrong problem."
+          ]
+        }
+      ],
+      "questions": [
+        { "n": 1, "prompt": "Which student has a different opinion from the others about whether recorded lectures reduce learning quality?", "answer": "A", "explanation": "Priya alone argues that recordings clearly reduce engagement and learning; the others see recordings as broadly unproblematic or beside the point.", "tag": "attitude-opinion" },
+        { "n": 2, "prompt": "Which student explains how flexible access to lectures helped them manage work alongside their studies?", "answer": "B", "explanation": "Marcus explains that flexible access let him 'continue a part-time job that pays my rent'.", "tag": "detail" },
+        { "n": 3, "prompt": "Which student argues that the format of assessment matters more than how teaching is delivered?", "answer": "D", "explanation": "Tomasz says the 'real issue... is how students are assessed rather than how material is delivered'.", "tag": "main-idea" },
+        { "n": 4, "prompt": "Which student draws a distinction between lectures and seminars when discussing which should be in person?", "answer": "C", "explanation": "Elena distinguishes lectures, which can be recorded, from seminars, which she thinks should stay strictly in person.", "tag": "attitude-opinion" }
+      ]
+    }
+  ]
+}

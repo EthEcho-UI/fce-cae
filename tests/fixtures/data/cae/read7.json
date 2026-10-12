@@ -1,0 +1,47 @@
+{
+  "level": "cae",
+  "part": "read7",
+  "sets": [
+    {
+      "id": "cae-read7-01",
+      "type": "gappedText",
+      "title": "The hidden cost of fast fashion",
+      "topic": "environment",
+      "source": "original",
+      "intro": "Six paragraphs have been removed from the article. Choose from the paragraphs A-G the one which fits each gap. There is one extra paragraph you do not need to use.",
+      "text": [
+        "Fast fashion has transformed how quickly new clothing reaches shops, compressing a cycle that once took months into a matter of weeks. Retailers that can design, manufacture and distribute a new style within days now dominate much of the high street, and consumers have grown accustomed to constant novelty at remarkably low prices.",
+        "{{1}}",
+        "Campaigners have spent over a decade trying to draw attention to this hidden cost, with mixed success. Public awareness has undeniably increased, yet sales figures suggest that awareness alone rarely translates into significantly different purchasing behaviour.",
+        "{{2}}",
+        "Several major retailers have responded with sustainability pledges, promising recycled materials, improved working conditions, and more transparent supply chains within a decade.",
+        "{{3}}",
+        "Some smaller companies have taken a different approach altogether, building their entire business model around slower production and higher prices, betting that a growing minority of customers will pay more for garments that last considerably longer.",
+        "{{4}}",
+        "Meanwhile, secondhand and rental clothing platforms have grown rapidly, offering an alternative that does not require customers to give up variety altogether.",
+        "{{5}}",
+        "Policy-makers in several countries are now considering regulation rather than relying solely on voluntary industry pledges or shifting consumer habits.",
+        "{{6}}",
+        "Whether any of these measures meaningfully slows the underlying pace of the industry remains to be seen, but the debate itself suggests that fast fashion's low prices are no longer viewed as simply a consumer triumph."
+      ],
+      "options": [
+        { "id": "A", "text": "The environmental price of this speed is considerable: textile production is a major consumer of fresh water, and synthetic fibres shed microplastics with every wash. Garments are also increasingly treated as disposable, discarded after only a handful of wears, which pushes enormous volumes of still-usable clothing into landfill every single year across wealthy economies alone." },
+        { "id": "B", "text": "Behind the low prices lies a manufacturing chain that frequently relies on workers in low-income countries facing long hours, unsafe buildings and wages that fall well below a reasonable living standard. Investigations into specific factories have periodically brought brief public attention to these conditions, usually following a serious accident, before coverage fades again." },
+        { "id": "C", "text": "Critics remain sceptical that such pledges will meaningfully change behaviour, pointing out that production volumes, and therefore overall environmental impact, have continued rising even as individual sustainability promises multiply. Without independent verification, they argue, a decade-long pledge functions mainly as a public relations exercise rather than a binding commitment." },
+        { "id": "D", "text": "Even sympathetic observers admit this approach remains a small niche rather than a serious challenge to the dominant model, since higher prices put these garments out of reach for many shoppers, and genuine behaviour change would require most consumers to buy considerably less overall, not simply to buy differently." },
+        { "id": "E", "text": "Much of this growth has been driven less by environmental concern than by simple convenience: smartphone apps now make reselling a worn item almost as easy as buying a new one, removing the friction that once made secondhand shopping feel like a deliberate, time-consuming choice rather than a default option." },
+        { "id": "F", "text": "Proposed measures range from taxes on garments that cannot easily be recycled to mandatory reporting requirements covering water use and labour conditions throughout a company's entire supply chain, forcing disclosures that voluntary pledges have so far allowed companies to avoid." },
+        { "id": "G", "text": "Several fashion weeks have experimented with streaming runway shows live online, allowing ordinary consumers to watch entire collections before the clothes reach any shop floor." }
+      ],
+      "questions": [
+        { "n": 1, "answer": "A", "explanation": "A introduces the environmental 'hidden cost' that the following paragraph explicitly refers back to.", "tag": "cohesion" },
+        { "n": 2, "answer": "B", "explanation": "B explains the labour conditions behind 'the low prices', continuing the theme of hidden costs before the shift to retailer pledges.", "tag": "cohesion" },
+        { "n": 3, "answer": "C", "explanation": "C directly critiques the 'sustainability pledges' just mentioned, introducing scepticism about them.", "tag": "cohesion" },
+        { "n": 4, "answer": "D", "explanation": "D comments on the 'different approach' of slower, pricier production just described, explaining why it stays small.", "tag": "cohesion" },
+        { "n": 5, "answer": "E", "explanation": "E explains the reason behind the growth of secondhand and rental platforms just introduced.", "tag": "cohesion" },
+        { "n": 6, "answer": "F", "explanation": "F gives concrete examples of the 'regulation' just mentioned as an alternative to voluntary pledges.", "tag": "cohesion" }
+      ],
+      "extra": { "id": "G", "explanation": "Streaming runway shows is a real industry trend but is never otherwise mentioned in this text about costs and regulation, so G fits nowhere." }
+    }
+  ]
+}

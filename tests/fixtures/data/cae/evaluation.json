@@ -1,0 +1,124 @@
+{
+  "level": "cae",
+  "id": "cae-eval",
+  "title": "Level check",
+  "minutes": 30,
+  "sets": [
+    {
+      "id": "cae-eval-01",
+      "type": "mcCloze",
+      "title": "Working in distributed teams",
+      "topic": "work",
+      "source": "original",
+      "text": [
+        "Many organisations now {{1}} heavily on teams that rarely, if ever, meet in person. Communication that once took {{2}} spontaneously, through quick corridor conversations, now has to be deliberately scheduled.",
+        "Managers who fail to adapt can find that small misunderstandings {{3}} into serious conflict surprisingly quickly. {{4}} challenging, this shift has also forced many teams to document decisions far more carefully than before."
+      ],
+      "questions": [
+        { "n": 1, "options": ["rely", "depend", "count", "lean"], "answer": 0, "why": ["Correct: 'rely heavily on' is the natural fixed collocation.", "'Depend heavily on' is understandable but less idiomatic than 'rely heavily on' here.", "'Count heavily on' is not a standard English collocation.", "'Lean heavily on' usually implies a more informal or literal sense of support."], "tag": "collocation" },
+        { "n": 2, "options": ["place", "part", "turn", "spot"], "answer": 0, "why": ["Correct: 'take place' is the fixed collocation meaning 'to happen'.", "'Take part' means 'to participate', which does not fit here.", "'Take turn' is not a correct English collocation.", "'Take spot' is not a correct English collocation."], "tag": "collocation" },
+        { "n": 3, "options": ["escalate", "raise", "climb", "expand"], "answer": 0, "why": ["Correct: 'escalate into' is the natural verb pattern for a problem getting rapidly worse.", "'Raise into' is not a correct verb pattern.", "'Climb into' does not fit this abstract sense.", "'Expand into' suggests growth in size or scope, not conflict intensifying."], "tag": "verb-pattern" },
+        { "n": 4, "options": ["While", "Despite", "Because", "Unless"], "answer": 0, "why": ["Correct: 'while' + adjective introduces a concession ('while this is challenging...').", "'Despite' needs a noun phrase, not an adjective directly like this.", "'Because' would give a reason, not a concession.", "'Unless' introduces a condition, which does not fit here."], "tag": "linking" }
+      ]
+    },
+    {
+      "id": "cae-eval-02",
+      "type": "openCloze",
+      "title": "Automation and the future of work",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "Automation is often discussed {{1}} though it affects every profession equally, yet the reality is considerably more uneven. {{2}} far, roles involving repetitive, predictable tasks have been affected most.",
+        "{{3}} technology continues to improve, even some skilled professions may face disruption within a generation. {{4}} this means certain jobs will disappear entirely remains a matter of genuine debate among economists."
+      ],
+      "questions": [
+        { "n": 1, "answers": ["as"], "explanation": "'As though' introduces the (mistaken) comparison being criticised.", "tag": "linking" },
+        { "n": 2, "answers": ["so"], "explanation": "'So far' is the fixed phrase meaning 'up to now'.", "tag": "fixed-phrase" },
+        { "n": 3, "answers": ["as"], "explanation": "'As' here means 'while/since', introducing the ongoing improvement in technology.", "tag": "linking" },
+        { "n": 4, "answers": ["whether"], "explanation": "'Whether' introduces the indirect question about whether jobs will disappear.", "tag": "reported-speech" }
+      ]
+    },
+    {
+      "id": "cae-eval-03",
+      "type": "wordFormation",
+      "title": "The new space race",
+      "topic": "technology",
+      "source": "original",
+      "text": [
+        "Private companies have become increasingly {{1}} in space exploration, a field once dominated entirely by national governments. Reducing how {{2}} it is to launch satellites has opened the market to far smaller organisations.",
+        "Some {{3}} warn that minimal regulation could eventually make orbit dangerously crowded with debris. Even so, {{4}} investment in the sector continues to grow year on year."
+      ],
+      "questions": [
+        { "n": 1, "stem": "INVOLVE", "answers": ["involved"], "explanation": "The adjective 'involved' fits after 'increasingly' and before 'in'.", "tag": "word-formation-adjective" },
+        { "n": 2, "stem": "EXPENSE", "answers": ["expensive"], "explanation": "The adjective 'expensive' fits after 'how' to describe the cost of launching satellites.", "tag": "word-formation-adjective" },
+        { "n": 3, "stem": "REGULATE", "answers": ["regulators"], "explanation": "The plural noun 'regulators' (people who regulate) fits as the subject of 'warn'.", "tag": "word-formation-noun" },
+        { "n": 4, "stem": "GLOBE", "answers": ["global"], "explanation": "The adjective 'global' describes the kind of investment referred to.", "tag": "word-formation-adjective" }
+      ]
+    },
+    {
+      "id": "cae-eval-04",
+      "type": "transformation",
+      "title": "Key word transformation",
+      "topic": "everyday life",
+      "source": "original",
+      "questions": [
+        { "n": 1, "first": "As soon as the manager left, everyone relaxed.", "keyword": "SOONER", "before": "", "after": "had the manager left than everyone relaxed.", "answers": ["no sooner"], "explanation": "'No sooner...than' is an inverted structure meaning 'immediately after'.", "tag": "linking" },
+        { "n": 2, "first": "The team did not consider travel costs when planning the budget.", "keyword": "ACCOUNT", "before": "The team did not take travel costs", "after": "when planning the budget.", "answers": ["into account"], "explanation": "'Take into account' is a fixed phrase meaning 'to consider'.", "tag": "fixed-phrase" },
+        { "n": 3, "first": "He said that he had not taken the missing files.", "keyword": "DENIED", "before": "He", "after": "the missing files.", "answers": ["denied taking"], "explanation": "'Deny' + gerund reports someone saying something is not true.", "tag": "reported-speech" },
+        { "n": 4, "first": "It would be wiser to leave now rather than wait for the storm.", "keyword": "BETTER", "before": "We", "after": "leave now rather than wait for the storm.", "answers": ["had better"], "explanation": "'Had better' gives strong advice, similar to 'it would be wiser to'.", "tag": "modal" }
+      ]
+    },
+    {
+      "id": "cae-eval-05",
+      "type": "multipleChoice",
+      "title": "The case for handwriting",
+      "topic": "lifestyle",
+      "source": "original",
+      "intro": "Read the article and answer the questions.",
+      "text": [
+        "Despite the convenience of note-taking apps, a small but vocal minority of professionals insist on writing by hand, arguing that the physical act of writing, rather than typing, forces them to process information more deliberately rather than simply transcribing it.",
+        "Several small businesses selling notebooks and fountain pens report steady, rather than declining, demand over the past decade, suggesting this preference is not merely nostalgic but reflects a genuine, if minority, working style.",
+        "Critics counter that handwritten notes are harder to search, back up, or share instantly with colleagues, all of which matter considerably in most modern workplaces. Advocates respond that searchability is simply the wrong metric, since the value of handwriting lies in the slower thinking it demands, not in how conveniently the resulting notes can later be retrieved."
+      ],
+      "questions": [
+        { "n": 1, "stem": "What do advocates of handwriting argue is its main advantage over typing?", "options": ["It is faster than typing.", "It forces more deliberate processing of information.", "It is cheaper than using an app.", "It is easier to search later."], "answer": 1, "why": ["Speed is not claimed as an advantage anywhere in the text.", "Correct: writing 'forces them to process information more deliberately'.", "Cost is not discussed.", "The text argues the opposite: handwriting is harder to search."], "tag": "main-idea" },
+        { "n": 2, "stem": "What does the evidence from notebook and pen sales suggest?", "options": ["The preference is purely nostalgic.", "Demand has been steadily declining.", "The preference reflects a genuine alternative working style, not just nostalgia.", "Fountain pens are now more popular than notebooks."], "answer": 2, "why": ["The text explicitly says the preference is 'not merely nostalgic'.", "The text says demand has been 'steady, rather than declining'.", "Correct: steady demand suggests 'a genuine, if minority, working style'.", "No comparison between pens and notebooks is made."], "tag": "inference" },
+        { "n": 3, "stem": "What is the critics' main objection to handwritten notes?", "options": ["They take longer to write than typed notes.", "They are difficult to search, back up or share quickly.", "They are more expensive to produce.", "They cannot be read by other people at all."], "answer": 1, "why": ["Writing speed is not the critics' objection mentioned.", "Correct: critics say notes are 'harder to search, back up, or share instantly'.", "Cost is not mentioned as an objection.", "The text never claims handwritten notes cannot be read by others at all."], "tag": "detail" },
+        { "n": 4, "stem": "How do advocates respond to the criticism about searchability?", "options": ["They agree it is a serious flaw with no real answer.", "They argue searchability is not the right way to judge handwriting's value.", "They claim handwritten notes are actually easier to search.", "They suggest combining handwriting with voice recordings."], "answer": 1, "why": ["Advocates do not simply agree and give up; they offer a counter-argument.", "Correct: they say 'searchability is simply the wrong metric'.", "Advocates do not claim handwriting is easier to search.", "Voice recordings are not mentioned."], "tag": "purpose-function" }
+      ]
+    },
+    {
+      "id": "cae-eval-06",
+      "type": "gappedText",
+      "title": "Tackling urban noise",
+      "topic": "environment",
+      "source": "original",
+      "intro": "Four paragraphs have been removed. Choose from A-E. There is one extra paragraph.",
+      "text": [
+        "City planners have begun paying closer attention to ambient noise levels, not merely as a nuisance but as a measurable factor in public health outcomes.",
+        "{{1}}",
+        "Several cities have since introduced quieter paving materials on major roads. Reducing traffic noise alone, however, is rarely sufficient.",
+        "{{2}}",
+        "Parks and green spaces, researchers note, do more than simply look pleasant. Not all interventions have proved equally effective.",
+        "{{3}}",
+        "Residents in several trial areas reported barely noticing any difference at all.",
+        "{{4}}",
+        "For this reason, several cities are now combining several smaller measures rather than relying on any single solution."
+      ],
+      "options": [
+        { "id": "A", "text": "Long-term exposure to constant low-level noise has been linked to raised stress hormones and poorer sleep quality, even among people who report feeling unaffected by it." },
+        { "id": "B", "text": "They appear to meaningfully reduce how loud a street feels to pedestrians, even when a formal noise meter detects comparatively little actual change." },
+        { "id": "C", "text": "One widely publicised scheme, which simply lowered the speed limit on a handful of residential streets, achieved disappointingly little measurable change." },
+        { "id": "D", "text": "No single measure, on its own, appears capable of solving a problem that comes from so many overlapping sources at once." },
+        { "id": "E", "text": "Several airports have introduced steeper landing fees for the loudest aircraft in an effort to encourage quieter fleets." }
+      ],
+      "questions": [
+        { "n": 1, "answer": "A", "explanation": "A gives the health evidence that justifies treating noise as a public health issue, leading into the paving-material response.", "tag": "cohesion" },
+        { "n": 2, "answer": "B", "explanation": "B explains the extra benefit of green spaces that the following sentence refers to.", "tag": "cohesion" },
+        { "n": 3, "answer": "C", "explanation": "C gives the example of an ineffective intervention that 'residents... barely noticing any difference' then confirms.", "tag": "cohesion" },
+        { "n": 4, "answer": "D", "explanation": "D states the conclusion that no single measure works, which 'for this reason' then explains the response to.", "tag": "cohesion" }
+      ],
+      "extra": { "id": "E", "explanation": "Airport landing fees are a related noise-reduction idea but are never otherwise mentioned in this text about urban street noise, so E fits nowhere." }
+    }
+  ]
+}
