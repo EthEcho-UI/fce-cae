@@ -1,6 +1,6 @@
 // Service worker for First & Advanced Prep. VERSION and ASSETS below are rewritten by
 // tools/build_sw.py before each commit — do not hand-edit those two lines.
-const VERSION = "6f55c6dd2c24"; // build:version
+const VERSION = "bf63e145a166"; // build:version
 const CACHE_NAME = `fcecae-${VERSION}`;
 const ASSETS = [
   "css/app.css",

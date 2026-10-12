@@ -232,7 +232,7 @@ function renderResults(level, test, sets, results) {
         certified grade.</p>
       <h2 class="section-heading">By part</h2>
       <ul class="plain-list">
-        ${results.byPart.map((p) => `<li>${esc(p.part)}: ${p.correct}/${p.total} correct (${p.marks}/${p.maxMarks} marks)</li>`).join('')}
+        ${results.byPart.map((p) => `<li>${esc(partMeta(level, p.part)?.label || p.part)}: ${p.correct}/${p.total} correct (${p.marks}/${p.maxMarks} marks)</li>`).join('')}
       </ul>
     </section>
   `;
