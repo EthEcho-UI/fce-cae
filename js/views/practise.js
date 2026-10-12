@@ -29,6 +29,16 @@ export async function render(ctx) {
     <section>
       <h2 class="section-heading">More practice</h2>
       <ul class="part-list">
+        <li><a class="part-row" href="#/training">
+          <span class="part-row-main"><span class="part-label">${icons.practise} Training</span>
+            <span class="part-blurb">Short drills of single questions: grammar, vocabulary, word formation or your weak areas.</span></span>
+          <span class="part-row-chevron">${icons.chevronRight}</span>
+        </a></li>
+        <li><a class="part-row" href="#/level">
+          <span class="part-row-main"><span class="part-label">${icons.flag} Level estimate</span>
+            <span class="part-blurb">An adaptive check from B1 to C2 that estimates where you are.</span></span>
+          <span class="part-row-chevron">${icons.chevronRight}</span>
+        </a></li>
         <li><a class="part-row" href="#/tests">
           <span class="part-row-main"><span class="part-label">${icons.clock} Full practice tests</span>
             <span class="part-blurb">A complete, timed Reading &amp; Use of English paper.</span></span>

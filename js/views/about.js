@@ -13,6 +13,10 @@ export async function render() {
     <p>All scores shown (practice test marks, the evaluation level estimate) are indicative only — the
       official Cambridge English Scale conversion varies by paper and administration and is not reproduced
       here.</p>
+    <p>The <strong>Level estimate</strong> checks grammar and vocabulary only (short gapped sentences, B1 to C2).
+      It does not test reading speed, listening, writing or speaking, and its question bank has not been
+      calibrated on real candidates, so a few questions can shift the result by a level.
+      <strong>Training</strong> drills are single questions taken from the Use of English exercises.</p>
     <p>Your data (progress, mistakes, flashcards, settings, imported sets) is stored only in this browser.
       Nothing is sent to a server.</p>
     <h2 class="section-heading">How to import your own material</h2>

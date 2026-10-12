@@ -665,15 +665,55 @@ button, input, select, textarea { font-family: inherit; font-size: inherit; colo
 code { background: var(--accent-soft); color: var(--accent); padding: 1px 5px; border-radius: 4px; font-size: 0.88em; }
 .disclaimer { font-style: italic; color: var(--ink-soft); }
 
+/* ---------- training & level estimate ---------- */
+.setup-group { margin: 22px 0; }
+.choice-grid { display: grid; grid-template-columns: 1fr; gap: 8px; }
+.choice-row { display: flex; gap: 8px; flex-wrap: wrap; }
+.choice {
+  display: flex; flex-direction: column; gap: 2px; text-align: left;
+  border: 1px solid var(--hairline); background: var(--paper-raised); color: var(--ink);
+  border-radius: var(--radius); padding: 10px 14px; min-height: 44px; cursor: pointer; font: inherit;
+}
+.choice-short { flex: 1; min-width: 110px; align-items: center; }
+.choice-title { font-weight: 600; }
+.choice-blurb { color: var(--ink-soft); font-size: 0.85rem; }
+.choice-active { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 3px 0 0 var(--accent); }
+.choice-short.choice-active { box-shadow: none; }
+.choice:disabled { opacity: 0.55; cursor: not-allowed; }
+.check-row { display: flex; align-items: flex-start; gap: 10px; margin: 14px 0 0; cursor: pointer; }
+.check-row input { margin-top: 4px; width: 18px; height: 18px; accent-color: var(--accent); flex-shrink: 0; }
+
+.train-card { margin: 14px 0; }
+.train-context { font-family: var(--serif); font-size: 1.08rem; line-height: 1.55; margin: 0 0 12px; }
+.optgrid { display: grid; grid-template-columns: 1fr; gap: 8px; margin-bottom: 4px; }
+.train-tag { color: var(--ink-soft); font-size: 0.8rem; margin-left: 8px; text-transform: capitalize; }
+.train-score { font-size: 2rem; font-weight: 700; margin: 0; }
+.train-pct { color: var(--ink-soft); font-size: 1.1rem; font-weight: 400; margin-left: 8px; }
+.train-missed { color: var(--ink-soft); margin: 6px 0 0; text-transform: none; }
+.train-summary .exercise-actions { margin-bottom: 0; }
+
+.lvl-progress { width: 100%; height: 8px; margin: 4px 0 14px; accent-color: var(--accent); }
+.lvl-card .train-context { font-size: 1.2rem; }
+.gap-blank { display: inline-block; min-width: 4.5em; border-bottom: 2px solid var(--ink-soft); margin: 0 2px; }
+.lvl-big { font-size: 3rem; font-weight: 700; line-height: 1.1; margin: 0 0 8px; color: var(--accent); }
+.lvl-line { margin: 6px 0; }
+.lvl-note { margin-top: 14px; }
+.lvl-item { margin: 10px 0; padding: 12px 14px; }
+.lvl-item > summary { cursor: pointer; display: flex; gap: 10px; align-items: baseline; }
+.lvl-sum-text { font-family: var(--serif); }
+.lvl-item[open] > summary { margin-bottom: 8px; }
+
 /* =========================================================================
    DESKTOP LAYOUT — base/mobile rules above always apply first in source
    order; these media blocks override them so they win the cascade.
    ========================================================================= */
 @media (min-width: 500px) {
   .quick-link-list { grid-template-columns: 1fr 1fr; column-gap: 20px; }
+  .optgrid { grid-template-columns: 1fr 1fr; }
 }
 
 @media (min-width: 760px) {
+  .choice-grid { grid-template-columns: 1fr 1fr; }
   .filter-row { flex-direction: row; }
   .filter-row > * { flex: 1; }
   .brand-name { display: inline; }

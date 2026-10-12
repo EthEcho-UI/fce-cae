@@ -1,6 +1,6 @@
 // Service worker for First & Advanced Prep. VERSION and ASSETS below are rewritten by
 // tools/build_sw.py before each commit — do not hand-edit those two lines.
-const VERSION = "bf63e145a166"; // build:version
+const VERSION = "2f67dd729d8a"; // build:version
 const CACHE_NAME = `fcecae-${VERSION}`;
 const ASSETS = [
   "css/app.css",
@@ -25,6 +25,7 @@ const ASSETS = [
   "data/fce/uoe3.json",
   "data/fce/uoe4.json",
   "data/fce/vocab.json",
+  "data/level/placement.json",
   "fonts/OFL.txt",
   "fonts/source-serif-4-latin-400-italic.woff2",
   "fonts/source-serif-4-latin-400-normal.woff2",
@@ -45,6 +46,7 @@ const ASSETS = [
   "js/mistakes.js",
   "js/normalize.js",
   "js/overrides.js",
+  "js/placement.js",
   "js/players.js",
   "js/progress.js",
   "js/router.js",
@@ -54,6 +56,7 @@ const ASSETS = [
   "js/store.js",
   "js/testEngine.js",
   "js/teststate.js",
+  "js/training.js",
   "js/validate.js",
   "js/views/about.js",
   "js/views/evaluation.js",
@@ -62,6 +65,7 @@ const ASSETS = [
   "js/views/flashcards.js",
   "js/views/home.js",
   "js/views/import.js",
+  "js/views/levelEstimate.js",
   "js/views/mistakes.js",
   "js/views/more.js",
   "js/views/notFound.js",
@@ -69,6 +73,7 @@ const ASSETS = [
   "js/views/progress.js",
   "js/views/settings.js",
   "js/views/tests.js",
+  "js/views/training.js",
   "js/views/vocab.js",
   "js/views/vocabQuiz.js",
   "manifest.webmanifest",

@@ -10,6 +10,8 @@ import * as exercises from './views/exercises.js';
 import * as exerciseSet from './views/exerciseSet.js';
 import * as tests from './views/tests.js';
 import * as evaluation from './views/evaluation.js';
+import * as training from './views/training.js';
+import * as levelEstimate from './views/levelEstimate.js';
 import * as mistakes from './views/mistakes.js';
 import * as vocab from './views/vocab.js';
 import * as vocabQuiz from './views/vocabQuiz.js';
@@ -37,6 +39,8 @@ const ROUTES = [
   [/^\/tests$/, tests],
   [/^\/tests\/([^/]+)$/, tests],
   [/^\/evaluation$/, evaluation],
+  [/^\/training$/, training],
+  [/^\/level$/, levelEstimate],
   [/^\/mistakes$/, mistakes],
   [/^\/vocab$/, vocab],
   [/^\/vocab\/([^/]+)$/, vocab],
@@ -160,8 +164,9 @@ function wireServiceWorker() {
       });
     });
     let refreshed = false;
+    const hadController = !!navigator.serviceWorker.controller;
     navigator.serviceWorker.addEventListener('controllerchange', () => {
-      if (refreshed) return;
+      if (refreshed || !hadController) return; // first install: the page is already current
       refreshed = true;
       location.reload();
     });

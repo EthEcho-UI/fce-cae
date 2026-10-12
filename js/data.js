@@ -1,5 +1,6 @@
 // Loading & merging exam content: bundled data/<level>/*.json plus user-imported sets.
 import { get, set } from './store.js';
+import { loadPlacement } from './placement.js';
 
 export const PARTS = {
   fce: [
@@ -127,6 +128,10 @@ export async function findSetById(level, id) {
   const evalData = await loadEvaluation(level);
   const found = (evalData.sets || []).find((s) => s.id === id);
   if (found) return found;
+  if (id === 'placement') {
+    const bank = await loadPlacement();
+    return { id, type: 'multipleChoice', title: 'Level estimate', questions: bank.items };
+  }
   return null;
 }
 

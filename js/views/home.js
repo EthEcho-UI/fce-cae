@@ -48,6 +48,8 @@ export async function render(ctx) {
       <h2 class="section-heading">Quick links</h2>
       <ul class="quick-link-list">
         <li><a class="quick-link" href="#/practise">${icons.practise}Exercises</a></li>
+        <li><a class="quick-link" href="#/training">${icons.practise}Training</a></li>
+        <li><a class="quick-link" href="#/level">${icons.flag}Level estimate</a></li>
         <li><a class="quick-link" href="#/tests">${icons.clock}Practice tests</a></li>
         <li><a class="quick-link" href="#/evaluation">${icons.flag}Evaluation test</a></li>
         <li><a class="quick-link" href="#/vocab">${icons.search}Vocabulary</a></li>

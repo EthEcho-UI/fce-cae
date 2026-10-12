@@ -697,6 +697,339 @@ def test_real_data_no_overflow(browser, real_base):
                     context.close()
 
 
+# ---------------------------------------------------------------------------
+# Training drills and level estimate (run against REAL data: the pool and bank are real)
+# ---------------------------------------------------------------------------
+
+def norm_ws(t):
+    return " ".join(t.split())
+
+
+def answer_map(page, level="fce"):
+    rows = page.evaluate(
+        """async (level) => {
+          const t = await import('./js/training.js');
+          const pool = await t.buildPool(level);
+          return pool.map((it) => ({
+            ctx: it.type === 'transformation' ? it.q.first : it.context,
+            type: it.type,
+            ans: it.type === 'mcCloze' ? it.q.options[it.q.answer] : it.q.answers[0],
+          }));
+        }""",
+        level,
+    )
+    return {norm_ws(r["ctx"]): r for r in rows}
+
+
+def answer_cards(page, amap, wrong=()):
+    """Answer every .train-card from the answer map; indexes in `wrong` get a wrong answer."""
+    cards = page.locator(".train-card")
+    for i in range(cards.count()):
+        card = cards.nth(i)
+        entry = amap[norm_ws(card.locator(".train-context").inner_text())]
+        if entry["type"] == "mcCloze":
+            opts = card.locator(".optbtn")
+            texts = [norm_ws(opts.nth(k).inner_text())[3:] for k in range(opts.count())]
+            right = texts.index(entry["ans"])
+            opts.nth((right + 1) % len(texts) if i in wrong else right).click()
+        else:
+            card.locator("input").fill("zzzqqnotaword" if i in wrong else entry["ans"])
+
+
+def test_training(browser, base):
+    ctx = Ctx(browser, base)
+    page = ctx.page
+    try:
+        ctx.goto_home()
+        ctx.goto_hash("/training")
+        poll(page, "!!document.querySelector('[data-focus]')")
+        record("training: six focus options on the setup page", page.locator("[data-focus]").count() == 6,
+               str(page.locator("[data-focus]").count()))
+        record("training: weak-areas focus is disabled until there is history",
+               page.locator('[data-focus="weak"]').is_disabled())
+        record("training: linked from Practise and Home",
+               'href="#/training"' in page.evaluate("fetch('js/views/practise.js').then(r => r.text())")
+               and 'href="#/training"' in page.evaluate("fetch('js/views/home.js').then(r => r.text())"))
+
+        amap = answer_map(page)
+        pool_n = page.evaluate("import('./js/training.js').then(t => t.buildPool('fce')).then(p => p.length)")
+        record("training: pool is built from real UoE content", pool_n >= 100, f"pool={pool_n}")
+        gaps_ok = page.evaluate(
+            """import('./js/training.js').then((t) => t.buildPool('fce')).then((pool) => pool.filter(
+              (it) => it.type !== 'transformation' && (!it.context.includes('_____') || /\\{\\{/.test(it.context))).length)"""
+        )
+        record("training: every drill sentence has exactly its own gap and no raw markers", gaps_ok == 0, f"bad={gaps_ok}")
+
+        # --- drill 1: blank submit -> everything wrong, saved to the notebook
+        page.click('[data-length="10"]')
+        page.click("#train-start")
+        poll(page, "document.querySelectorAll('.train-card').length === 10")
+        record("training: a 10-question drill renders 10 cards", True)
+        page.click(".submit-training-btn")
+        poll(page, "!!document.querySelector('#train-score')")
+        record("training: blank submit scores 0 / 10", norm_ws(page.locator("#train-score").inner_text()) == "0 / 10")
+        record("training: feedback shown on every card", page.locator(".train-card .feedback-incorrect").count() == 10)
+        mistakes = page.evaluate("JSON.parse(localStorage.getItem('fcecae.mistakes.fce') || '[]')")
+        record("training: wrong answers saved with explanation + source",
+               len(mistakes) == 10 and all(m["source"] == "training" and m["explanation"] and m["context"] for m in mistakes),
+               f"n={len(mistakes)}")
+
+        # --- drill 2 via Train again: answer 8 right, 2 wrong
+        page.click("#train-again")
+        poll(page, "document.querySelectorAll('.train-card').length === 10 && !document.querySelector('#train-score')")
+        answer_cards(page, amap, wrong={0, 1})
+        record("training: answered counter updates", "10 of 10" in page.locator(".timer-clock").inner_text())
+        page.click(".submit-training-btn")
+        poll(page, "!!document.querySelector('#train-score')")
+        score = norm_ws(page.locator("#train-score").inner_text())
+        record("training: 8 right + 2 wrong scores 8 / 10", score == "8 / 10", score)
+
+        # override: typed wrong answer can be counted
+        typed_wrong = page.locator(".train-card .feedback-incorrect .override-btn")
+        if typed_wrong.count():
+            typed_wrong.first.click()
+            record("training: 'count my answer as correct' raises the score",
+                   norm_ws(page.locator("#train-score").inner_text()) == "9 / 10")
+        else:
+            record("training: override button available on a typed miss", True, "both misses were multiple choice")
+
+        # --- progress / weak focus after history exists
+        ctx.goto_hash("/")
+        ctx.goto_hash("/training")
+        poll(page, "!!document.querySelector('[data-focus]')")
+        record("training: weak-areas focus unlocks once there are open mistakes",
+               not page.locator('[data-focus="weak"]').is_disabled())
+        record("training: recent drills listed", page.locator(".plain-list li").count() >= 2)
+
+        # --- focused drill + timer
+        page.click('[data-focus="wordFormation"]')
+        page.click('[data-length="15"]')
+        page.check("#train-timed")
+        page.click("#train-start")
+        poll(page, "document.querySelectorAll('.train-card').length > 0")
+        n_cards = page.locator(".train-card").count()
+        stems = page.locator(".train-card .transform-keyword").count()
+        record("training: word-formation focus gives only word-formation cards (15 asked)",
+               n_cards == 15 and stems == 15, f"cards={n_cards} stems={stems}")
+        clock = page.locator(".timer-warn").inner_text()
+        record("training: timed mode shows a countdown (15 min)", re.match(r"1[45]:\d\d", clock) is not None, clock)
+
+        # --- layout at phone width
+        page.set_viewport_size({"width": 390, "height": 844})
+        time.sleep(0.2)
+        overflow = page.evaluate("document.documentElement.scrollWidth - window.innerWidth")
+        record("training: no horizontal overflow at 390px", overflow <= 0, f"overflow={overflow}")
+        ctx.check_clean("training")
+    except Exception as e:  # noqa: BLE001
+        record("training flow", False, str(e))
+    finally:
+        ctx.close()
+
+
+def test_training_logic(browser, base):
+    ctx = Ctx(browser, base)
+    try:
+        ctx.goto_home()
+        res = ctx.page.evaluate(
+            """async () => {
+              const t = await import('./js/training.js');
+              const mk = (id, n) => ({ key: id + '::' + n, setId: id, tag: 'x' });
+              const pool = []; for (let s = 0; s < 4; s++) for (let n = 1; n <= 8; n++) pool.push(mk('s' + s, n));
+              const out = {};
+              const first = t.pickItems(pool, 10, {});
+              out.size = first.length;
+              out.unique = new Set(first.map((i) => i.key)).size;
+              out.capped = t.pickItems(pool.slice(0, 3), 10, {}).length;
+              // 20 'seen right' vs 12 unseen: unseen should dominate a 10-draw on average
+              const seen = {}; pool.slice(0, 20).forEach((i) => { seen[i.key] = { r: 1 }; });
+              let unseen = 0; for (let k = 0; k < 200; k++) unseen += t.pickItems(pool, 10, seen).filter((i) => !seen[i.key]).length;
+              out.unseenShare = unseen / 2000;
+              const seenWrong = {}; pool.slice(0, 16).forEach((i) => { seenWrong[i.key] = { r: 0 }; });
+              const seenRight = {}; pool.slice(0, 16).forEach((i) => { seenRight[i.key] = { r: 1 }; });
+              let w = 0, r = 0;
+              for (let k = 0; k < 200; k++) {
+                w += t.pickItems(pool, 6, Object.assign({}, seenWrong, Object.fromEntries(pool.slice(16).map((i) => [i.key, { r: 1 }])))).filter((i) => seenWrong[i.key]).length;
+                r += t.pickItems(pool, 6, Object.assign({}, seenRight, Object.fromEntries(pool.slice(16).map((i) => [i.key, { r: 0 }])))).filter((i) => seenRight[i.key]).length;
+              }
+              out.wrongPreferred = w > r;
+              out.timeLimit = t.timeLimitSeconds([{ type: 'mcCloze' }, { type: 'transformation' }]);
+              out.ctx = t.gapContext({ type: 'openCloze', text: ['First one here. The thing {{1}} we saw was odd, said {{2}} guide.'],
+                questions: [{ n: 1, answers: ['that'], tag: 'relative-clause' }, { n: 2, answers: ['the'], tag: 'article-determiner' }] }, 1);
+              return out;
+            }"""
+        )
+        record("training logic: picks the requested number, no duplicates", res["size"] == 10 and res["unique"] == 10, str(res))
+        record("training logic: small pool is not over-drawn", res["capped"] == 3)
+        record("training logic: unseen questions are favoured over answered-correctly ones", res["unseenShare"] > 0.4, f"{res['unseenShare']:.2f}")
+        record("training logic: previously-wrong questions are favoured over previously-right ones", res["wrongPreferred"])
+        record("training logic: time limit = 60s + 120s for transformation", res["timeLimit"] == 180)
+        record("training logic: gap sentence includes lead-in and fills other gaps",
+               res["ctx"] == "First one here. The thing _____ we saw was odd, said the guide.", res["ctx"])
+    except Exception as e:  # noqa: BLE001
+        record("training logic", False, str(e))
+    finally:
+        ctx.close()
+
+
+LEVEL_LOGIC_JS = """async () => {
+  const p = await import('./js/placement.js');
+  const bank = await p.loadPlacement();
+  const B = (cefr, correct) => ({ cefr, correct, total: 8 });
+  const out = {};
+  out.next = [
+    p.nextLevel([]), p.nextLevel([B('B2', 6)]), p.nextLevel([B('B2', 5)]),
+    p.nextLevel([B('B2', 6), B('C1', 6)]), p.nextLevel([B('B2', 6), B('C1', 5)]),
+    p.nextLevel([B('B2', 6), B('C1', 6), B('C2', 8)]), p.nextLevel([B('B2', 2), B('B1', 8)]),
+  ];
+  const e = (...b) => { const r = p.estimate(b); return r.level + (r.close ? '~' + r.close : ''); };
+  out.est = [
+    e(B('B2', 8), B('C1', 7), B('C2', 6)), e(B('B2', 8), B('C1', 7), B('C2', 5)), e(B('B2', 7), B('C1', 5)),
+    e(B('B2', 7), B('C1', 2)), e(B('B2', 3), B('B1', 7)), e(B('B2', 5), B('B1', 6)), e(B('B2', 3), B('B1', 5)), e(B('B2', 2), B('B1', 2)),
+  ];
+  const ids = p.drawBlock(bank.items, 'C1');
+  const items = ids.map((id) => bank.items.find((i) => i.id === id));
+  out.block = { n: ids.length, unique: new Set(ids).size, allC1: items.every((i) => i.cefr === 'C1'),
+    grammar: items.filter((i) => i.skill === 'grammar').length };
+  const again = p.drawBlock(bank.items, 'C1', ids);
+  out.exclude = again.length === 4 && again.every((id) => !ids.includes(id));
+  out.bank = ['B1', 'B2', 'C1', 'C2'].map((c) => bank.items.filter((i) => i.cefr === c).length);
+  out.scale = p.SCALE;
+  out.rec = [p.recommendation('B2').exam, p.recommendation('C1').exam, p.recommendation('Below B1').exam];
+  return out;
+}"""
+
+
+def test_level_logic(browser, base):
+    ctx = Ctx(browser, base)
+    try:
+        ctx.goto_home()
+        r = ctx.page.evaluate(LEVEL_LOGIC_JS)
+        record("level logic: ladder routes B2 -> C1/B1 and stops at the ends",
+               r["next"] == ["B2", "C1", "B1", "C2", None, None, None], str(r["next"]))
+        record("level logic: estimates, borderline flags and 'Below B1'",
+               r["est"] == ["C2", "C1~C2", "B2~C1", "B2", "B1", "B1~B2", "Below B1~B1", "Below B1"], str(r["est"]))
+        record("level logic: a block is 8 unique items of one level, half grammar",
+               r["block"] == {"n": 8, "unique": 8, "allC1": True, "grammar": 4}, str(r["block"]))
+        record("level logic: a second draw avoids already-used items", r["exclude"])
+        record("level logic: bank has at least 10 items per level", all(n >= 10 for n in r["bank"]), str(r["bank"]))
+        record("level logic: Cambridge English Scale ranges (B1 140-159 ... C2 200-230)",
+               r["scale"] == {"B1": [140, 159], "B2": [160, 179], "C1": [180, 199], "C2": [200, 230]})
+        record("level logic: recommended exam", r["rec"] == ["fce", "cae", "fce"], str(r["rec"]))
+    except Exception as e:  # noqa: BLE001
+        record("level logic", False, str(e))
+    finally:
+        ctx.close()
+
+
+def bank_by_stem(page):
+    items = page.evaluate("import('./js/placement.js').then(p => p.loadPlacement()).then(b => b.items)")
+    return {norm_ws(i["stem"].replace("___", "")): i for i in items}
+
+
+def run_level(page, by_stem, mode):
+    """Answer the whole estimate. mode: 'all-right' | 'unsure'. Returns number of questions asked."""
+    asked = 0
+    while True:
+        poll(page, "!!document.querySelector('.lvl-card') || !!document.querySelector('#lvl-level')")
+        if page.locator("#lvl-level").count():
+            return asked
+        stem = norm_ws(page.locator(".lvl-card .train-context").inner_text())
+        asked += 1
+        if mode == "unsure":
+            page.click("#lvl-unsure")
+        else:
+            page.locator(".lvl-card .optbtn").nth(by_stem[stem]["answer"]).click()
+        time.sleep(0.05)
+
+
+def test_level_estimate(browser, base):
+    ctx = Ctx(browser, base)
+    page = ctx.page
+    try:
+        ctx.goto_home()
+        ctx.goto_hash("/level")
+        poll(page, "!!document.querySelector('#lvl-start')")
+        record("level: intro explains grammar/vocabulary-only scope",
+               "grammar and vocabulary only" in page.locator(".page-level").inner_text())
+        by_stem = bank_by_stem(page)
+
+        # resume after reload
+        page.click("#lvl-start")
+        poll(page, "!!document.querySelector('.lvl-card')")
+        for _ in range(3):
+            page.click("#lvl-unsure")
+            time.sleep(0.05)
+        page.reload(wait_until="load")
+        poll(page, "!!document.querySelector('#lvl-progress')")
+        record("level: resumes at question 4 after a reload", "question 4 of 8" in page.locator("#lvl-progress").inner_text(),
+               page.locator("#lvl-progress").inner_text())
+
+        # weak path: never sure -> B2 fail, B1 fail -> Below B1 after 16 questions
+        asked = 1 + run_level(page, by_stem, "unsure")
+        # first 3 + the one currently shown were answered inside run_level; recompute from state
+        state = page.evaluate("JSON.parse(localStorage.getItem('fcecae.placement.state'))")
+        total = sum(len(b["answers"]) for b in state["blocks"])
+        record("level: all 'I don't know' ends after 16 questions at 'Below B1'",
+               total == 16 and page.locator("#lvl-level").inner_text() == "Below B1",
+               f"total={total} level={page.locator('#lvl-level').inner_text()}")
+        record("level: below-B1 text does not claim a scale range", "below the Cambridge English Scale range" in page.locator(".lvl-result").inner_text())
+        mistakes = page.evaluate("JSON.parse(localStorage.getItem('fcecae.mistakes.fce') || '[]')")
+        record("level: missed items saved to the notebook with explanations",
+               len(mistakes) == 16 and all(m["source"] == "level-estimate" and m["explanation"] for m in mistakes), f"n={len(mistakes)}")
+        record("level: review lists all questions, misses open",
+               page.locator(".lvl-item").count() == 16 and page.locator(".lvl-item[open]").count() == 16)
+
+        # mistakes notebook can retry a level-estimate miss
+        ctx.goto_hash("/mistakes")
+        poll(page, "!!document.querySelector('.mistake-card')")
+        page.locator(".mistake-card button:has-text('Retry')").first.click()
+        poll(page, "!!document.querySelector('.mistake-retry-slot .optbtn')")
+        record("level: a level-estimate mistake can be retried from the notebook",
+               page.locator(".mistake-retry-slot .optbtn").count() == 4)
+
+        # strong path
+        ctx.goto_hash("/level")
+        poll(page, "!!document.querySelector('#lvl-retake')")
+        page.click("#lvl-retake")
+        poll(page, "!!document.querySelector('#lvl-start')")
+        page.click("#lvl-start")
+        asked = run_level(page, by_stem, "all-right")
+        record("level: all correct climbs B2 -> C1 -> C2 in 24 questions and reports C2",
+               asked == 24 and page.locator("#lvl-level").inner_text() == "C2", f"asked={asked}")
+        txt = page.locator(".lvl-result").inner_text()
+        record("level: C2 result shows the 200–230 scale range and an estimate-only disclaimer",
+               "200–230" in txt and "Estimate only" in txt)
+        open_after = page.evaluate("JSON.parse(localStorage.getItem('fcecae.mistakes.fce') || '[]').filter(m => !m.resolved).length")
+        record("level: all-correct run resolves earlier mistakes it re-asks (some of the 16 cleared)",
+               open_after < 16, f"open={open_after}")
+        hist = page.evaluate("JSON.parse(localStorage.getItem('fcecae.history.placement') || '[]')")
+        record("level: results are kept in history", [h["level"] for h in hist] == ["C2", "Below B1"], str([h["level"] for h in hist]))
+
+        # CTA switches the exam level
+        page.click("#lvl-go")
+        poll(page, "!!document.querySelector('#level-switch')")
+        poll(page, "document.querySelector('#level-switch button.segmented-btn-active')?.textContent.trim() === 'CAE'")
+        record("level: recommendation button switches to CAE", True)
+
+        # phone layout, question + result
+        page.set_viewport_size({"width": 390, "height": 844})
+        ctx.goto_hash("/level")
+        poll(page, "!!document.querySelector('#lvl-level')")
+        record("level: result has no horizontal overflow at 390px",
+               page.evaluate("document.documentElement.scrollWidth - window.innerWidth") <= 0)
+        page.click("#lvl-retake")
+        poll(page, "!!document.querySelector('#lvl-start')")
+        page.click("#lvl-start")
+        poll(page, "!!document.querySelector('.lvl-card')")
+        record("level: question has no horizontal overflow at 390px",
+               page.evaluate("document.documentElement.scrollWidth - window.innerWidth") <= 0)
+        ctx.check_clean("level estimate")
+    except Exception as e:  # noqa: BLE001
+        record("level estimate flow", False, str(e))
+    finally:
+        ctx.close()
+
+
 def main():
     import argparse
     import tempfile
@@ -736,6 +1069,10 @@ def main():
                 real_proc, real_base = start_server(fixtures=False)
                 try:
                     test_real_data_no_overflow(browser, real_base)
+                    test_training_logic(browser, real_base)
+                    test_training(browser, real_base)
+                    test_level_logic(browser, real_base)
+                    test_level_estimate(browser, real_base)
                 finally:
                     stop_server(real_proc)
             finally:

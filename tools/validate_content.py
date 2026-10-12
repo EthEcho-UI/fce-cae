@@ -198,6 +198,87 @@ def check_set(s, level, part, strict_count=True):
             err(where, "every section should be the answer at least once")
 
 
+GRAMMAR_TAGS = set("tense modal passive conditional reported-speech relative-clause article-determiner comparison quantifier pronoun-reference verb-pattern preposition linking".split())
+VOCAB_TAGS = set("collocation phrasal-verb idiom fixed-phrase meaning-in-context".split())
+
+
+def check_placement(root, strict):
+    """data/level/placement.json: the level-estimate item bank (12 per CEFR level)."""
+    p = root / "level" / "placement.json"
+    if not p.exists():
+        (errors if strict else warnings).append(f"missing {p}")
+        return
+    d = load(p)
+    if d is None:
+        return
+    items = d.get("items") or []
+    ids = set()
+    by_level = {}
+    for it in items:
+        iid = it.get("id", "?")
+        w = f"{p} {iid}"
+        if iid in ids:
+            err(w, "duplicate id")
+        ids.add(iid)
+        c = it.get("cefr")
+        if c not in ("B1", "B2", "C1", "C2"):
+            err(w, f"bad cefr {c!r}")
+            continue
+        if not re.fullmatch(rf"{c.lower()}-\d\d", str(iid)):
+            err(w, f"id must be {c.lower()}-NN")
+        by_level.setdefault(c, []).append(it)
+        stem, opts, ans, why = it.get("stem"), it.get("options"), it.get("answer"), it.get("why")
+        if not is_str(stem) or stem.count("___") != 1:
+            err(w, "stem needs exactly one ___ gap")
+        elif len(stem.split()) > 32:
+            err(w, "stem too long (>32 words)")
+        if not (isinstance(opts, list) and len(opts) == 4 and all(is_str(o) for o in opts) and len(set(o.lower() for o in opts)) == 4):
+            err(w, "options must be 4 distinct non-empty strings")
+            continue
+        if ans not in (0, 1, 2, 3):
+            err(w, "answer must be 0-3")
+            continue
+        if not (isinstance(why, list) and len(why) == 4 and all(is_str(x) for x in why)):
+            err(w, "why must be 4 strings")
+        elif not why[ans].lower().startswith("correct"):
+            err(w, "the why for the correct option must start with 'Correct:'")
+        if it.get("skill") not in ("grammar", "vocabulary"):
+            err(w, "skill must be grammar or vocabulary")
+        tag = it.get("tag")
+        if tag not in TAGS:
+            err(w, f"bad tag {tag!r}")
+        elif (it.get("skill") == "grammar") != (tag in GRAMMAR_TAGS) or (it.get("skill") == "vocabulary") != (tag in VOCAB_TAGS):
+            err(w, f"tag {tag!r} does not fit skill {it.get('skill')!r}")
+    for c in ("B1", "B2", "C1", "C2"):
+        lv = by_level.get(c, [])
+        if len(lv) != 12:
+            err(str(p), f"{c}: {len(lv)} items (need 12)")
+            continue
+        sk = [sum(i.get("skill") == s for i in lv) for s in ("grammar", "vocabulary")]
+        if sk != [6, 6]:
+            err(str(p), f"{c}: grammar/vocabulary split {sk} (need 6/6)")
+        tags = {}
+        for i in lv:
+            tags[i.get("tag")] = tags.get(i.get("tag"), 0) + 1
+        if max(tags.values()) > 3:
+            err(str(p), f"{c}: a tag is used more than 3 times {tags}")
+        good = [i for i in lv if i.get("answer") in (0, 1, 2, 3) and isinstance(i.get("options"), list) and len(i["options"]) == 4]
+        pos = [i["answer"] for i in good]
+        if any(pos.count(k) > 5 for k in range(4)):
+            err(str(p), f"{c}: an answer position is used more than 5 times of 12 {[pos.count(k) for k in range(4)]}")
+        if any(pos[k] == pos[k + 1] == pos[k + 2] for k in range(len(pos) - 2)):
+            err(str(p), f"{c}: same answer position 3 times in a row")
+        longest = sum(len(i["options"][i["answer"]]) > max(len(o) for k, o in enumerate(i["options"]) if k != i["answer"]) for i in good)
+        if longest > 0.4 * len(good):
+            err(str(p), f"{c}: correct option is the longest in {longest}/{len(good)} items (max 40%)")
+    allpos = [i["answer"] for lv in by_level.values() for i in lv if i.get("answer") in (0, 1, 2, 3)]
+    if len(allpos) == 48:
+        for k in range(4):
+            share = allpos.count(k) / 48
+            if not 0.15 <= share <= 0.35:
+                err(str(p), f"answer position {'ABCD'[k]} share {share:.0%} (need 15-35%)")
+
+
 def load(path):
     try:
         return json.loads(path.read_text(encoding="utf-8"))
@@ -299,6 +380,8 @@ def main():
                 err(str(p), f"evaluation has {n} questions (20-45)")
         elif not p.exists():
             (errors if strict else warnings).append(f"missing {p}")
+
+    check_placement(root, strict)
 
     for w in warnings:
         print("WARN ", w)

@@ -154,3 +154,11 @@ Short mixed test (≈ 30 questions) covering grammar, vocabulary and reading; in
 ## Import format (user content)
 Users may import a JSON file `{"level": "fce"|"cae", "sets": [...]}` with sets in exactly the shapes
 above (`source` may be anything, e.g. "own"). Imported sets live only in that browser.
+
+
+## Level estimate bank: `data/level/placement.json`
+`{"items": [ ... ]}` with 12 items per CEFR level (`B1`, `B2`, `C1`, `C2`), 6 grammar and 6 vocabulary each.
+Item: `{"id": "b1-01", "cefr": "B1", "skill": "grammar"|"vocabulary", "tag": "<skill tag>",
+"stem": "one sentence with exactly one ___", "options": [4 strings], "answer": 0-3, "why": [4 strings]}`.
+`why[answer]` starts with "Correct". Checked by `tools/validate_content.py` (`check_placement`), including answer-position
+and longest-option bias limits.
