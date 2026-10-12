@@ -1,0 +1,471 @@
+{
+  "level": "fce",
+  "id": "fce-eval",
+  "title": "Level Check",
+  "minutes": 35,
+  "sets": [
+    {
+      "id": "fce-eval-01",
+      "type": "mcCloze",
+      "title": "The Rise of the Food Truck",
+      "topic": "food",
+      "source": "original",
+      "text": [
+        "Food trucks used to be seen merely as a cheap lunch option for busy office workers, selling little more than burgers and hot dogs from a small serving window. Over the last decade, however, many trucks have taken {{1}} a completely different character, with trained chefs choosing to run a truck instead of opening a conventional restaurant. The lower running costs give owners the freedom to {{2}} with unusual menus, something a fixed restaurant with a large lease to pay might never risk. A truck owner in Bristol told me that customers responded so well {{3}} her falafel wraps that she has never regretted giving {{4}} a well-paid job in a hotel kitchen.",
+        "Running a truck {{5}} not come without its challenges. Parking restrictions vary enormously between cities, and some owners spend almost as {{6}} time negotiating with local councils as they do cooking. Despite this, the format continues to grow in popularity, partly because it allows young chefs to set {{7}} a business without the enormous debt a restaurant lease usually involves. Trade organisations now report that there are more licensed trucks operating than at any point in the past, and food critics increasingly take them {{8}} seriously as any fixed restaurant."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "options": [
+            "on",
+            "up",
+            "in",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'take on a character' means to acquire a particular quality.",
+            "'Take up' means to begin a hobby or occupy space, not to acquire a quality.",
+            "'Take in' means to absorb information or to deceive someone.",
+            "'Take over' means to assume control of something, a different meaning."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 2,
+          "options": [
+            "experiment",
+            "try",
+            "attempt",
+            "test"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'experiment with' is the standard collocation for trying out new ideas.",
+            "'Try' is normally used as 'try something' or 'try doing something', not 'try with something' in this sense.",
+            "'Attempt' is used as 'attempt something', not 'attempt with something'.",
+            "'Test' is used as 'test something', not 'test with something' in this sense."
+          ],
+          "tag": "collocation"
+        },
+        {
+          "n": 3,
+          "options": [
+            "to",
+            "with",
+            "for",
+            "on"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'respond to' is the standard preposition after 'respond'.",
+            "'Respond with' means to react using something (e.g. respond with a smile), a different structure.",
+            "'Respond for' is not correct English.",
+            "'Respond on' is not correct English."
+          ],
+          "tag": "preposition"
+        },
+        {
+          "n": 4,
+          "options": [
+            "up",
+            "in",
+            "out",
+            "over"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'give up a job' means to quit it.",
+            "'Give in' means to surrender to pressure, and needs 'to' before an object.",
+            "'Give out' means to distribute something or to stop functioning, not to quit.",
+            "'Give over' is not a standard phrasal verb with this meaning."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 5,
+          "options": [
+            "is",
+            "does",
+            "has",
+            "was"
+          ],
+          "answer": 1,
+          "why": [
+            "'Is not come' is grammatically incorrect; 'is' cannot combine directly with the base verb 'come' this way.",
+            "Correct: 'does not come' uses the auxiliary 'does' with the base verb 'come' in the present simple negative.",
+            "'Has not come' would describe a completed action, not the general truth expressed here.",
+            "'Was not come' is grammatically incorrect."
+          ],
+          "tag": "tense"
+        },
+        {
+          "n": 6,
+          "options": [
+            "many",
+            "more",
+            "much",
+            "most"
+          ],
+          "answer": 2,
+          "why": [
+            "'Many' is used with countable nouns, not with 'time' in this sense.",
+            "'More' does not fit the 'as...as' comparative structure (it would need to be 'as much', not 'as more').",
+            "Correct: 'time' is uncountable here, so 'much' is used in the 'as much... as' comparison.",
+            "'Most' is a superlative and does not fit the 'as...as' comparative pattern."
+          ],
+          "tag": "quantifier"
+        },
+        {
+          "n": 7,
+          "options": [
+            "out",
+            "off",
+            "on",
+            "up"
+          ],
+          "answer": 3,
+          "why": [
+            "'Set out' means to begin a journey or to explain something in detail, not to establish a business.",
+            "'Set off' means to begin travelling or to trigger something, such as an alarm.",
+            "'Set on' means to attack someone or to be determined about something ('set on doing something'), not to establish a business.",
+            "Correct: 'set up a business' means to establish it."
+          ],
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 8,
+          "options": [
+            "as",
+            "so",
+            "too",
+            "very"
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the comparative structure is 'as seriously as', so 'as' is required both before and after the adjective/adverb.",
+            "'So seriously as' is not the standard comparative pattern (it would be 'so seriously that').",
+            "'Too seriously as' is not a grammatical combination.",
+            "'Very seriously as' is not a grammatical combination; 'very' does not pair with 'as' this way."
+          ],
+          "tag": "comparison"
+        }
+      ]
+    },
+    {
+      "id": "fce-eval-02",
+      "type": "openCloze",
+      "title": "Why We Forget Where We Put Things",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Most people have, {{1}} some point, spent several frustrated minutes searching for keys that turned {{2}} to be in their hand the whole time. Psychologists say this kind of everyday forgetfulness has {{3}} to do with a poor memory than with simple inattention at the moment an object is put down.",
+        "When we place an item somewhere {{4}} thinking about it consciously, the brain often fails to store a clear memory of the action at all, which is {{5}} trying harder to remember rarely helps. Researchers recommend pausing {{6}} a second or two whenever you set something down, since this brief moment of attention is usually {{7}} to create a lasting memory. {{8}} this advice sounds almost too simple to work, several small studies have found it genuinely reduces the number of items people misplace."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answers": [
+            "at"
+          ],
+          "explanation": "'At some point' is the fixed phrase meaning 'at an unspecified time'.",
+          "tag": "preposition"
+        },
+        {
+          "n": 2,
+          "answers": [
+            "out"
+          ],
+          "explanation": "'Turn out to be' means to be discovered or revealed eventually; 'out' is the required particle.",
+          "tag": "phrasal-verb"
+        },
+        {
+          "n": 3,
+          "answers": [
+            "less"
+          ],
+          "explanation": "'Less... than' sets up the comparison, saying inattention matters more than poor memory, which the following paragraph's explanation supports.",
+          "tag": "comparison",
+          "commonWrong": {
+            "more": "'more' would reverse the meaning, suggesting poor memory matters more than inattention, which contradicts the explanation that follows."
+          }
+        },
+        {
+          "n": 4,
+          "answers": [
+            "without"
+          ],
+          "explanation": "'Without thinking about it' means the action happens unconsciously, matching 'fails to store a clear memory'.",
+          "tag": "preposition"
+        },
+        {
+          "n": 5,
+          "answers": [
+            "why"
+          ],
+          "explanation": "'Which is why' introduces the result that follows: trying harder doesn't help.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answers": [
+            "for"
+          ],
+          "explanation": "'Pause for a second or two' uses 'for' to express a duration of time.",
+          "tag": "preposition"
+        },
+        {
+          "n": 7,
+          "answers": [
+            "enough"
+          ],
+          "explanation": "'Enough to create' uses 'enough + to-infinitive' to express sufficiency for a result.",
+          "tag": "quantifier"
+        },
+        {
+          "n": 8,
+          "answers": [
+            "although",
+            "though"
+          ],
+          "explanation": "'Although' introduces a contrast between one clause ('sounds too simple') and another ('studies have found it works').",
+          "tag": "linking",
+          "commonWrong": {
+            "despite": "'despite' must be followed by a noun or an '-ing' form, not a full clause with its own subject and verb like 'this advice sounds...'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "fce-eval-03",
+      "type": "wordFormation",
+      "title": "The Psychology of Colour in Advertising",
+      "topic": "psychology",
+      "source": "original",
+      "text": [
+        "Advertisers have long understood that colour choice is rarely {{1}}; a badly chosen palette can undermine an otherwise {{2}} campaign before a single word of the slogan is even read. Red, for instance, is often used to suggest urgency or excitement, while blue tends to create an impression of {{3}} and calm.",
+        "Even so, researchers warn against {{4}} explanations of colour psychology, since a person's {{5}} background can completely change how a particular shade is interpreted. A colour seen as cheerful in one country may be read as a {{6}} sign, associated with danger, in another."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "ACCIDENT",
+          "answers": [
+            "accidental"
+          ],
+          "explanation": "The adjective 'accidental' is needed to describe a choice that happens by chance.",
+          "tag": "word-formation-adjective"
+        },
+        {
+          "n": 2,
+          "stem": "EFFECT",
+          "answers": [
+            "effective"
+          ],
+          "explanation": "The adjective 'effective' describes a campaign that successfully achieves its aim.",
+          "tag": "word-formation-adjective"
+        },
+        {
+          "n": 3,
+          "stem": "RELY",
+          "answers": [
+            "reliability"
+          ],
+          "explanation": "The noun 'reliability' fits after 'an impression of', describing the quality of being dependable.",
+          "tag": "word-formation-noun"
+        },
+        {
+          "n": 4,
+          "stem": "SIMPLE",
+          "answers": [
+            "simplistic"
+          ],
+          "explanation": "'Simplistic' describes an explanation that is unhelpfully oversimplified, matching the negative sense of 'warn against'.",
+          "tag": "word-formation-adjective"
+        },
+        {
+          "n": 5,
+          "stem": "CULTURE",
+          "answers": [
+            "cultural"
+          ],
+          "explanation": "The adjective 'cultural' is needed before the noun 'background'.",
+          "tag": "word-formation-adjective"
+        },
+        {
+          "n": 6,
+          "stem": "WARN",
+          "answers": [
+            "warning"
+          ],
+          "explanation": "The noun 'warning' fits before 'sign', describing a sign that alerts people to danger.",
+          "tag": "word-formation-noun"
+        }
+      ]
+    },
+    {
+      "id": "fce-eval-04",
+      "type": "transformation",
+      "title": "Evaluation transformations",
+      "topic": "grammar",
+      "source": "original",
+      "questions": [
+        {
+          "n": 1,
+          "first": "It's possible that the meeting has been postponed.",
+          "keyword": "MIGHT",
+          "before": "The meeting",
+          "after": "postponed.",
+          "answers": [
+            "might have been"
+          ],
+          "explanation": "'Might have been' expresses a past possibility, matching 'it's possible that... has been postponed'.",
+          "tag": "modal"
+        },
+        {
+          "n": 2,
+          "first": "I didn't study enough, so I failed the exam.",
+          "keyword": "HAD",
+          "before": "If I",
+          "after": "harder, I would have passed the exam.",
+          "answers": [
+            "had studied"
+          ],
+          "explanation": "The third conditional ('if + had + past participle') talks about an unreal past situation; 'had studied' fits between 'If I' and 'harder'.",
+          "tag": "conditional"
+        },
+        {
+          "n": 3,
+          "first": "Nobody in the office works as efficiently as Clara.",
+          "keyword": "MOST",
+          "before": "Clara is",
+          "after": "person in the office.",
+          "answers": [
+            "the most efficient"
+          ],
+          "explanation": "The superlative 'the most efficient' expresses that no one else is as efficient as Clara, matching the original sentence's meaning.",
+          "tag": "comparison"
+        },
+        {
+          "n": 4,
+          "first": "'I'll call you as soon as I arrive,' Maria told him.",
+          "keyword": "WOULD",
+          "before": "Maria told him that she",
+          "after": "him as soon as she arrived.",
+          "answers": [
+            "would call"
+          ],
+          "explanation": "In reported speech, 'will' in direct speech changes to 'would'; 'would call' reports her original promise.",
+          "tag": "reported-speech"
+        }
+      ]
+    },
+    {
+      "id": "fce-eval-05",
+      "type": "multipleChoice",
+      "title": "The Quiet Return of the Public Library",
+      "topic": "society",
+      "source": "original",
+      "intro": "You are going to read a short magazine article. For questions 1-5, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "For years, commentators have predicted the slow death of the public library, pointing to declining visitor numbers and competition from streaming services and online retailers. Yet in several cities, library membership has recently begun to rise again, and not primarily among the retired readers libraries are traditionally associated with.",
+        "Much of the renewed interest comes from young adults priced out of buying books regularly, who have discovered that a library card offers access not only to novels but to free meeting rooms, job-hunting workshops and, in some branches, musical instruments available for loan. 'We stopped thinking of ourselves as simply a building full of books,' said one branch manager, 'and started thinking of ourselves as one of the only free indoor spaces left in the city.'",
+        "This shift has not been without difficulty. Funding for public libraries has been cut significantly in many areas over the past decade, forcing some branches to reduce opening hours even as demand for their services grows. Staff increasingly find themselves acting as informal advisers on subjects well outside traditional library work, from basic digital skills to, in a few documented cases, where to find local support services.",
+        "Critics argue that libraries are being asked to compensate for the withdrawal of other public services, a role for which they were never designed or funded. Supporters counter that this flexibility is precisely what has kept libraries relevant, allowing them to evolve rather than disappear. Whatever the long-term outcome, it seems clear that predictions of the library's disappearance were, at the very least, premature."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "What does the writer suggest is surprising about the recent rise in library membership?",
+          "options": [
+            "It has already happened in spite of several libraries closing down in most major cities across the country.",
+            "It is occurring mainly among a group not traditionally linked with library use.",
+            "It has been driven entirely by retired readers.",
+            "It has coincided with a sharp fall in book publishing."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the text does not say libraries are closing; it only says visitor numbers had declined.",
+            "Correct: 'not primarily among the retired readers libraries are traditionally associated with' shows the rise came from a different group.",
+            "Incorrect: this reverses the point; the text explicitly says retired readers are not the main group driving the rise.",
+            "Incorrect: book publishing is not mentioned."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "stem": "According to paragraph two, why do young adults value their library card?",
+          "options": [
+            "Because it allows them to buy almost any book at a noticeably reduced price every time.",
+            "Because it gives them free access to a range of services beyond books.",
+            "Because it guarantees them a job after attending workshops.",
+            "Because it offers discounts on streaming subscriptions."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the library lends books; it does not sell them at a discount.",
+            "Correct: 'access not only to novels but to free meeting rooms, job-hunting workshops and... musical instruments' lists several free services.",
+            "Incorrect: workshops are offered, but no guarantee of employment is mentioned.",
+            "Incorrect: streaming discounts are not mentioned."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What does the branch manager's comment in paragraph two suggest about how libraries now see themselves?",
+          "options": [
+            "As primarily educational institutions for children.",
+            "As businesses competing directly with bookshops.",
+            "As one of the few remaining free public spaces.",
+            "As outdated, old-fashioned buildings that are now badly in need of closure."
+          ],
+          "answer": 2,
+          "why": [
+            "Incorrect: children's education is not the focus of the quote.",
+            "Incorrect: competing with bookshops is not mentioned.",
+            "Correct: 'one of the only free indoor spaces left in the city' directly states this view.",
+            "Incorrect: this contradicts the manager's positive, forward-looking tone."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "What problem does paragraph three mainly describe?",
+          "options": [
+            "Libraries are becoming too expensive for the public to use.",
+            "Library staff are leaving the profession in large numbers.",
+            "Readers are complaining about a lack of digital skills training.",
+            "Reduced funding is straining libraries just as demand increases."
+          ],
+          "answer": 3,
+          "why": [
+            "Incorrect: cost to the public is not mentioned; funding cuts affect the library's budget, not user fees.",
+            "Incorrect: staff leaving is not mentioned; staff are described as taking on extra informal roles.",
+            "Incorrect: readers' complaints are not mentioned; digital skills advice is something staff provide, not a complaint.",
+            "Correct: 'funding... has been cut significantly... forcing some branches to reduce opening hours even as demand... grows' describes this exact tension."
+          ],
+          "tag": "main-idea"
+        },
+        {
+          "n": 5,
+          "stem": "What is the writer's overall conclusion in the final paragraph?",
+          "options": [
+            "Predictions that libraries would disappear now look too hasty.",
+            "Libraries have permanently solved the problem of reduced funding.",
+            "Libraries should stop offering any services beyond lending books.",
+            "Critics and supporters have reached a complete agreement on the library's role."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: 'predictions of the library's disappearance were, at the very least, premature' directly supports this.",
+            "Incorrect: funding problems are described as ongoing, not solved.",
+            "Incorrect: this is the opposite of what supporters argue, and the writer does not recommend it.",
+            "Incorrect: critics and supporters are shown to disagree, not agree."
+          ],
+          "tag": "inference"
+        }
+      ]
+    }
+  ]
+}

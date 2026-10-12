@@ -1,0 +1,384 @@
+{
+  "level": "fce",
+  "part": "read5",
+  "sets": [
+    {
+      "id": "fce-read5-01",
+      "type": "multipleChoice",
+      "title": "Beavers Return to the Valley",
+      "topic": "nature",
+      "source": "original",
+      "intro": "You are going to read a magazine article about the reintroduction of beavers to a Scottish valley. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "On a grey morning in late October, I followed Fiona Reid along a muddy path beside the River Carrin, in the Scottish Highlands, to see something that has not lived wild in this valley for four hundred years. Reid manages a reintroduction project for the Highland Wildlife Trust, and she walks this stretch of river almost every day, checking traps that are no longer traps at all, but motion-sensor cameras pointed at the water's edge. 'They're shy animals,' she told me, crouching beside a half-submerged log that had clearly been gnawed. 'You rarely see them. You see what they leave behind.'",
+        "Beavers were hunted to extinction in Britain in the sixteenth century, prized for their fur and for a gland secretion once used in perfume and medicine. Reid's project, launched five years ago, released six breeding pairs into a fenced section of the valley, and the animals have since spread along several kilometres of waterway on their own. Their dams, she explained, slow the flow of water, creating ponds that store rainfall during storms and release it gradually during dry spells. 'People think of them as pests because they fell trees,' she said, 'but what they're actually doing is building the wetland habitat that dozens of other species depend on, from dragonflies to otters.'",
+        "Not everyone in the valley shares her enthusiasm. Several farmers whose fields border the river initially opposed the scheme, fearing that beaver dams would flood low-lying pasture during the wet winter months. One farmer, who asked not to be named, admitted he had expected the project to be abandoned within a year. Instead, the trust set up a rapid-response team that visits any site where a dam threatens farmland and lowers the water level by partially dismantling it, a compromise that satisfied most objectors. 'I still wouldn't call myself a fan,' the farmer said, 'but I'll admit the flooding downstream has actually got better since they arrived, not worse.'",
+        "As dusk fell, Reid led me to a quiet pool where she suspected a family was active. We waited in silence for almost forty minutes, and I had almost given up hope, when a dark shape broke the surface and glided past, trailing a faint V-shaped ripple. It was smaller than I had imagined, and far less clumsy, moving with an unhurried confidence that seemed entirely out of place in an animal supposedly extinct here within living memory. I found myself holding my breath, aware that I was watching something that, by any reasonable expectation, should not have been there at all.",
+        "The success of the Carrin project has encouraged at least four other Scottish catchments to apply for licences to release their own beavers, though government ecologists are urging caution. Dr Alan Weir, who advises on the national reintroduction strategy, points out that each river behaves differently, and that funding for long-term monitoring, which can run for a decade or more, is far from guaranteed. 'The temptation is to release the animals and declare victory,' he told me. 'The harder, less glamorous work is watching what happens for the next ten years and being ready to step in if it goes wrong.'",
+        "Reid is less guarded about the future. Walking back along the darkening path, she told me she expects beavers to be a familiar part of the Highland landscape again within a generation. Whether that optimism is justified remains to be seen, but as we reached the car, a heron rose silently from a reed bed that, five years ago, had been a bare field. Nothing about the valley, she said, looked quite the same as it had before the beavers returned, and for her, that alone made the project worthwhile."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "Why had Fiona Reid stopped setting traps in the valley?",
+          "options": [
+            "She now uses cameras to watch the beavers without disturbing them.",
+            "She had never managed to catch a beaver in a trap.",
+            "Local residents complained that traps were cruel to wild animals.",
+            "The Trust replaced traps with underwater microphones to record the beavers."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the text explains the traps were replaced by motion-sensor cameras so Reid could observe the beavers rather than catch them.",
+            "Incorrect: the text doesn't say the traps never caught anything; it describes a change of method, not a failure.",
+            "Incorrect: there is no mention in the text of residents objecting to the traps on grounds of cruelty.",
+            "Incorrect: the devices mentioned are cameras, not underwater microphones."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "stem": "According to paragraph two, what is the main ecological benefit of beaver dams?",
+          "options": [
+            "They provide a dependable source of fresh fish and small mammals for other predators to hunt.",
+            "They create wetland habitats that support a wide range of other species.",
+            "They prevent farmers from using the land for grazing animals.",
+            "They remove the need for artificial flood barriers downstream."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the text does not mention beavers providing fish or other prey as a food source for predators.",
+            "Correct: Reid says beavers are 'building the wetland habitat that dozens of other species depend on', which is the main benefit described.",
+            "Incorrect: the text says nothing about dams preventing grazing.",
+            "Incorrect: the text mentions dams storing and releasing water gradually, but never claims this removes the need for artificial flood defences altogether."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What does the farmer's comment in paragraph three suggest about his attitude towards the project?",
+          "options": [
+            "He remains completely and firmly opposed to the beavers despite the flood improvements.",
+            "He has become one of the project's most enthusiastic supporters.",
+            "He still has reservations but now reluctantly accepts a positive outcome.",
+            "He believes the project should be expanded to other farms immediately."
+          ],
+          "answer": 2,
+          "why": [
+            "Incorrect: he explicitly admits an improvement, so he is not 'completely' opposed any longer.",
+            "Incorrect: saying he 'wouldn't call himself a fan' shows he is not enthusiastic, only grudgingly accepting.",
+            "Correct: 'I still wouldn't call myself a fan... but I'll admit' shows lingering doubt combined with a reluctant acknowledgement of a benefit.",
+            "Incorrect: the farmer says nothing about wanting the scheme expanded; he only comments on his own farm's flooding."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "In paragraph four, what does 'something' refer to in 'watching something... should not have been there at all'?",
+          "options": [
+            "The ripple on the surface of the pool.",
+            "The forty minutes the writer spent waiting.",
+            "The darkness that had fallen over the valley.",
+            "The beaver that appeared in the pool."
+          ],
+          "answer": 3,
+          "why": [
+            "Incorrect: the ripple is described as a result of the animal's movement, not as the 'something' being watched.",
+            "Incorrect: the waiting period is a span of time, not something that could be 'watched'.",
+            "Incorrect: the darkness is background description, not the thing the writer describes watching.",
+            "Correct: 'something... should not have been there' refers back to the beaver, described moments earlier as 'a dark shape' breaking the surface."
+          ],
+          "tag": "reference"
+        },
+        {
+          "n": 5,
+          "stem": "What is Dr Alan Weir's main concern about further beaver reintroductions?",
+          "options": [
+            "That long-term monitoring may not receive enough continued funding.",
+            "That other catchments will refuse to apply for licences.",
+            "That beavers will not adapt successfully to new rivers.",
+            "That farmers in other areas will be more hostile than in the Carrin valley."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: Weir says funding for long-term monitoring 'is far from guaranteed', which is presented as the real risk.",
+            "Incorrect: the text says four catchments have already applied; refusal to apply is not his concern.",
+            "Incorrect: Weir doesn't question whether beavers can adapt; his concern is about monitoring and funding.",
+            "Incorrect: farmer hostility elsewhere is not mentioned in this paragraph at all."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "stem": "Which of the following best summarises the writer's overall impression of the beaver project?",
+          "options": [
+            "It is a flawless success that has silenced every critic.",
+            "It is a cautiously hopeful story, with real benefits but unresolved risks.",
+            "It is likely to fail once government funding runs out.",
+            "It matters mainly because it has created a tourist attraction."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the text shows ongoing farmer reservations and expert caution, so 'flawless' and 'silenced every critic' go too far.",
+            "Correct: the article balances real benefits (habitat, some farmer acceptance, Reid's optimism) with genuine caution (funding, long-term risk from Weir), giving an overall cautiously hopeful tone.",
+            "Incorrect: nothing in the text predicts failure; Weir's caution is about careful management, not predicted failure.",
+            "Incorrect: tourism is never mentioned as a reason the project matters."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    },
+    {
+      "id": "fce-read5-02",
+      "type": "multipleChoice",
+      "title": "First Day on Skellan",
+      "topic": "growing up",
+      "source": "original",
+      "intro": "You are going to read an extract from a novel about a teenage boy who has just moved to a remote Scottish island. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "The ferry from Oban took four hours, and I spent most of it standing at the rail, watching the mainland shrink into a grey smudge behind us. My mother kept pointing out things - a seal, a ruined cottage on a headland - as though enthusiasm might be contagious. I wasn't interested in being persuaded. We were moving to Skellan, an island I had never heard of until my father accepted a job maintaining the automated lighthouse there, and nothing about the brochure photographs she had shown me made me feel better about leaving behind every friend I had.",
+        "The harbour, when it finally appeared, consisted of a single stone pier and perhaps a dozen houses scattered along the shoreline like something forgotten by the rest of the world. My father was waiting with a man called Euan, who ran the island's only shop and, it turned out, almost everything else as well. 'You'll get used to it,' Euan said, heaving one of our suitcases onto his shoulder with an ease that suggested he had carried considerably heavier things. I didn't believe him, but I said nothing, mainly because I had promised myself, somewhere around hour three of the ferry crossing, that I would at least try not to make this harder for my parents than it already was.",
+        "The island school had eleven pupils and one teacher, Mrs Dunbar, who taught every subject to every age group in the same low-ceilinged room. I was introduced as 'the new boy from the mainland', a phrase that apparently required no further explanation, and shown to a desk beside a girl called Ailsa who, I would later learn, had strong opinions about almost everything. 'You won't last the winter,' she told me within the first ten minutes, not unkindly, more as a simple statement of fact, the way someone might warn you that a particular bridge was known to flood.",
+        "I told her I had no intention of leaving, which was not entirely true, since at that point I had been on the island for less than six hours and had already composed three separate speeches in my head about why we should move back south. Still, there was something about the certainty in her voice that irritated me into stubbornness. If Ailsa expected me to fail, I decided, somewhat childishly, that I would make a point of not failing, even if I wasn't yet sure what failing or succeeding on Skellan actually looked like.",
+        "That evening, while my parents unpacked boxes that seemed to multiply every time I looked away, I walked down to the shore on my own. The tide was out, and the wet sand held the last of the daylight in a way I had never seen it do on the beaches back home. A line of oystercatchers ran along the water's edge, piping indignantly at nothing in particular. I stood there longer than I meant to, not quite ready to admit that some small, stubborn part of me had already started to notice things worth noticing.",
+        "I still missed my friends, and I still thought, in my angrier moments, that my father could have found a lighthouse to maintain considerably closer to civilisation. But walking back up the path towards the lit windows of our new, unfamiliar house, I found myself wondering, for the first time since we had left, what the winter Ailsa had warned me about would actually be like, and whether I might, against my own expectations, still be there to see it."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "Why was the narrator unimpressed by his mother's attempts to point out interesting sights on the ferry?",
+          "options": [
+            "He had seen seals and ruined cottages many times before.",
+            "He felt too seasick to pay attention to anything.",
+            "He did not want to be talked into feeling positive about the move.",
+            "He disliked his mother's particular choice of destination for this entire family holiday abroad."
+          ],
+          "answer": 2,
+          "why": [
+            "Incorrect: the text doesn't say he had seen such things before.",
+            "Incorrect: there is no mention of seasickness anywhere in the text.",
+            "Correct: 'as though enthusiasm might be contagious. I wasn't interested in being persuaded' shows he resisted being made to feel positive.",
+            "Incorrect: this is a permanent move for his father's job, not a holiday."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 2,
+          "stem": "What can we infer about Euan from paragraph two?",
+          "options": [
+            "He is new to the island and still learning his way around.",
+            "He disapproves of the family's decision to move to Skellan.",
+            "He is related to the narrator's father.",
+            "He plays several important roles in the small island community."
+          ],
+          "answer": 3,
+          "why": [
+            "Incorrect: nothing suggests he's new; he appears well-established, carrying heavy suitcases with ease.",
+            "Incorrect: his comment 'you'll get used to it' is reassuring, not disapproving.",
+            "Incorrect: no family relationship between Euan and the father is mentioned.",
+            "Correct: 'ran the island's only shop and... almost everything else as well' shows he fills multiple important roles."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 3,
+          "stem": "What does the description of how Ailsa said 'You won't last the winter' suggest?",
+          "options": [
+            "She stated it as a plain, almost neutral fact rather than an insult.",
+            "She was being deliberately cruel to frighten the new boy.",
+            "She was joking and did not expect to be taken seriously.",
+            "She was simply repeating an old warning she had once heard from Mrs Dunbar herself."
+          ],
+          "answer": 0,
+          "why": [
+            "Correct: the comparison to warning someone about a bridge that floods shows the remark was meant as plain fact, not insult or threat.",
+            "Incorrect: the text says 'not unkindly', ruling out deliberate cruelty.",
+            "Incorrect: nothing suggests she was joking; it is described as 'a simple statement of fact'.",
+            "Incorrect: there is no indication the comment came from the teacher."
+          ],
+          "tag": "meaning-in-context"
+        },
+        {
+          "n": 4,
+          "stem": "Why did the narrator decide to try hard not to fail on the island?",
+          "options": [
+            "He was certain that he would actually enjoy living on the island.",
+            "Ailsa's confident tone made him determined to prove her wrong.",
+            "He did not want Mrs Dunbar to hear them arguing.",
+            "He had already made good friends among the other pupils."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: at this point he still wants to move back south, so he isn't certain he'll enjoy it.",
+            "Correct: 'the certainty in her voice... irritated me into stubbornness' and his decision 'to make a point of not failing' show he was reacting to her confident tone.",
+            "Incorrect: no mention is made of Mrs Dunbar overhearing anything.",
+            "Incorrect: no friendships among the pupils are mentioned at this point."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 5,
+          "stem": "What is suggested by 'some small, stubborn part of me had already started to notice things worth noticing' (paragraph five)?",
+          "options": [
+            "He had completely changed his mind about living on the island.",
+            "He was pretending to enjoy the walk to please his parents.",
+            "Despite himself, he was beginning to appreciate the island.",
+            "He had decided to list all the island's good points for Ailsa."
+          ],
+          "answer": 2,
+          "why": [
+            "Incorrect: 'small' and 'not quite ready to admit' show only a partial shift, not a complete change of mind.",
+            "Incorrect: he was alone on this walk, so pleasing his parents is not relevant.",
+            "Correct: the hesitant, reluctant phrasing shows a small, grudging beginning of appreciation despite his resistance.",
+            "Incorrect: no list for Ailsa is mentioned."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "stem": "What is the overall effect of the final paragraph?",
+          "options": [
+            "It shows the narrator has fully resolved to love living on Skellan.",
+            "It reveals that the narrator plans to run away from home.",
+            "It confirms that the family will soon move back to the mainland.",
+            "It leaves the narrator's feelings about the island genuinely unresolved."
+          ],
+          "answer": 3,
+          "why": [
+            "Incorrect: he still 'missed his friends' and resented the location, so this is not a full resolution.",
+            "Incorrect: running away is never suggested.",
+            "Incorrect: there is no indication of moving back; the tone is one of curiosity about staying.",
+            "Correct: the mixture of lingering resentment and new curiosity ('wondering... whether I might... still be there') leaves his feelings genuinely open."
+          ],
+          "tag": "text-structure"
+        }
+      ]
+    },
+    {
+      "id": "fce-read5-03",
+      "type": "multipleChoice",
+      "title": "Eight Months of Darkness",
+      "topic": "work",
+      "source": "original",
+      "intro": "You are going to read a magazine article about a scientist who spends the winter at an Antarctic research station. For questions 1-6, choose the answer (A, B, C or D) which you think fits best according to the text.",
+      "text": [
+        "When the last supply plane lifts off from the ice runway at Halley Research Station each February, the forty-odd people who remain behind know that no one else is coming for eight months. Among them this year is Dr Mara Whitfield, a glaciologist who volunteered for her first winter after reading what she describes as 'a slightly terrifying but completely irresistible' recruitment advert. 'They don't sugar the pill,' she told me by satellite phone. 'They tell you straight out that if something goes seriously wrong, you deal with it yourselves, because nobody is flying in to help.'",
+        "For roughly three months of the Antarctic winter, the sun does not rise at all, and temperatures regularly fall below minus fifty degrees Celsius, cold enough to make exposed skin freeze within minutes. Every winter crew undergoes extensive psychological assessment before being accepted, not because the work itself is especially dangerous, Whitfield explained, but because living in close quarters with the same dozen or so people, in darkness, for months on end, tends to expose personality clashes that might never surface in ordinary life. 'You learn things about yourself out there,' she said, 'that you'd probably rather not have learned.'",
+        "Despite the isolation, Whitfield insists the winter is far from the monotonous ordeal that outsiders often imagine. Her research, measuring how quickly the ice shelf beneath the station is thinning, continues throughout the dark months, and she is typically outside for several hours a day, checking instruments buried in boreholes that have to be re-drilled as the ice shifts. 'People picture us sitting around a stove, waiting for spring,' she laughed. 'In reality I'm busier here than I ever was in my old university job, mostly because if a piece of equipment breaks at minus fifty, you can't simply order a replacement part and wait for the post.'",
+        "To mark the midpoint of the darkness, the station holds what has become a decades-old tradition across Antarctic bases: a midwinter feast, complete with handmade gifts and a screening of a horror film about an isolated outpost, a choice of film Whitfield calls 'either very brave or completely mad'. Beyond such rituals, she credits the crew's wellbeing largely to an unspoken rule that everyone, regardless of role, takes a turn cooking, cleaning and repairing equipment. 'Rank disappears pretty quickly,' she said. 'The engineer who fixes the generator at two in the morning earns exactly as much respect as anyone with a doctorate.'",
+        "The closest the station came to a genuine emergency this year was a fire in the generator shed, which would have been catastrophic in temperatures that make frostbite a risk within minutes outdoors. The entire crew, roused from sleep in the middle of the Antarctic night, had the blaze under control within twenty minutes, using training that most had privately hoped they would never actually need. Whitfield admits she was frightened at the time, but what has stayed with her since is less the fear than the discovery that the group, largely strangers eight months earlier, had responded as a genuinely coordinated team.",
+        "Whitfield will fly out when the first plane lands in November, uncertain whether she will volunteer for another winter. What she is certain of is that the experience has changed her sense of what she can cope with. 'I came here wondering whether I'd survive the isolation,' she said. 'I'm leaving wondering whether I'll find anything back home quite as absorbing.' For now, with two more months of darkness ahead, that question can wait."
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "stem": "Why does Dr Whitfield say the recruitment advert did not 'sugar the pill'?",
+          "options": [
+            "It deliberately exaggerated the physical dangers of the job in order to discourage weaker applicants from joining.",
+            "It warned honestly that the crew would have to cope alone if problems arose.",
+            "It promised better pay than most Antarctic research jobs offer.",
+            "It was written in a deliberately frightening, dramatic style."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: there is no mention of exaggeration to discourage applicants; the quote is about honesty, not fear tactics.",
+            "Correct: 'they tell you straight out that if something goes seriously wrong, you deal with it yourselves' shows the advert gave an honest warning about self-reliance.",
+            "Incorrect: pay is not mentioned at all.",
+            "Incorrect: 'not sugaring the pill' means not softening an unpleasant truth, not writing dramatically."
+          ],
+          "tag": "meaning-in-context"
+        },
+        {
+          "n": 2,
+          "stem": "According to paragraph two, why is psychological screening important for winter crews?",
+          "options": [
+            "Because the scientific work itself is unusually dangerous.",
+            "Because prolonged close contact with the same small group can create conflict.",
+            "Because most applicants have no previous experience of cold climates.",
+            "Because the station's limited facilities cannot safely support more than about a dozen people at once."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the text explicitly says it is 'not because the work itself is especially dangerous'.",
+            "Correct: the text says living together 'in darkness, for months on end, tends to expose personality clashes'.",
+            "Incorrect: previous cold-climate experience is not mentioned as a reason for the screening.",
+            "Incorrect: the number twelve describes the crew's size, not a safety limit on the station."
+          ],
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "stem": "What is Whitfield's attitude towards the common idea that station life is dull?",
+          "options": [
+            "She agrees, admitting that the winter can feel monotonous.",
+            "She believes it was true in the past but not anymore.",
+            "She finds the idea amusing and contradicts it with her own experience.",
+            "She consistently refuses to discuss in any detail how busy her daily schedule actually is."
+          ],
+          "answer": 2,
+          "why": [
+            "Incorrect: she explicitly says the winter is 'far from the monotonous ordeal that outsiders often imagine'.",
+            "Incorrect: there is no comparison with how things used to be.",
+            "Correct: she 'laughed' at the idea of sitting around a stove and described being busier than in her old job, showing amusement and contradiction.",
+            "Incorrect: she does discuss her schedule, in some detail."
+          ],
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "stem": "What does Whitfield suggest is the main reason rank 'disappears pretty quickly' at the station?",
+          "options": [
+            "The station has a strict, official, unwritten rule against anyone using job titles at all.",
+            "Most of the crew have similar levels of education.",
+            "The commander deliberately avoids giving orders to junior staff.",
+            "Everyone shares the same essential daily tasks regardless of their job title."
+          ],
+          "answer": 3,
+          "why": [
+            "Incorrect: no official rule banning titles is mentioned.",
+            "Incorrect: the engineer/doctorate contrast shows education levels differ, not that they are similar.",
+            "Incorrect: no commander or order-giving is mentioned.",
+            "Correct: 'everyone, regardless of role, takes a turn cooking, cleaning and repairing equipment' explains why status differences fade."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 5,
+          "stem": "What does the writer imply about the fire described in paragraph five?",
+          "options": [
+            "It clearly proved that the crew's earlier safety training had actually been seriously inadequate.",
+            "It showed the crew could act as an effective team under pressure.",
+            "It was caused by someone's carelessness during the night shift.",
+            "It led to several crew members being injured by frostbite."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: the fire was 'under control within twenty minutes', suggesting the training worked, not that it was inadequate.",
+            "Correct: the text highlights that the group 'had responded as a genuinely coordinated team', despite being largely strangers eight months earlier.",
+            "Incorrect: no cause or blame is mentioned.",
+            "Incorrect: no injuries are mentioned; frostbite is only referred to as a general outdoor risk."
+          ],
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "stem": "What does the final paragraph suggest about Whitfield's feelings as she looks ahead?",
+          "options": [
+            "She already regrets having volunteered for the winter.",
+            "She is confident that ordinary life will now feel disappointing by comparison.",
+            "She has decided never to return to Antarctica again.",
+            "She feels, after everything, that she has very little left still to learn from the whole experience."
+          ],
+          "answer": 1,
+          "why": [
+            "Incorrect: nothing suggests regret; the tone is reflective, not negative.",
+            "Correct: 'I'm leaving wondering whether I'll find anything back home quite as absorbing' suggests she expects ordinary life to feel less engaging by comparison.",
+            "Incorrect: she is 'uncertain whether she will volunteer for another winter', not firmly decided never to return.",
+            "Incorrect: the whole article shows the experience changed her significantly, which contradicts this."
+          ],
+          "tag": "main-idea"
+        }
+      ]
+    }
+  ]
+}

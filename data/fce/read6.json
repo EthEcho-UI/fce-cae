@@ -1,0 +1,273 @@
+{
+  "level": "fce",
+  "part": "read6",
+  "sets": [
+    {
+      "id": "fce-read6-01",
+      "type": "gappedText",
+      "title": "The Secret Life of City Foxes",
+      "topic": "nature",
+      "source": "original",
+      "intro": "You are going to read a magazine article about urban foxes. Six sentences have been removed from the article. Choose from the sentences A-G the one which fits each gap (1-6). There is one extra sentence which you do not need to use.",
+      "text": [
+        "Urban foxes have become such a familiar sight in British cities that many residents barely glance up when one trots across a garden at dusk. Yet behind this everyday scene lies a surprisingly complicated story of adaptation, conflict and, according to a growing number of researchers, genuine intelligence.",
+        "Dr Priya Nair, who has studied fox populations in Bristol for over a decade, says the animals began moving into cities in large numbers during the 1930s, when suburban gardens first began to offer the mix of shelter and food they needed. {{1}} Within a few generations, these early settlers had adapted their behaviour so thoroughly to urban life that many now rarely venture into open countryside at all.",
+        "Much of the fox's success lies in its diet, which is remarkably flexible. {{2}} This willingness to eat almost anything, Nair explains, means urban foxes rarely need to travel far to find a meal, unlike their rural relatives, who must cover much larger territories in search of food.",
+        "Not every city dweller welcomes their presence. {{3}} Nair's team spends a good deal of its time responding to such complaints, though she insists that genuine conflict between foxes and humans is far rarer than headlines suggest.",
+        "Fears about foxes attacking pets or even children are, according to Nair, largely exaggerated. {{4}} Genuine attacks on people remain exceptionally rare, and most involve a fox that has been deliberately fed by hand and has lost its natural caution as a result.",
+        "What continues to surprise researchers is how quickly urban foxes learn. {{5}} One particularly resourceful individual in Nair's study was filmed waiting beside a bin lorry's usual route, apparently having learned which bins would be emptied, and therefore worth raiding, on a given morning.",
+        "{{6}} For Nair, this adaptability is precisely what makes urban foxes worth studying: not as pests to be removed, but as a rare example of a wild predator thriving, on its own terms, in a landscape built entirely by and for humans."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Such behaviour, Nair argues, points to a level of problem-solving that we have historically underestimated in urban wildlife."
+        },
+        {
+          "id": "B",
+          "text": "They will happily eat discarded takeaway food, garden fruit, worms and small rodents, often within the same night."
+        },
+        {
+          "id": "C",
+          "text": "Some residents complain about torn rubbish bags, noise during the mating season, or foxes digging up flowerbeds in search of insects."
+        },
+        {
+          "id": "D",
+          "text": "In recent trials, several foxes worked out how to open simple latched containers after watching just a handful of attempts."
+        },
+        {
+          "id": "E",
+          "text": "Cats, she points out, are generally too large and too confident for a fox to risk confronting, and most encounters end with the fox simply retreating."
+        },
+        {
+          "id": "F",
+          "text": "What began as a few scattered sightings soon turned into permanently established populations in every major city."
+        },
+        {
+          "id": "G",
+          "text": "Rural foxes, by contrast, have shown little sign of adapting their diet despite similar opportunities near farms."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "F",
+          "explanation": "The gap follows the mention of foxes 'moving into cities in large numbers during the 1930s' and is followed by 'within a few generations'; F's 'began as a few scattered sightings soon turned into permanently established populations' bridges the initial move-in with the generational change that follows.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "B",
+          "explanation": "The paragraph opens with 'diet, which is remarkably flexible', and the sentence after the gap begins 'This willingness to eat almost anything'; B lists the varied foods that 'this willingness' refers back to.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "C",
+          "explanation": "'Not every city dweller welcomes their presence' sets up a contrast completed by C's specific complaints, and the following sentence's 'such complaints' refers directly back to the problems C describes.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "E",
+          "explanation": "The gap follows 'fears... are... largely exaggerated' and precedes 'Genuine attacks on people remain rare'; E explains specifically why cat attacks rarely happen, giving the evidence for 'exaggerated' before the text moves on to attacks on people.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "D",
+          "explanation": "'How quickly urban foxes learn' is illustrated by D's trial about opening latched containers, which leads naturally into the following bin-lorry anecdote, another example of learned behaviour.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "A",
+          "explanation": "A's 'such behaviour' refers back to the learning examples in the previous paragraph, and 'this adaptability' in the sentence that follows the gap refers back to the 'problem-solving' that A describes.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "G",
+        "explanation": "G mentions foxes and diet, echoing earlier vocabulary, but no gap in the article actually discusses rural foxes or their unadapted diet, so it fits nowhere."
+      }
+    },
+    {
+      "id": "fce-read6-02",
+      "type": "gappedText",
+      "title": "Why We Can't Resist a Good Playlist",
+      "topic": "technology",
+      "source": "original",
+      "intro": "You are going to read a magazine article about music-streaming algorithms. Six sentences have been removed from the article. Choose from the sentences A-G the one which fits each gap (1-6). There is one extra sentence which you do not need to use.",
+      "text": [
+        "Streaming services know exactly which song you are likely to play next, often before you do. Behind every personalised playlist lies a vast, largely invisible system that has quietly reshaped the way millions of people discover and experience music.",
+        "Music-streaming algorithms work by comparing your listening habits with those of millions of other users, searching for patterns too subtle for any human analyst to spot. {{1}} The result, according to data scientist Tomas Berg, is a recommendation system that often predicts a listener's taste more accurately than their own friends can.",
+        "This approach works well for popular music, where huge amounts of listening data exist. {{2}} Berg's team has experimented with analysing the actual audio of obscure tracks, measuring tempo, instrumentation and mood, to recommend them even without a large listening history.",
+        "Critics argue that such systems, for all their sophistication, risk narrowing rather than broadening our listening habits. {{3}} Berg concedes the criticism has some merit, though he insists that most platforms now deliberately inject a small proportion of unrelated recommendations specifically to counter it.",
+        "Even so, some listeners remain deeply suspicious of being 'guided' by an algorithm at all. {{4}} Berg's response is that human recommendation, from radio DJs to record-shop staff, has always shaped listening habits; algorithms, he argues, have simply made the influence more visible and more precise.",
+        "There is also a financial dimension to the debate. {{5}} Independent artists in particular have accused streaming platforms of favouring songs that are algorithmically 'safe' over genuinely original work, since familiar-sounding tracks tend to keep listeners engaged for longer.",
+        "{{6}} Whatever its flaws, Berg believes the technology is here to stay, if only because the alternative, manually searching through millions of songs, became unworkable for ordinary listeners years ago."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "If an algorithm only ever suggests music similar to what you already enjoy, listeners may simply never encounter the genres or artists that lie outside their usual taste."
+        },
+        {
+          "id": "B",
+          "text": "If enough people who liked a particular folk song also enjoyed a certain jazz trumpeter, the system quietly begins suggesting the trumpeter to new folk fans as well."
+        },
+        {
+          "id": "C",
+          "text": "The more time a listener spends inside a single platform's recommendation loop, the more valuable that platform becomes to advertisers and investors."
+        },
+        {
+          "id": "D",
+          "text": "Lesser-known artists, however, present a problem, since there simply isn't enough data about who listens to them to generate reliable comparisons."
+        },
+        {
+          "id": "E",
+          "text": "For all the unease it provokes, few listeners seem willing to give up the convenience that recommendation systems provide."
+        },
+        {
+          "id": "F",
+          "text": "Musician and critic Elena Wu has argued that discovering music this way feels less like genuine discovery and more like being quietly managed."
+        },
+        {
+          "id": "G",
+          "text": "Some musicians have begun releasing albums exclusively on vinyl in an attempt to bypass streaming platforms altogether."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "B",
+          "explanation": "The gap follows 'patterns too subtle for any human analyst to spot' and precedes 'The result... is a recommendation system'; B gives a concrete example of exactly such a subtle, cross-genre pattern.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "D",
+          "explanation": "'This approach works well for popular music, where huge amounts of listening data exist' is directly contrasted by D's 'Lesser-known artists, however, present a problem', and D's 'without a large listening history' is picked up in the following sentence.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "A",
+          "explanation": "'Risk narrowing rather than broadening our listening habits' is explained by A's account of only ever suggesting similar music, and 'Berg concedes the criticism' refers back to the problem A describes.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "F",
+          "explanation": "'Some listeners remain deeply suspicious' is given a concrete voice by F's quote from Elena Wu, and 'Berg's response' that follows directly answers the criticism F raises.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "C",
+          "explanation": "'A financial dimension to the debate' is spelled out by C's point about advertiser value, which leads into the following sentence about independent artists and algorithmically 'safe' songs.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "E",
+          "explanation": "E's 'unease it provokes' sums up the criticisms raised earlier, and 'whatever its flaws' in the following sentence picks up directly on the unease E describes.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "G",
+        "explanation": "G introduces vinyl releases as a way of avoiding streaming platforms, a topic the article never actually raises, so it does not connect to any gap."
+      }
+    },
+    {
+      "id": "fce-read6-03",
+      "type": "gappedText",
+      "title": "The Rise of the Repair Café",
+      "topic": "environment",
+      "source": "original",
+      "intro": "You are going to read a magazine article about repair cafés. Six sentences have been removed from the article. Choose from the sentences A-G the one which fits each gap (1-6). There is one extra sentence which you do not need to use.",
+      "text": [
+        "On the second Saturday of every month, the community hall in the small town of Ashby fills with the smell of soldering flux and the hum of sewing machines. Welcome to the local repair café, part of a global movement that is quietly challenging the throwaway culture of modern consumer goods.",
+        "The concept began in Amsterdam in 2009, when environmental activist Martine Postma invited neighbours to bring broken toasters, lamps and clothing to a local café, where volunteers with relevant skills would help repair them for free. {{1}} Word spread quickly through local media, and within three years similar cafés had opened in a dozen countries.",
+        "At the Ashby café, retired electrician Graham Petty spends most Saturdays with a soldering iron in hand, usually surrounded by a small queue of patient owners. {{2}} 'Half the time, it's something tiny,' he told me, 'a loose wire, a blown fuse, a plug wired up wrongly years ago and never noticed.'",
+        "Not every repair succeeds, of course. {{3}} When a device truly cannot be saved, volunteers at least try to help the owner understand why it failed, partly so they can avoid buying a similarly unreliable replacement.",
+        "The environmental case for repair cafés is straightforward enough. {{4}} Manufacturing a single new washing machine, for instance, produces significantly more carbon emissions than repairing an existing one, even accounting for the energy used running an older, less efficient model for a few more years.",
+        "Yet Petty is quick to point out that the appeal of the café is not purely practical. {{5}} For many of the volunteers, several of whom are retired tradespeople, the sessions offer something they had not expected to miss from their working lives: a sense of being useful again.",
+        "{{6}} Whether the movement will ever seriously dent the sales of disposable consumer goods remains uncertain, but for the people who gather in halls like Ashby's each month, that may not be entirely the point."
+      ],
+      "options": [
+        {
+          "id": "A",
+          "text": "Most of the items he sees, he says, could have been fixed within minutes by a professional, if their owners had known where to look."
+        },
+        {
+          "id": "B",
+          "text": "What began as a small act of local resistance to a throwaway culture has, in its own modest way, become a genuine community institution."
+        },
+        {
+          "id": "C",
+          "text": "Every appliance mended rather than replaced is one less item sent to landfill, and one less new product requiring raw materials, energy and transport to manufacture."
+        },
+        {
+          "id": "D",
+          "text": "What started as a single afternoon event attracted far more visitors than Postma had expected, and she decided to make it a regular monthly fixture."
+        },
+        {
+          "id": "E",
+          "text": "Some appliances are simply too far gone, their parts no longer manufactured or their damage too extensive for a volunteer workshop to address."
+        },
+        {
+          "id": "F",
+          "text": "Regular visitors often say they come as much for the conversation and company as for the repair itself, particularly older residents living alone."
+        },
+        {
+          "id": "G",
+          "text": "Some critics argue that repair cafés unfairly compete with local repair shops that charge for similar services."
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "answer": "D",
+          "explanation": "The gap follows the description of the first, single café event in Amsterdam, and D's 'attracted far more visitors than expected... regular monthly fixture' leads naturally into the following sentence about word spreading and cafés opening elsewhere.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 2,
+          "answer": "A",
+          "explanation": "The gap comes just before Petty's quote about 'something tiny'; A's point that most items could be fixed quickly by a professional sets up exactly the kind of small fault he goes on to describe.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 3,
+          "answer": "E",
+          "explanation": "'Not every repair succeeds, of course' is explained by E's reasons why some appliances cannot be saved, which is then picked up by 'When a device truly cannot be saved' in the following sentence.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 4,
+          "answer": "C",
+          "explanation": "'The environmental case... is straightforward enough' is spelled out by C's point about landfill and raw materials, which the following sentence illustrates with the specific washing-machine example.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 5,
+          "answer": "F",
+          "explanation": "'Not purely practical' is explained by F's point about conversation and company, which leads into the following sentence about volunteers valuing a sense of usefulness.",
+          "tag": "cohesion"
+        },
+        {
+          "n": 6,
+          "answer": "B",
+          "explanation": "B's 'small act of local resistance... become a genuine community institution' echoes the opening paragraph's 'throwaway culture' and introduces the article's closing reflection on the movement's uncertain wider impact.",
+          "tag": "cohesion"
+        }
+      ],
+      "extra": {
+        "id": "G",
+        "explanation": "G raises a competition argument that the article never discusses anywhere else, so it fits none of the gaps."
+      }
+    }
+  ]
+}

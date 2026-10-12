@@ -1,0 +1,47 @@
+{
+  "level": "fce",
+  "tests": [
+    {
+      "id": "fce-test-1",
+      "title": "Practice Test 1",
+      "minutes": 75,
+      "sets": [
+        "fce-uoe1-01",
+        "fce-uoe2-01",
+        "fce-uoe3-01",
+        "fce-uoe4-01",
+        "fce-read5-01",
+        "fce-read6-01",
+        "fce-read7-01"
+      ]
+    },
+    {
+      "id": "fce-test-2",
+      "title": "Practice Test 2",
+      "minutes": 75,
+      "sets": [
+        "fce-uoe1-02",
+        "fce-uoe2-02",
+        "fce-uoe3-02",
+        "fce-uoe4-02",
+        "fce-read5-02",
+        "fce-read6-02",
+        "fce-read7-02"
+      ]
+    },
+    {
+      "id": "fce-test-3",
+      "title": "Practice Test 3",
+      "minutes": 75,
+      "sets": [
+        "fce-uoe1-03",
+        "fce-uoe2-03",
+        "fce-uoe3-03",
+        "fce-uoe4-03",
+        "fce-read5-03",
+        "fce-read6-03",
+        "fce-read7-03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "level": "fce",
+  "part": "read7",
+  "sets": [
+    {
+      "id": "fce-read7-01",
+      "type": "multipleMatching",
+      "title": "Learning a New Skill as an Adult",
+      "topic": "lifelong learning",
+      "source": "original",
+      "intro": "You are going to read about four adults who recently took up a new skill. For questions 1-10, choose from the people (A-D). The people may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Rosa",
+          "text": [
+            "Rosa, 58: I'd always assumed painting was something you either had a talent for from childhood or simply didn't, so it took a particularly dull lockdown and an abandoned set of watercolours belonging to my daughter to make me try. My first attempts were honestly embarrassing - my husband still keeps one taped to the fridge purely to tease me - but something about the frustration of getting it wrong made me determined to improve rather than give up. I now paint most evenings, and while I doubt a gallery will ever come knocking, the biggest surprise has been how much calmer I feel afterwards, regardless of how the painting itself turns out."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Dmitri",
+          "text": [
+            "Dmitri, 34: I started learning Portuguese purely for practical reasons, because my company opened an office in Lisbon and offered relocation to anyone willing to make the move. What I hadn't expected was how much the language itself would end up fascinating me, quite apart from its usefulness at work. I spend a ridiculous amount of time now watching Brazilian dramas with subtitles, partly for practice and partly because I've genuinely become addicted to the plots. The hardest part honestly wasn't the grammar, which I'd been warned about repeatedly, but training my ear to follow native speakers talking at normal speed among themselves."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Freya",
+          "text": [
+            "Freya, 45: My neighbours would probably say learning the drums was a slightly inconsiderate choice of hobby, and they're not entirely wrong. I took it up after watching my teenage son's band rehearse and feeling an unexpected pang of envy that I'd never learned an instrument myself growing up. Progress was humiliatingly slow at first; my teacher, who is admirably patient, spent almost a month just getting me to keep a steady beat with my feet and hands doing different things simultaneously. What keeps me going, even on the frustrating weeks, is that it's the first hobby in years that has nothing whatsoever to do with my job or my family's schedule - it's entirely, selfishly mine."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Callum",
+          "text": [
+            "Callum, 29: I'd tried and abandoned online coding courses at least three times before finally sticking with one, and I think the difference this time was finding a course with a genuine community attached, rather than just pre-recorded videos. Being able to ask a question in a forum and get a useful answer within the hour, rather than giving up in frustration at midnight, made an enormous difference to whether I actually kept going. I'm still a long way from being employable as a programmer, and I suspect I always overestimate how close I am to finishing any given project, but I've started building a small app for a local charity, which has made the whole thing feel suddenly purposeful rather than purely academic."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which person was inspired to learn their new skill after watching someone else perform it?",
+          "answer": "C",
+          "explanation": "Freya says she took up drums 'after watching my teenage son's band rehearse and feeling an unexpected pang of envy'.",
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "prompt": "Which person found a particular feature of their course more helpful than the course content itself?",
+          "answer": "D",
+          "explanation": "Callum says the difference was 'finding a course with a genuine community attached, rather than just pre-recorded videos'.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Which person says the activity has had an unexpected calming effect on them?",
+          "answer": "A",
+          "explanation": "Rosa says 'the biggest surprise has been how much calmer I feel afterwards, regardless of how the painting itself turns out'.",
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "prompt": "Which person developed an interest that went beyond the original, practical reason for starting?",
+          "answer": "B",
+          "explanation": "Dmitri says he started 'purely for practical reasons' but 'hadn't expected how much the language itself would end up fascinating me'.",
+          "tag": "inference"
+        },
+        {
+          "n": 5,
+          "prompt": "Which person mentions that their progress was initially very slow?",
+          "answer": "C",
+          "explanation": "Freya says 'progress was humiliatingly slow at first' and describes her teacher's patience over the following weeks.",
+          "tag": "detail"
+        },
+        {
+          "n": 6,
+          "prompt": "Which person admits to having given up on a similar attempt before?",
+          "answer": "D",
+          "explanation": "Callum says he 'tried and abandoned online coding courses at least three times before finally sticking with one'.",
+          "tag": "detail"
+        },
+        {
+          "n": 7,
+          "prompt": "Which person values the new skill partly because it belongs entirely to them, separate from other responsibilities?",
+          "answer": "C",
+          "explanation": "Freya says it's 'the first hobby in years that has nothing whatsoever to do with my job or my family's schedule - it's entirely, selfishly mine'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 8,
+          "prompt": "Which person says a family member finds their early efforts at the skill amusing?",
+          "answer": "A",
+          "explanation": "Rosa mentions that 'my husband still keeps one taped to the fridge purely to tease me'.",
+          "tag": "detail"
+        },
+        {
+          "n": 9,
+          "prompt": "Which person found a particular aspect of the skill harder than expected, despite having been warned about a different difficulty?",
+          "answer": "B",
+          "explanation": "Dmitri says the hardest part 'wasn't the grammar, which I'd been warned about repeatedly, but training my ear' to follow natural speech.",
+          "tag": "inference"
+        },
+        {
+          "n": 10,
+          "prompt": "Which person is now applying their new skill to a project that is intended to benefit others?",
+          "answer": "D",
+          "explanation": "Callum says he has 'started building a small app for a local charity'.",
+          "tag": "detail"
+        }
+      ]
+    },
+    {
+      "id": "fce-read7-02",
+      "type": "multipleMatching",
+      "title": "Five Travel Bloggers on a Memorable Journey",
+      "topic": "travel",
+      "source": "original",
+      "intro": "You are going to read about five travel bloggers describing a journey they remember well. For questions 1-10, choose from the bloggers (A-E). The bloggers may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Priya",
+          "text": [
+            "Priya: The journey I still think about most wasn't glamorous in the slightest - three days on a rattling train crossing Mongolia, sharing a compartment with a family who spoke no English and a goat that, to everyone's surprise, travelled in the corridor for most of day two. What I remember isn't any particular view, spectacular though some of them were, but the elaborate card game the family eventually taught me using gestures alone, since neither of us shared a single word of the other's language."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Tomás",
+          "text": [
+            "Tomás: I'd planned the Patagonia trek meticulously for almost a year, researching routes and buying equipment I probably didn't need, so it felt almost unfair when a sudden storm forced our group to abandon the final, most spectacular stretch of the trail less than a day from the end. At the time I was furious, mostly with myself for not checking the forecast more carefully. Looking back now, though, what stayed with me wasn't the view I missed but the ridiculous, soaked, laughing dinner our group shared in a tiny mountain hut that night."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Elin",
+          "text": [
+            "Elin: Travelling alone had terrified me for years, to the point that I'd quietly cancelled two previous bookings rather than go through with it. The trip that finally broke the pattern was a short, unambitious few days in Lisbon, chosen deliberately because it felt low-risk rather than exciting. I spent the first day anxious and barely speaking to anyone, but by the third, I'd somehow ended up at a stranger's birthday dinner, having been invited by the owner of a small café purely because I'd asked for restaurant recommendations in halting Portuguese."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Marcus",
+          "text": [
+            "Marcus: My most memorable journey was almost entirely spent in airports, thanks to a visa mix-up that stranded me in Istanbul for four unplanned days on the way to a wedding I was meant to be filming. I was initially consumed with frustration, calculating everything I was missing back home. An airport worker, noticing I'd been camped by the same gate for hours, eventually took pity on me and spent her break showing me photographs of her own city, insisting I owed it to myself to see it properly if I ever returned, which, somewhat to my own surprise, I later did."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Sana",
+          "text": [
+            "Sana: I went back to the town in India where I'd spent my early childhood, a place I'd built up in my memory into somewhere far grander and more mysterious than it actually was. The reality, when I finally stood outside my grandmother's old house, now a mobile-phone shop, was quietly deflating at first. What rescued the trip was an elderly neighbour who recognised my mother's name immediately and spent the whole afternoon filling in gaps in a family history I'd never properly heard."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which blogger changed their plans deliberately to reduce risk rather than for excitement?",
+          "answer": "C",
+          "explanation": "Elin chose Lisbon 'deliberately because it felt low-risk rather than exciting'.",
+          "tag": "detail"
+        },
+        {
+          "n": 2,
+          "prompt": "Which blogger communicated with someone despite not sharing a language?",
+          "answer": "A",
+          "explanation": "Priya learned a card game from a family 'using gestures alone, since neither of us shared a single word of the other's language'.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Which blogger initially felt extremely frustrated because of an official problem outside their control?",
+          "answer": "D",
+          "explanation": "Marcus was 'consumed with frustration' after 'a visa mix-up that stranded me in Istanbul'.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 4,
+          "prompt": "Which blogger found that a place from their past looked different from how they remembered it?",
+          "answer": "E",
+          "explanation": "Sana had built the town up in her memory into somewhere 'far grander and more mysterious than it actually was'.",
+          "tag": "detail"
+        },
+        {
+          "n": 5,
+          "prompt": "Which blogger says a stranger's kindness changed their view of an unplanned delay?",
+          "answer": "D",
+          "explanation": "An airport worker 'took pity on me and spent her break showing me photographs of her own city', reshaping how Marcus saw the delay.",
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "prompt": "Which blogger had avoided a particular kind of trip before, because of fear?",
+          "answer": "C",
+          "explanation": "Elin had 'quietly cancelled two previous bookings' because travelling alone 'had terrified me for years'.",
+          "tag": "detail"
+        },
+        {
+          "n": 7,
+          "prompt": "Which blogger was frustrated mainly with themselves, rather than with external circumstances, when their original plan fell through?",
+          "answer": "B",
+          "explanation": "Tomás says he 'was furious, mostly with myself for not checking the forecast more carefully', unlike Marcus, whose frustration was directed at an external visa problem.",
+          "tag": "attitude-opinion"
+        },
+        {
+          "n": 8,
+          "prompt": "Which blogger learned about their own family history from someone they met during the trip?",
+          "answer": "E",
+          "explanation": "An elderly neighbour 'spent the whole afternoon filling in gaps in a family history I'd never properly heard'.",
+          "tag": "detail"
+        },
+        {
+          "n": 9,
+          "prompt": "Which blogger was invited to a social occasion by someone they had approached for recommendations?",
+          "answer": "C",
+          "explanation": "Elin was invited to a birthday dinner 'by the owner of a small café purely because I'd asked for restaurant recommendations'.",
+          "tag": "detail"
+        },
+        {
+          "n": 10,
+          "prompt": "Which blogger's most vivid memory involves sharing a meal with others after a difficulty?",
+          "answer": "B",
+          "explanation": "Tomás remembers 'the ridiculous, soaked, laughing dinner our group shared in a tiny mountain hut' after the storm forced them to turn back.",
+          "tag": "detail"
+        }
+      ]
+    },
+    {
+      "id": "fce-read7-03",
+      "type": "multipleMatching",
+      "title": "A Mistake That Taught Me Something Important",
+      "topic": "personal development",
+      "source": "original",
+      "intro": "You are going to read about six people describing a mistake that taught them something important. For questions 1-10, choose from the people (A-F). The people may be chosen more than once.",
+      "sections": [
+        {
+          "id": "A",
+          "title": "Noah",
+          "text": [
+            "Noah: I launched my first small business, a bicycle repair shop, with almost no cash reserve, convinced that customers would arrive steadily from day one. They didn't, and within four months I was borrowing from my parents just to pay rent on the workshop. The business eventually succeeded, but only after I'd forced myself to build an emergency fund covering six months of costs before trying anything ambitious again - a habit I now treat as non-negotiable, regardless of how confident I feel about a new idea."
+          ]
+        },
+        {
+          "id": "B",
+          "title": "Hana",
+          "text": [
+            "Hana: I once told a close friend, in what I thought was a gentle and constructive way, exactly what I disliked about a decision she'd made, and she didn't speak to me for the better part of a year. At the time I was convinced I'd simply been honest and that the fault was entirely hers for being oversensitive. It took losing the friendship, almost completely, to realise that being right about something and choosing the right moment to say it are two completely different skills, and I'd only ever practised the first one."
+          ]
+        },
+        {
+          "id": "C",
+          "title": "Leo",
+          "text": [
+            "Leo: I failed an important exam at nineteen after convincing myself that reading the material once, carefully, was equivalent to studying it properly. The result humiliated me at the time, mostly because several friends who'd studied far less than I thought I had passed comfortably. What actually separated us, I eventually understood, wasn't how many hours anyone had put in, but that they'd tested themselves constantly along the way, while I had simply reread the same notes and mistaken familiarity for genuine understanding."
+          ]
+        },
+        {
+          "id": "D",
+          "title": "Grace",
+          "text": [
+            "Grace: I once booked flights for an important work trip without double-checking the arrival airport, only to realise, three hours before departure, that it served a city nearly two hundred kilometres from where I actually needed to be. The resulting scramble to rearrange ground transport cost almost as much as the flight itself. I now build a deliberate, slightly obsessive final check into every booking I make, no matter how many times I've already looked at it, because the one time I skip it is apparently the time it will matter."
+          ]
+        },
+        {
+          "id": "E",
+          "title": "Omar",
+          "text": [
+            "Omar: I invested a significant portion of my savings in a single company purely because a colleague seemed confident about it, without doing any research of my own beyond that conversation. When the company's share price fell sharply within weeks, I lost a sum of money that, looking back, I genuinely could not afford to lose. The lesson wasn't really about that particular company at all; it was that borrowing someone else's confidence is never a substitute for understanding a decision yourself."
+          ]
+        },
+        {
+          "id": "F",
+          "title": "Priya",
+          "text": [
+            "Priya: I once attempted an elaborate three-course meal for twelve dinner guests despite never having cooked for more than four people before, confident that a few online recipes would be sufficient preparation. Two of the dishes were disastrous, the timing collapsed entirely, and I spent most of the evening apologising from the kitchen rather than actually enjoying my own party. These days I test any ambitious new recipe on a small, forgiving audience long before I ever attempt it for a crowd, a rule that has saved at least one subsequent dinner party from a similar fate."
+          ]
+        }
+      ],
+      "questions": [
+        {
+          "n": 1,
+          "prompt": "Which person realised that borrowed confidence is not a reliable basis for an important decision?",
+          "answer": "E",
+          "explanation": "Omar concludes that 'borrowing someone else's confidence is never a substitute for understanding a decision yourself'.",
+          "tag": "main-idea"
+        },
+        {
+          "n": 2,
+          "prompt": "Which person's mistake was related to not preparing financially before taking a risk?",
+          "answer": "A",
+          "explanation": "Noah launched his business 'with almost no cash reserve' and now always builds 'an emergency fund' before taking risks.",
+          "tag": "detail"
+        },
+        {
+          "n": 3,
+          "prompt": "Which person now always checks something more than once, even when they feel sure they have already checked it?",
+          "answer": "D",
+          "explanation": "Grace says she now builds 'a deliberate, slightly obsessive final check into every booking... no matter how many times I've already looked at it'.",
+          "tag": "detail"
+        },
+        {
+          "n": 4,
+          "prompt": "Which person discovered that honesty alone was not enough in a difficult conversation?",
+          "answer": "B",
+          "explanation": "Hana realised that 'being right about something and choosing the right moment to say it are two completely different skills'.",
+          "tag": "main-idea"
+        },
+        {
+          "n": 5,
+          "prompt": "Which person misunderstood what effective preparation actually involves?",
+          "answer": "C",
+          "explanation": "Leo 'mistook familiarity for genuine understanding', not realising that testing himself mattered more than rereading notes.",
+          "tag": "inference"
+        },
+        {
+          "n": 6,
+          "prompt": "Which person's mistake became obvious only shortly before an important appointment?",
+          "answer": "D",
+          "explanation": "Grace realised her error 'three hours before departure', just before she needed to travel.",
+          "tag": "detail"
+        },
+        {
+          "n": 7,
+          "prompt": "Which person now tests something on a small scale before attempting it on a much larger scale?",
+          "answer": "F",
+          "explanation": "Priya now tests 'any ambitious new recipe on a small, forgiving audience long before I ever attempt it for a crowd'.",
+          "tag": "detail"
+        },
+        {
+          "n": 8,
+          "prompt": "Which person was embarrassed partly because other people appeared to succeed with less effort?",
+          "answer": "C",
+          "explanation": "Leo was humiliated 'mostly because several friends who'd studied far less than I thought I had passed comfortably'.",
+          "tag": "detail"
+        },
+        {
+          "n": 9,
+          "prompt": "Which person lost something valuable because they skipped doing any independent research?",
+          "answer": "E",
+          "explanation": "Omar invested 'without doing any research of my own' and lost a significant sum as a result.",
+          "tag": "detail"
+        },
+        {
+          "n": 10,
+          "prompt": "Which person's mistake damaged a friendship rather than costing money or affecting their work?",
+          "answer": "B",
+          "explanation": "Hana's comment to her friend meant 'she didn't speak to me for the better part of a year', a cost to the friendship rather than money or work.",
+          "tag": "detail"
+        }
+      ]
+    }
+  ]
+}
